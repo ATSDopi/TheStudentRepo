@@ -4,3 +4,5 @@ theme: jekyll-theme-minimal
 title: Student Offers
 description: Every student discount, credit, freebie and free tool — sorted by category and country.
 show_downloads: false
+plugins:
+  - jekyll-sitemap
