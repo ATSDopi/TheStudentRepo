@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src=".github/social-preview.png" alt="Student Offers — The Ultimate List" width="640">
+
 # 🎓 Student Offers — The Ultimate List
 
 **Every student discount, credit, freebie and free tool — sorted by category and country, with the verification method for each offer.**
@@ -13,6 +15,8 @@
 *AI · Dev · Cloud · Learning · Design · Career · Streaming · Money · Scholarships · By country*
 
 </div>
+
+A community-maintained, international list of everything a student can get for free or cheap: student software discounts, cloud credits, free developer tools, free courses and certificates, scholarships, transport passes, banking perks and more — each entry with its verification method (SheerID, UNiDAYS, Student Beans, GitHub Student Developer Pack, ISIC…). **Contributions welcome.**
 
 ---
 
