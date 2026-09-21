@@ -5,6 +5,7 @@
 **Every student discount, credit, freebie and free tool — sorted by category and country, with the verification method for each offer.**
 
 ![Offers](https://img.shields.io/badge/offers-300%2B-blue)
+![Total value](https://img.shields.io/badge/total%20value-%2425%2C000%2B-red)
 ![Verified](https://img.shields.io/badge/checked-sept.%202026-green)
 ![Scope](https://img.shields.io/badge/scope-international-orange)
 ![Contributions](https://img.shields.io/badge/PRs-welcome-brightgreen)
@@ -129,7 +130,7 @@ Our CI checks all links weekly — dead links get flagged automatically.
 
 <div align="center">
 
-💰 **Estimated cumulative value: several thousand dollars/euros** in software, cloud credits, courses and discounts.
+💰 **Estimated cumulative value: $25,000+** in software, cloud credits, courses, scholarships and discounts — if every offer on this list were claimed.
 
 *Community-maintained list — offers change quickly; always re-check the terms before signing up. Not affiliated with any listed company.*
 
