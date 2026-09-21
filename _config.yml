@@ -1,0 +1,6 @@
+# GitHub Pages config — serves the README as a navigable site.
+# Enable: repo Settings → Pages → Deploy from a branch → main / (root)
+theme: jekyll-theme-minimal
+title: Student Offers
+description: Every student discount, credit, freebie and free tool — sorted by category and country.
+show_downloads: false

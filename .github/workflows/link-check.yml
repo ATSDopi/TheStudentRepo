@@ -1,0 +1,49 @@
+name: Link check
+
+on:
+  schedule:
+    - cron: "0 8 * * 1" # every Monday 08:00 UTC
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - "**/*.md"
+
+permissions:
+  issues: write
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check links
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --verbose
+            --no-progress
+            --accept 200,204,429
+            --timeout 20
+            --retry 2
+            --exclude-loopback
+            './**/*.md'
+          format: markdown
+          output: lychee-report.md
+          fail: false # flip to true once the backlog of flaky links is triaged
+
+      - name: Upload report
+        uses: actions/upload-artifact@v4
+        with:
+          name: lychee-report
+          path: lychee-report.md
+          retention-days: 14
+
+      - name: Create issue on failure (scheduled runs only)
+        if: steps.lychee.outputs.exit_code != 0 && github.event_name == 'schedule'
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: Weekly link check found dead links
+          content-filepath: lychee-report.md
+          labels: links, automated
