@@ -3,6 +3,7 @@
 # 🗺️ Offers by country
 
 > Country sections list **local** perks: transport, banking, government aid, local streaming/retail.
+> The **Verify via** column says how to claim each — `—` means no student status needed.
 > 🚧 = work in progress — **[contributions welcome](../CONTRIBUTING.md)** to expand your country!
 
 ## 🇫🇷 France

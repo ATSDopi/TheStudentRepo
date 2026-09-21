@@ -25,6 +25,17 @@ Rules:
 - **Prefer durations/values over vague text**: "12 months free (~$240)" not "great deal".
 - Mark top value/effort offers with ⭐.
 
+## Student offer vs free resource
+
+Every category page is split in two sections — place your entry correctly:
+
+| Section | For | Required columns |
+|---|---|---|
+| `## 🎓 Student offers` | Requires student verification | Offer · What you get · **Verify via** · Link |
+| `## 🆓 Free for everyone` | No student status needed (free tier or fully free) | Offer · What you get · **Limits** (quota/ads/"Fully free") · Link |
+
+The repo covers **usable resources** as much as gated discounts — a good free tier is as valuable as a student offer. Always state the limits of free tiers.
+
 ## Where an entry goes
 
 | Entry type | File |

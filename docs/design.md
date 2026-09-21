@@ -2,7 +2,7 @@
 
 # 🎨 Design, 3D, gamedev & creative software
 
-## Student offers
+## 🎓 Student offers — verification required
 
 | Offer | What you get | Verify via | Link |
 |---|---|---|---|
@@ -21,19 +21,19 @@
 | **MATLAB Campus-Wide** | Free if your campus has a license, else ~$119/yr | School email | [mathworks.com](https://www.mathworks.com/products/matlab-student.html) |
 | **Maxon One** (Cinema 4D, ZBrush, Redshift) | Near-free student license | SheerID | [maxon.net](https://www.maxon.net/en/buy/plan-pricing-for-students) |
 
-## Free for everyone
+## 🆓 Free for everyone — no student status needed
 
-| Offer | What you get | Link |
-|---|---|---|
-| ⭐ **Affinity (Designer/Photo/Publisher)** | Full suite **free for everyone** (owned by Canva) | [affinity.serif.com](https://affinity.serif.com) |
-| **Unreal Engine** | Free for everyone | [unrealengine.com](https://www.unrealengine.com/students-and-schools) |
-| **Blender** | Full free 3D suite | [blender.org](https://www.blender.org) |
-| **DaVinci Resolve** | Pro video editing, full free version | [blackmagicdesign.com](https://www.blackmagicdesign.com/products/davinciresolve) |
-| **Photopea** | Free online Photoshop-compatible editor | [photopea.com](https://www.photopea.com) |
-| **Canva free tier** | Design tool, generous free plan (⚠️ Canva *Education* is K-12 only) | [canva.com](https://www.canva.com) |
-| **Godot Engine** | Free open-source game engine | [godotengine.org](https://godotengine.org) |
-| **Xcode / Swift Playgrounds** | Free Apple dev tools | [developer.apple.com](https://developer.apple.com) |
-| **Excalidraw / draw.io** | Free diagrams | [excalidraw.com](https://excalidraw.com) · [drawio.com](https://www.drawio.com) |
-| **Krita / GIMP / Inkscape** | Open-source painting, photo & vector editors | see [productivity.md](productivity.md) |
+| Offer | What you get | Limits | Link |
+|---|---|---|---|
+| ⭐ **Affinity (Designer/Photo/Publisher)** | Full suite **free for everyone** (owned by Canva) | Fully free | [affinity.serif.com](https://affinity.serif.com) |
+| **Unreal Engine** | Full game engine | Free; royalties above revenue threshold | [unrealengine.com](https://www.unrealengine.com/students-and-schools) |
+| **Blender** | Full 3D suite | Fully free | [blender.org](https://www.blender.org) |
+| **DaVinci Resolve** | Pro video editing, full free version | Studio features locked | [blackmagicdesign.com](https://www.blackmagicdesign.com/products/davinciresolve) |
+| **Photopea** | Online Photoshop-compatible editor | Free w/ ads | [photopea.com](https://www.photopea.com) |
+| **Canva free tier** | Design tool (⚠️ Canva *Education* is K-12 only) | Free tier limits | [canva.com](https://www.canva.com) |
+| **Godot Engine** | Open-source game engine | Fully free | [godotengine.org](https://godotengine.org) |
+| **Xcode / Swift Playgrounds** | Apple dev tools | Fully free | [developer.apple.com](https://developer.apple.com) |
+| **Excalidraw / draw.io** | Diagrams | Fully free | [excalidraw.com](https://excalidraw.com) · [drawio.com](https://www.drawio.com) |
+| **Krita / GIMP / Inkscape** | Open-source painting, photo & vector editors | Fully free | see [productivity.md](productivity.md) |
 
 > ⚠️ **Canva Education** is for primary/secondary schools only — university students should use Affinity (free) or Figma Education instead.

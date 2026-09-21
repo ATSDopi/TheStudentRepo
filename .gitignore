@@ -3,3 +3,4 @@ Thumbs.db
 *.bak
 _site/
 .jekyll-cache/
+release/

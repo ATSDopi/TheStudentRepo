@@ -4,7 +4,7 @@
 
 Student-verified AI offers plus the best free tiers. "Verify via" tells you how to prove your student status.
 
-## Student offers
+## 🎓 Student offers — verification required
 
 | Offer | What you get | Verify via | Link |
 |---|---|---|---|
@@ -24,18 +24,18 @@ Student-verified AI offers plus the best free tiers. "Verify via" tells you how 
 | **QuillBot Premium** | -25% on annual | SheerID | [quillbot.com/premium/student-discount](https://quillbot.com/premium/student-discount) |
 | **Windsurf** | Student plan when slots open (often closed) | SheerID | [windsurf.com](https://windsurf.com/student-terms-and-conditions) |
 
-## Free tiers — no student status needed
+## 🆓 Free for everyone — no student status needed
 
-| Offer | What you get | Link |
-|---|---|---|
-| **ChatGPT / Claude / Gemini / Le Chat** | Free tiers of the major assistants | [chatgpt.com](https://chatgpt.com) · [claude.ai](https://claude.ai) · [gemini.google.com](https://gemini.google.com) · [chat.mistral.ai](https://chat.mistral.ai) |
-| **NotebookLM** | Google's study assistant — summarize your own course PDFs | [notebooklm.google.com](https://notebooklm.google.com) |
-| **Perplexity** | Free AI search | [perplexity.ai](https://www.perplexity.ai) |
-| **Microsoft Copilot** | Free with a Microsoft account | [copilot.microsoft.com](https://copilot.microsoft.com) |
-| **DeepSeek** | Free chat + open weights | [chat.deepseek.com](https://chat.deepseek.com) |
-| **Hugging Face** | Open-source models & datasets | [huggingface.co](https://huggingface.co) |
-| **Ollama / LM Studio** | Run models locally, free | [ollama.com](https://ollama.com) |
-| **Continue.dev / Void** | Open-source AI autocomplete/IDE (Copilot & Cursor alternatives) | [continue.dev](https://www.continue.dev) · [voideditor.com](https://voideditor.com) |
+| Offer | What you get | Limits | Link |
+|---|---|---|---|
+| **ChatGPT / Claude / Gemini / Le Chat** | Free tiers of the major assistants | Rate-limited free tiers | [chatgpt.com](https://chatgpt.com) · [claude.ai](https://claude.ai) · [gemini.google.com](https://gemini.google.com) · [chat.mistral.ai](https://chat.mistral.ai) |
+| **NotebookLM** | Google's study assistant — summarize your own course PDFs | Free, daily usage limits | [notebooklm.google.com](https://notebooklm.google.com) |
+| **Perplexity** | Free AI search | Limited Pro searches/day | [perplexity.ai](https://www.perplexity.ai) |
+| **Microsoft Copilot** | Free with a Microsoft account | Free tier | [copilot.microsoft.com](https://copilot.microsoft.com) |
+| **DeepSeek** | Free chat + open weights | Fully free | [chat.deepseek.com](https://chat.deepseek.com) |
+| **Hugging Face** | Open-source models & datasets | Free, rate limits | [huggingface.co](https://huggingface.co) |
+| **Ollama / LM Studio** | Run models locally | Fully free | [ollama.com](https://ollama.com) |
+| **Continue.dev / Void** | Open-source AI autocomplete/IDE (Copilot & Cursor alternatives) | Fully free, BYO model/API key | [continue.dev](https://www.continue.dev) · [voideditor.com](https://voideditor.com) |
 
 ## ⚠️ Watch out
 

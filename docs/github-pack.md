@@ -8,6 +8,8 @@
 >
 > Recently removed from the Pack (don't bother looking): DigitalOcean, Mailgun, Postman, Codecademy, Unity, Typeform, One Month.
 
+📌 **Everything on this page requires GitHub Education verification.** A few items are free for everyone anyway: GitHub Desktop, GitHub Pages, Octicons, Imgbot (public repos), VS Code Coding Packs.
+
 ## GitHub tools
 
 | Offer | What you get | Link |

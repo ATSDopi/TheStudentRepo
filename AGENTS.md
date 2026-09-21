@@ -27,8 +27,9 @@ A community-maintained, **international** list of student discounts, credits, fr
 ## Conventions
 
 - Language: **English** (international audience)
-- Every offer = a table row: `| **Name** | What you get | Verify via | [link](...) |`
-- Verification column is **mandatory** — the repo's differentiator
+- Every category page is split in two: `## 🎓 Student offers` (verification required — *Verify via* column mandatory) and `## 🆓 Free for everyone` (no status needed — *Limits* column mandatory: quota, ads, or "Fully free")
+- The repo covers **usable resources**, not just gated discounts — free tiers belong as first-class entries
+- Every offer = a table row: `| **Name** | What you get | Verify via / Limits | [link](...) |`
 - Official links only — never referral/affiliate links
 - ⭐ = best value/effort ratio
 - Legal sources only — no piracy/shadow libraries, ever

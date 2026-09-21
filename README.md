@@ -69,6 +69,13 @@ Almost every offer on this list gates behind one of these verification systems. 
 
 > 🚧 Country sections beyond France are works in progress — **[add yours](CONTRIBUTING.md)**!
 
+### Legend — every category page is split in two
+
+| Badge | Meaning |
+|---|---|
+| 🎓 **Student offers** | Require proof of student status — the *Verify via* column tells you exactly which one |
+| 🆓 **Free for everyone** | Usable by any student with **no verification** — the *Limits* column states quotas/caps (or "Fully free") |
+
 ---
 
 ## ⚠️ Pitfalls & deadlines
