@@ -11,7 +11,7 @@
 ![Verified](https://img.shields.io/badge/checked-sept.%202026-green)
 ![Scope](https://img.shields.io/badge/scope-international-orange)
 ![Contributions](https://img.shields.io/badge/PRs-welcome-brightgreen)
-![Views](https://komarev.com/ghpvc/?username=ATSDopi-TheStudentRepo&label=Views&style=flat&color=0e75b6&base=1396)
+![Views](https://gitviews.com/repo/ATSDopi/TheStudentRepo.svg?base=1396&label=Views&style=flat&color=0e75b6)
 
 *AI · Dev · Cloud · Learning · Design · Career · Streaming · Money · Scholarships · By country*
 
