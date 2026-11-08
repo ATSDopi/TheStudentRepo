@@ -7,6 +7,7 @@
 | Offer | What you get | Verify via | Link |
 |---|---|---|---|
 | ⭐ **Notion Plus Education** | Plus plan free + bonus AI answers | School email / GitHub Pack | [notion.so/students](https://www.notion.so/students) |
+| **Glasp Student** | Free plan for 12 months, renewable while enrolled: highlights on web pages, PDFs and YouTube, AI summaries and chat (limits on the page) | School email | [glasp.co/students](https://glasp.co/students) |
 | **Miro Education** | Whiteboard free 2 yrs | School email | [miro.com/education-whiteboard](https://miro.com/education-whiteboard/) |
 | **Lucidchart / Lucidspark** | Diagrams free | School email | [lucidchart.com](https://www.lucidchart.com/pages/usecase/education/) |
 | **PomoDone** | Lite plan 2 yrs (Pomodoro) | GitHub Pack | [pomodoneapp.com](https://pomodoneapp.com) |
