@@ -27,7 +27,7 @@
 | Diagrams | **Excalidraw** · **draw.io** | Fully free | [excalidraw.com](https://excalidraw.com) · [drawio.com](https://www.drawio.com) |
 | Focus | **Cold Turkey** · Pomodoro timers | Free tier (pro one-time) | [getcoldturkey.com](https://getcoldturkey.com) |
 | Tasks/calendar | **Todoist** · **TickTick** · **Trello** · Google Calendar | Free tiers (task/board limits) | [todoist.com](https://todoist.com) · [trello.com](https://trello.com) |
-| File transfer | **LocalSend** · **PairDrop** (AirDrop alternatives) | Fully free | [localsend.app](https://localsend.app) · [pairdrop.net](https://pairdrop.net) |
+| File transfer | **LocalSend** · **PairDrop** (AirDrop alternatives) | Fully free | [localsend.org](https://localsend.org) · [pairdrop.net](https://pairdrop.net) |
 | Scan | **Microsoft Lens** · phone-native document scan | Fully free | [microsoft.com/lens](https://www.microsoft.com/en-us/microsoft-365/microsoft-lens) |
 | Passwords | **Bitwarden** | Fully free (premium optional) | [bitwarden.com](https://bitwarden.com) |
 | Launcher/search | **Microsoft PowerToys** | Fully free | [github.com/microsoft/PowerToys](https://github.com/microsoft/PowerToys) |

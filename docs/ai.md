@@ -12,11 +12,11 @@ Student-verified AI offers plus the best free tiers. "Verify via" tells you how 
 | ⭐ **Cursor Pro** | **12 months free** (~$240) | SheerID | [cursor.com/students](https://cursor.com/students) |
 | ⭐ **Zed Pro Student** | **12 months free** + $10/mo AI credits (18+) | GitHub + school email | [zed.dev/education](https://zed.dev/education) |
 | ⭐ **Google AI Plus/Pro** | **12 months free** for 18+ students (eligible countries, deadline applies) | SheerID | [gemini.google/students](https://gemini.google/students/) |
-| **Perplexity Pro** | Free months via referrals + education offers | Email / referral | [perplexity.com/education](https://www.perplexity.com/education) |
+| **Perplexity Pro** | **Up to 2 yrs free** via SheerID program (else $10/mo student plan) + Comet browser for students | SheerID | [perplexity.ai/students](https://www.perplexity.ai/students) |
 | **Notion AI** | -50% on the AI add-on (Plus plan already free) | School email | [notion.com](https://www.notion.com/product/notion-for-education) |
 | **ElevenLabs Students** | Extended free plan + ElevenReader Ultra 1 yr + AI Student Pack (~$1,500 value) | SheerID | [elevenlabs.io/students](https://elevenlabs.io/students) |
 | **Udio** | -50% for 6 months | SheerID | [help.udio.com](https://help.udio.com/en/articles/10739207) |
-| **Lovable** | -50% on Pro + $25/mo cloud credits | Student status | [lovable.dev](https://lovable.dev) |
+| **Lovable Pro** | **50% off for 12 mo** ($12.50/mo instead of $25, 100 credits/mo) | School email | [lovable.dev/students](https://lovable.dev/students) |
 | **JetBrains AI Free** | Included with the free student license | School email | [jetbrains.com/ai](https://www.jetbrains.com/ai/) |
 | **Replit** | 50% off Core ($10/mo instead of $20) | School email (.edu) | [replit.com/edu/students](https://replit.com/edu/students) |
 | **Grammarly Pro** | -50% | SheerID | [grammarly.com](https://www.grammarly.com) |

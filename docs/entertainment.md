@@ -11,7 +11,7 @@
 | **YouTube Premium Student** | ~-40% (includes YouTube Music) | SheerID | [youtube.com/premium/student](https://www.youtube.com/premium/student) |
 | **Deezer Student** | ~-50% | SheerID | [deezer.com/offers/student](https://www.deezer.com/offers/student) |
 | **Amazon Prime Student** | Extended trial then ~-50% — **includes Prime Video + Prime Gaming** | SheerID / school email | your local Amazon |
-| **Tidal student** | Student tier in some countries | SheerID | [tidal.com](https://tidal.com) |
+| **Tidal Student** | **$4.99/mo** (-50%+, US college + HS 16+, some regions) | SheerID | [tidal.com/plans/student](https://tidal.com/plans/student) |
 | **Paramount+ student** | ~-25% (US) | SheerID | [paramountplus.com](https://www.paramountplus.com) |
 | **Newspaper student rates** | NYT, WSJ, The Economist, local press — typically -50%+ | SheerID / school email | newspaper sites |
 | **Cinema under-26 fares** | Many chains discount under-26 (see [countries.md](countries.md) for local passes) | ID (age) | your local cinema |
