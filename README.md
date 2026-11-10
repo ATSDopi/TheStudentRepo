@@ -88,7 +88,7 @@ Almost every offer on this list gates behind one of these verification systems. 
 | 📺 **Streaming, media & gaming** | [docs/entertainment.md](docs/entertainment.md) | Spotify/Apple/YT student plans, Headspace -85%, free games, library streaming |
 | 💰 **Money, banking & budgeting** | [docs/money.md](docs/money.md) | No-fee accounts, budgeting apps, tech student stores, travel fares, money traps |
 | 🎓 **Scholarships & grants** | [docs/scholarships.md](docs/scholarships.md) | Erasmus Mundus, Fulbright, DAAD, GKS, Mastercard Foundation + databases |
-| 🗺️ **Offers by country** | [docs/countries.md](docs/countries.md) | 62 country sections (~65 countries) + EU — transport, banking, gov aid, local perks |
+| 🗺️ **Offers by country** | [docs/countries.md](docs/countries.md) | 72 country sections (~75 countries) + EU + flight fares — transport, banking, gov aid, local perks |
 
 > 🚧 Country sections beyond France are works in progress — **[add yours](CONTRIBUTING.md)**!
 

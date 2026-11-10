@@ -1210,6 +1210,77 @@
 
 </details>
 
+## 🇦🇱 Albania
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| **Student transit fares** | ~-40% Tirana bus fares | Student card | transit |
+| **State scholarships** | Merit/need-based government support | Application | [arsimi.gov.al](https://arsimi.gov.al) |
+| **Student banking** | Free accounts (BKT, Raiffeisen…) | Student proof | bank sites |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇲🇰 North Macedonia
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| **Student transit fares** | Subsidized Skopje bus student cards | Student ID | [jsp.com.mk](https://www.jsp.com.mk) |
+| **Student meals (menza)** | Subsidized university canteens | Student card | your university |
+| **Ministry scholarships** | Merit/need-based support | Application | [mon.gov.mk](https://mon.gov.mk) |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇧🇦 Bosnia & Herzegovina
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| **Student transit fares** | Subsidized city transport student cards | Student ID | transit |
+| **Student meals & dorms** | Subsidized canteens + hostels | Student card | your university |
+| **Entity/canton scholarships** | Merit & social scholarships | Application | canton education ministry |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇵🇰 Pakistan
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **HEC scholarships** | HEC need-based & merit scholarships (incl. undergrad) | Application | [hec.gov.pk](https://www.hec.gov.pk) |
+| **Ehsaas/PEEF programs** | Provincial need-based scholarships | Application | provincial edu boards |
+| **Student transit fares** | Discounted metro/bus student cards (Lahore, Islamabad) | Student card | transit |
+| **Student banking** | Free accounts (HBL, Meezan…) | Student proof | bank sites |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇹🇿 Tanzania
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **HESLB loans** | Higher Education Students' Loans Board (tuition + upkeep) | Application | [heslb.go.tz](https://www.heslb.go.tz) |
+| **Student transit fares** | Discounted DART/UDART fares | Student card | transit |
+| **University hostels** | Subsidized campus housing | University application | your university |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
 ## ✈️ Student flight fares — international
 
 <details>
