@@ -8,7 +8,7 @@
 
 ![Offers](https://img.shields.io/badge/offers-300%2B-blue)
 ![Total value](https://img.shields.io/badge/total%20value-%2425%2C000%2B-red)
-![Verified](https://img.shields.io/badge/checked-sept.%202026-green)
+![Verified](https://img.shields.io/badge/checked-nov.%202026-green)
 ![Scope](https://img.shields.io/badge/scope-international-orange)
 ![Contributions](https://img.shields.io/badge/PRs-welcome-brightgreen)
 ![Views](https://gitviews.com/repo/ATSDopi/TheStudentRepo.svg?base=1396&label=Views&style=flat&color=0e75b6)
@@ -98,6 +98,7 @@ Almost every offer on this list gates behind one of these verification systems. 
 | AWS Educate | **No longer gives cloud credits** → use AWS Student Rewards instead |
 | DigitalOcean | Offer **expired** (left the Pack mid-2026) → use Azure/Oracle instead |
 | Postman Student Program | **Discontinued** — only the free plan remains |
+| Suno Student | **Gone** — students.suno.com no longer exists and suno.com/pricing has no student plan |
 | 🇫🇷 €1 CROUS meals | Requires a **student card + active Izly account**, 1 meal per service |
 | 🇫🇷 Pass Culture | No new credit after 18; existing balance usable until 21 |
 | "Free lifetime Copilot", unofficial discount sites | **Scams** — never enter payment info outside official stores |
