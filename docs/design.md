@@ -21,7 +21,7 @@
 | **MATLAB Campus-Wide** | Free if your campus has a license, else ~$119/yr | School email | [mathworks.com](https://www.mathworks.com/products/matlab-student.html) |
 | **Maxon One** (Cinema 4D, ZBrush, Redshift) | Near-free student license | SheerID | [maxon.net](https://www.maxon.net/en/buy/plan-pricing-for-students) |
 | ⭐ **Onshape Student** | Full cloud CAD free (~$1,500/yr value), any email | Education status | [onshape.com/education](https://www.onshape.com/en/education/) |
-| **PTC Creo Student** | Free student edition | Registration | [ptc.com](https://www.ptc.com/en/academic-program/academic-products-free-software) |
+| **PTC Creo Student** | Free student edition | Registration | [ptc.com](https://www.ptc.com/en/academic-program) |
 | **Altium Designer** | Free student license (PCB design) | School email | [altium.com](https://www.altium.com/education/student-licenses) |
 | **OriginLab OriginPro** | Free 6-month license (renewable) | School email | [originlab.com](https://www.originlab.com/index.aspx?go=PRODUCTS/OriginPro) |
 | **ArcGIS for Student Use** | Full Esri suite ~$100/yr (often free via university) | School email | [esri.com](https://www.esri.com/en-us/industries/education/overview) |

@@ -73,7 +73,7 @@ Almost every offer on this list gates behind one of these verification systems. 
 | 📺 **Streaming, media & gaming** | [docs/entertainment.md](docs/entertainment.md) | Spotify/Apple/YT student plans, Headspace -85%, free games, library streaming |
 | 💰 **Money, banking & budgeting** | [docs/money.md](docs/money.md) | No-fee accounts, budgeting apps, tech student stores, travel fares, money traps |
 | 🎓 **Scholarships & grants** | [docs/scholarships.md](docs/scholarships.md) | Erasmus Mundus, Fulbright, DAAD, GKS, Mastercard Foundation + databases |
-| 🗺️ **Offers by country** | [docs/countries.md](docs/countries.md) | 🇫🇷 🇺🇸 🇬🇧 🇩🇪 🇨🇦 🇪🇺 — transport, banking, gov aid, local perks |
+| 🗺️ **Offers by country** | [docs/countries.md](docs/countries.md) | 26 countries + EU/Nordics — transport, banking, gov aid, local perks |
 
 > 🚧 Country sections beyond France are works in progress — **[add yours](CONTRIBUTING.md)**!
 
@@ -97,6 +97,8 @@ Almost every offer on this list gates behind one of these verification systems. 
 | Cursor Pro | Falls back to ~$20/mo after the free year → cancel if you're not continuing |
 | ChatGPT student promos | Some are **US-university only** — check eligibility first |
 | Canva Education | Reserved for **primary/secondary** schools → use Affinity (free) or Figma |
+| Tableau for Students | Now gives **Tableau Public Edition**, not a renewable license → save/publish accordingly |
+| Udemy | Permanent "sales" — never pay more than ~$15 for a course |
 | AWS Educate | **No longer gives cloud credits** → use AWS Student Rewards instead |
 | DigitalOcean | Offer **expired** (left the Pack mid-2026) → use Azure/Oracle instead |
 | Postman Student Program | **Discontinued** — only the free plan remains |

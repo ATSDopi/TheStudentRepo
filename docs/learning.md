@@ -12,6 +12,7 @@
 | **MongoDB certification** | Free cert exam ($150 value) | GitHub Pack | [mongodb.com/students](https://www.mongodb.com/students) |
 | **GitHub Foundations cert** | Free cert exam (~$99 value) | GitHub Pack | [education.github.com](https://education.github.com) |
 | **SOLIDWORKS CSWA/CSWP** | Free certification exams | School email | [solidworks.com](https://www.solidworks.com/product/students) |
+| **Research software student pricing** | Stata, NVivo, MAXQDA, ATLAS.ti, GraphPad Prism — ~50% student licenses | Student status | vendor sites |
 
 ## 🆓 Free for everyone — learning platforms
 
