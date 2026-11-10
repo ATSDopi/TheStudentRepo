@@ -15,10 +15,12 @@
 | ⭐ **OnTheHub** | Your school's software portal — free/cheap SPSS, Minitab, Windows, VMware… | School account | [onthehub.com](https://onthehub.com) |
 | ⭐ **Apple Education Store** | ~5-10% off Mac/iPad + summer back-to-school promos | School email / UNiDAYS | [apple.com/us-edu/store](https://www.apple.com/us-edu/store) |
 | **Samsung Education Store** | Up to ~20-30% off (varies by country) | Student email / UNiDAYS | [samsung.com](https://www.samsung.com) — search "Education Store" |
-| **Microsoft / Dell / Lenovo / HP student** | Extra ~5-10% off laptops & accessories | School email / UNiDAYS | brand edu stores |
+| **Microsoft / Dell / Lenovo / HP student** | Dell ~-10% (SheerID, 16+) · Lenovo +5% (ID.me) · HP up to -40% · MS ~-10% | School email / UNiDAYS / SheerID | brand edu stores |
 | **Logitech student** | ~25% off | UNiDAYS | [logitech.com](https://www.logitech.com) |
 | **B&H EDU Advantage** | Free program: discounts on camera/AV gear | School email | [bhphotovideo.com](https://www.bhphotovideo.com/find/eduAdvantage.jsp) |
 | **Retail & fashion** | Nike, Adidas, ASOS, Gymshark… 10-20% student discounts | UNiDAYS / Student Beans | verify platforms |
+| **Parallels Desktop** | -50% for students (Windows on Mac) | School email | [parallels.com/plans/education](https://www.parallels.com/plans/education/) |
+| **Setapp** | -20% on Mac+iOS annual plan (270+ apps) | School email | [setapp.com/education](https://setapp.com/education) |
 | **Airline student fares** | Emirates, Qatar Student Club, Turkish Airlines — discounts + extra baggage | Student status | airline "student" pages |
 | **Eurail/Interrail youth** | Under-28 youth passes (~-25%) | Age (ID) | [eurail.com](https://www.eurail.com) · [interrail.eu](https://www.interrail.eu) |
 

@@ -23,6 +23,7 @@
 | **Kaggle competitions** | Ranked ML competitions — medals & prize money | Free account | [kaggle.com/competitions](https://www.kaggle.com/competitions) |
 | **Paid summer research abroad** | CERN Summer Student, EPFL/ETH/ISTA fellowships, MITACS Globalink (Canada), DAAD RISE (Germany) — travel + stipend | Application | program sites |
 | **ACM / IEEE student membership** | ~$19-32/yr → full digital library + network | Student status | [acm.org](https://www.acm.org) · [ieee.org](https://www.ieee.org) |
+| **LeetCode Premium (school campaign)** | ~$99/yr (-38%) when 50 students at your school pledge — annual Back-to-School campaign | .edu email + school threshold | [leetcode.com/student](https://leetcode.com/student/) |
 
 ## 🆓 Free for everyone — CV & resume
 
@@ -46,6 +47,8 @@
 | **System Design Primer** | The reference free system-design repo | Fully free | [github.com/donnemartin](https://github.com/donnemartin/system-design-primer) |
 | **HackerRank / CodeSignal** | Practice — also used for real company assessments | Free tier | [hackerrank.com](https://www.hackerrank.com) |
 | **Peer mock interviews** | Free mock interviews (Exponent community, Discord servers) | Varies | search "free mock interview" |
+| ⭐ **Forage job simulations** | Free virtual work experience from real companies (JPMorgan, Goldman, BCG, Latham…) — certificate for resume | Fully free | [theforage.com](https://www.theforage.com) |
+| **Google Interview Warmup** | AI practice questions + answer analysis | Fully free | [grow.google/interview-warmup](https://grow.google/certificates/interview-warmup/) |
 | **levels.fyi** | Real salary data — negotiate informed | Fully free | [levels.fyi](https://www.levels.fyi) |
 | **Glassdoor** | Interview reviews & salaries | Free w/ account | [glassdoor.com](https://www.glassdoor.com) |
 
@@ -55,6 +58,8 @@
 |---|---|---|
 | **LinkedIn** | Global | [linkedin.com](https://www.linkedin.com) |
 | **Handshake** | US universities (employers targeting students) | [joinhandshake.com](https://joinhandshake.com) |
+| **Simplify.jobs** | Internships & new-grad roles + one-click autofills | [simplify.jobs](https://simplify.jobs) |
+| **Parker Dewey** | Paid micro-internships (short real projects) | [parkerdewey.com](https://www.parkerdewey.com) |
 | **JobTeaser** | European schools | [jobteaser.com](https://www.jobteaser.com) |
 | **Wellfound** | Startups | [wellfound.com](https://wellfound.com) |
 | **Y Combinator Work at a Startup** | YC startups | [workatastartup.com](https://www.workatastartup.com) |

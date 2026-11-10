@@ -34,6 +34,7 @@ Student-verified AI offers plus the best free tiers. "Verify via" tells you how 
 | **DeepSeek** | Free chat + open weights | Fully free | [chat.deepseek.com](https://chat.deepseek.com) |
 | **Hugging Face** | Open-source models & datasets | Free, rate limits | [huggingface.co](https://huggingface.co) |
 | **Ollama / LM Studio** | Run models locally | Fully free | [ollama.com](https://ollama.com) |
+| **Google Colab** | Free GPU notebooks (T4) for Python/ML | Limited sessions + compute quotas | [colab.research.google.com](https://colab.research.google.com) |
 | **Continue.dev / Void** | Open-source AI autocomplete/IDE (Copilot & Cursor alternatives) | Fully free, BYO model/API key | [continue.dev](https://www.continue.dev) · [voideditor.com](https://voideditor.com) |
 
 ## ⚠️ Watch out

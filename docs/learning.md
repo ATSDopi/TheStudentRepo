@@ -13,6 +13,13 @@
 | **GitHub Foundations cert** | Free cert exam (~$99 value) | GitHub Pack | [education.github.com](https://education.github.com) |
 | **SOLIDWORKS CSWA/CSWP** | Free certification exams | School email | [solidworks.com](https://www.solidworks.com/product/students) |
 | **Research software student pricing** | Stata, NVivo, MAXQDA, ATLAS.ti, GraphPad Prism — ~50% student licenses | Student status | vendor sites |
+| **JMP Student Edition** | **Free** statistical software (JMP Pro-based, 12-mo renewable) | Academic email | [jmp.com/student](https://www.jmp.com/en/academic/jmp-student-edition) |
+| **Perlego** | -25% ×4 months on the e-textbook subscription | UNiDAYS | [perlego.com](https://www.perlego.com) |
+| **MasterClass** | ~-15% on annual plans | Student Beans | [masterclass.com](https://www.masterclass.com) |
+| **Codecademy Pro Student** | ~35%+ off interactive coding courses | Student status | [codecademy.com/student-center](https://www.codecademy.com/student-center) |
+| **DataCamp Premium Student** | **-50%/yr** (~$164) or -30%/mo — 810+ data/AI courses | Student status | [datacamp.com/pricing/student](https://www.datacamp.com/pricing/student) |
+| **Financial Times student** | 16-19: **free** via FT Schools · uni students: **-50%** Standard Digital | School registration / student status | [ft.com](https://subs.ft.com/spa3_stu) |
+| **Mathematica Student Edition** | Full Mathematica at a fraction of pro price (also free via many unis) | Enrollment proof | [wolfram.com/student](https://www.wolfram.com/mathematica-student-edition/) |
 
 ## 🆓 Free for everyone — learning platforms
 

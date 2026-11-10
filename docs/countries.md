@@ -113,12 +113,18 @@
 | ⭐ **FAFSA** | Pell Grant up to ~$7,395/yr (free money!), work-study, subsidized loans | FAFSA application | [studentaid.gov](https://studentaid.gov) |
 | ⭐ **American Opportunity Tax Credit** | Up to **$2,500/yr** tax credit for students/parents | Tax return | [irs.gov](https://www.irs.gov/publications/p970) |
 | **IRS Free File** | File federal taxes free (income < ~$84k) | — | [irs.gov/filing/irs-free-file](https://www.irs.gov/filing/irs-free-file-do-your-taxes-for-free) |
+| **VITA free tax prep** | Free in-person tax filing at campuses/community sites (income < ~$69k) | IRS site locator | [irs.gov/vita](https://www.irs.gov/individuals/free-tax-return-preparation-for-qualifying-taxpayers) |
+| **AmeriCorps Segal Award** | ~$7,400 education award after a service term | Service enrollment | [americorps.gov](https://americorps.gov) |
+| **SAT/ACT/AP fee waivers** | Free test registrations + free score sends (low-income) | Counselor / College Board | [collegeboard.org](https://www.collegeboard.org) |
 | **SNAP for students** | Food stamps — students can qualify (income limits, work-study, 20h work…) | Application | [fns.usda.gov/snap](https://www.fns.usda.gov/snap/students) |
 | **Lifeline** | $9.25/mo off phone/internet — Pell Grant recipients eligible | Program eligibility | [lifelinesupport.org](https://www.lifelinesupport.org) |
 | **Student checking** | Chase College Checking (~$100 bonus, no fee), BofA Advantage (fee waived <25), Wells Fargo | Proof of enrollment | bank sites |
 | **Discover it Student Cash Back** | Student card: no fee, cashback + $20/yr good-grade reward | Student status | [discover.com](https://www.discover.com) |
+| **Capital One student cards** | Savor/Quicksilver for Students — $0 fee, 1.5-3% cash back, $50 bonus | Enrollment | [capitalone.com/credit-cards/students](https://www.capitalone.com/credit-cards/students/) |
 | **State grants** | Every state has its own aid programs on top of FAFSA | State application | state aid sites |
 | **University emergency aid** | Hardship/emergency funds on most campuses — under-claimed | Student office | your institution |
+| **Job Corps** | Free vocational training + housing/meals for ages 16-24 (income-tested) | Application | [jobcorps.gov](https://www.jobcorps.gov) |
+| **Year Up** | Paid training + corporate internship for young adults (select cities) | Application | [yearup.org](https://www.yearup.org) |
 | **ID.me** | US verification platform — unlocks student deals at Best Buy, Lenovo… | .edu email | [id.me](https://www.id.me) |
 
 </details>
@@ -137,6 +143,7 @@
 | **AT&T Signature Program** | Discounted plans via .edu verification | .edu email | [att.com](https://www.att.com) |
 | **Xfinity student** | Campus/student internet deals | Student status | [xfinity.com](https://www.xfinity.com) |
 | **Back-to-school retail promos** | Apple gift-card promo, Best Buy events… (Jul-Sep) | Edu store | brand sites |
+| **Sportswear student discounts** | adidas ~-30%, Nike ~-10%, Under Armour, Gymshark… | UNiDAYS / Student Beans | brand sites |
 
 </details>
 
@@ -151,19 +158,25 @@
 | **Hulu + Disney+ Student** | $6.49/mo bundle (-50%) | SheerID | [hulu.com/student](https://www.hulu.com/student) |
 | **Peacock Student** | ~$5.99-6.99/mo for 12 mo (+ 18-24 "young adult" deal for non-students) | SheerID | [peacocktv.com/student](https://www.peacocktv.com/student) |
 | **Paramount+ student** | ~-25% | SheerID | [paramountplus.com](https://www.paramountplus.com) |
+| **Crunchyroll Student** | -25% on Mega/Ultimate Fan (US/UK/CA + select countries) | Student Beans | [crunchyroll.com](https://www.crunchyroll.com) |
 | **Tidal Student** | $4.99/mo (50%+) | SheerID | [tidal.com/plans/student](https://tidal.com/plans/student) |
+| **SiriusXM Student** | $1 first 3 mo then $4/mo streaming | SheerID | [siriusxm.com/offers/student](https://www.siriusxm.com/offers/student) |
+| **Pandora Premium Student** | ~$4.99/mo (-50%) | SheerID | [pandora.com/student](https://www.pandora.com/payment/premium/student) |
 | **YouTube Premium Student** | ~$7.99/mo (with YouTube Music) | SheerID | [youtube.com/premium/student](https://www.youtube.com/premium/student) |
 | ⭐ **Headspace Student** | **$9.99/yr** (-85%) | SheerID | [headspace.com/studentplan](https://www.headspace.com/studentplan) |
 | **Audible student** | Student membership + rotating promos | Student status | [audible.com](https://www.audible.com/ep/student-membership) |
 | **NYT / WSJ / Economist student** | ~$1-5/mo digital subscriptions | SheerID / school email | newspaper sites |
-| **Uber One student** | ~-50% (delivery + ride perks) | SheerID | [uber.com](https://www.uber.com) |
-| **DoorDash DashPass student** | ~-50% on DashPass | Student status | [doordash.com](https://www.doordash.com) |
-| **Grubhub+ student** | Free via Prime Student or partner campuses | Prime Student / campus | [grubhub.com](https://www.grubhub.com) |
+| **Uber One student** | $4.99/mo or $48/yr (~-50%) — $0 delivery fee + ride perks | SheerID (18+, yearly re-verify) | [uber.com/uber-one/student](https://www.uber.com/uber-one/student/) |
+| **DoorDash DashPass student** | $4.99/mo or $48/yr (~-50%) — $0 delivery fees (US/CA/AU/NZ) | SheerID in-app | [doordash.com](https://www.doordash.com) |
+| **Grubhub+ student** | **Free through graduation** at partner campuses — or via Prime Student | Campus card / Prime Student | [grubhub.com/campus](https://www.grubhub.com/about/campus) |
+| **Meal-kit student deals** | HelloFresh (~55% off + 15% ongoing), EveryPlate (~75% off first box) | UNiDAYS / Student Beans | brand sites |
 | **Planet Fitness Summer Pass** | High schoolers 14-19 train free all summer | Age + signup (summer program) | [planetfitness.com](https://www.planetfitness.com) |
 | **Student rush tickets** | Broadway/off-Broadway/orchestra cheap same-day seats | Student ID | venue box offices |
 | **Met Museum pay-what-you-wish** | NY/NJ/CT students pay any amount | Student ID + residency | [metmuseum.org](https://www.metmuseum.org) |
 | **Museums on Us (BofA)** | Free museum entry first weekends for BofA cardholders | BofA card | [museums.bankofamerica.com](https://museums.bankofamerica.com) |
 | **Epic/Ikon college passes** | Discounted ski season passes for college students | Student status | resort sites |
+| **NBA League Pass student** | **-40%** monthly plan for 12 months | UNiDAYS | [nba.com](https://support.watch.nba.com/hc/en-us/articles/9382586457623-NBA-League-Pass-Student-Discount) |
+| **MLB.TV student** | ~-35% on the season package | Student verification | [mlb.com](https://www.mlb.com) |
 
 </details>
 
@@ -172,9 +185,10 @@
 
 | Offer | What you get | Verify via | Link |
 |---|---|---|---|
-| **Amtrak student** | ~15% off on select corridors (Midwest, CA…) | Student status | [amtrak.com](https://www.amtrak.com) |
+| **Amtrak student** | **-15%** national (ages 17-24, book 1+ day ahead, code V814) | Student ID | [amtrak.com/student-discounts](https://www.amtrak.com/student-discounts) |
 | ⭐ **StudentUniverse** | Discounted flights/hotels/tours | .edu email | [studentuniverse.com](https://www.studentuniverse.com) |
 | **Greyhound/Peter Pan student** | ~10% off bus fares | Student status | bus sites |
+| **Trailways** | ~-15% fares with college ID | Student ID at booking | [trailways.com](https://www.trailways.com) |
 | **Campus transit pass** | Many unis bundle free/discounted local transit with tuition | Enrollment | your university |
 | **Campus bike share** | Student rates on city bikes/scooters near most campuses | .edu email | local operators |
 | **Airline student fares** | Emirates, Qatar Student Club, Turkish — discounts + baggage | Student status | see [money.md](money.md) |
@@ -205,6 +219,7 @@
 | ⭐ **Co-op Food student** | **10% off** groceries | TOTUM / UNiDAYS | [coop.co.uk](https://www.coop.co.uk) |
 | **High street student discounts** | Boots, Apple, JD, ASOS… 10-20% | UNiDAYS / Student Beans / TOTUM | platforms |
 | **Turing Scheme** | UK funding for study/placements abroad | Via your institution | [turing-scheme.org.uk](https://turing-scheme.org.uk) |
+| **Multiverse apprenticeships** | Paid degree apprenticeships at Google, Meta, banks… (earn while studying) | Application | [multiverse.io](https://www.multiverse.io) |
 | **Student Art Pass** | ~£10/yr → free/discounted entry to 250+ museums | Student status | [studentartpass.org](https://www.studentartpass.org) |
 | **Cinema & food deals** | Odeon/Cineworld student fares, Greggs/other app student deals | TOTUM / ID | venues |
 
@@ -606,6 +621,516 @@
 
 </details>
 
+## 🇸🇰 Slovakia
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Free rail for students** | **Free ZSSK train travel** for students under-26 (registered) | Student ID + registration | [slovakrail.sk](https://www.slovakrail.sk) |
+| **City transit student fares** | ~-50% on Bratislava/other city transport | Student ID | local transit |
+| **Student dormitories** | Subsidized housing | University application | your university |
+| **Student bank accounts** | Free accounts (SLSP, VÚB…) | Student status | bank sites |
+| **ISIC** | Big discount network in SK | Enrollment | [isic.sk](https://www.isic.sk) |
+
+</details>
+
+## 🇭🇷 Croatia
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Studentska prehrana** | Heavily subsidized student meals (~€1) | Student card (iKSICA) | your university |
+| **Student transit fares** | Discounted city passes (ZET Zagreb…) | Student status | local transit |
+| **eStudent/ISIC** | Discount network | Enrollment | [isic.hr](https://www.isic.hr) |
+| **Student dormitories** | Subsidized studentski dom housing | University application | your university |
+| **Student bank accounts** | Free accounts (ZABA, PBZ…) | Student status | bank sites |
+
+</details>
+
+## 🇷🇴 Romania
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **-50% transport (legal)** | Half-price metro/rail for students | Student ID | transit |
+| **Free museum days** | National museums free for students on select days | Student ID | venues |
+| **Student dormitories** | Subsidized cămin housing | University application | your university |
+| **Student banking** | Free accounts (BCR, BT…) | Student status | bank sites |
+| **ISIC** | Discount network | Enrollment | [isic.ro](https://www.isic.ro) |
+
+</details>
+
+## 🇬🇷 Greece
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Free museums/archaeological sites** | State museums & sites free for EU students (Acropolis, Delphi…) | Student ID (EU) | museum sites |
+| **Student transit fares** | ~-25-50% on Athens/Thessaloniki transport | Student card (paşo) | local transit |
+| **University meals** | Free/subsidized meals at university canteens (income-tested) | Student card | your university |
+| **Student banking** | Free accounts | Student status | bank sites |
+| **ISIC** | Discount network | Enrollment | [isic.gr](https://www.isic.gr) |
+
+</details>
+
+## 🇵🇭 Philippines
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **20% transport discount (law)** | Statutory student fare discount on jeepneys, buses, rail, ferries | School ID | transport |
+| **Student fare on LRT/MRT** | Discounted Manila rail fares | Student ID | transit |
+| **UniFAST / TES aid** | Tertiary Education Subsidy + free SUC tuition | Application | [unifast.gov.ph](https://unifast.gov.ph) |
+| **Free public universities** | No tuition at state universities (RA 10931) | Enrollment | universities |
+| **Student banking** | Low-cost accounts (BPI, BDO…) | Student proof | bank sites |
+
+</details>
+
+## 🇲🇾 Malaysia
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Student concession card** | **-50%** on Rapid KL, KTM, MRT transit | Student status | [myrapid.com.my](https://myrapid.com.my) |
+| **PTPTN** | National study loans | Application | [ptptn.gov.my](https://www.ptptn.gov.my) |
+| **Student banking** | Free accounts (Maybank, CIMB…) | Student proof | bank sites |
+| **Spotify / Apple Music student** | ~50% off | SheerID / UNiDAYS | streaming sites |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇿🇦 South Africa
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **NSFAS** | Full funding (tuition + living) for qualifying students | Application | [nsfas.org.za](https://www.nsfas.org.za) |
+| **Student banking** | Free accounts (FNB, Capitec, Standard Bank…) | Proof of enrollment | bank sites |
+| **Student transit discounts** | Discounted fares on metros/buses | Student card | local transit |
+| **Spotify / Apple Music student** | ~50% off | SheerID / UNiDAYS | streaming sites |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.co.za](https://www.isic.co.za) |
+
+</details>
+
+## 🇦🇷 Argentina
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Free public universities** | UBA, UNC, UNLP — **zero tuition**, even for foreigners | Enrollment | universities |
+| **SUBE student fares** | Discounted transit for students (select provinces) | Student credential | transit |
+| **Becas (Progresar…)** | National scholarships (income-tested) | Application | [argentina.gob.ar](https://www.argentina.gob.ar) |
+| **University canteens** | Subsidized comedores | Student card | your university |
+| **Spotify / Apple Music student** | ~50% off | SheerID / UNiDAYS | streaming sites |
+
+</details>
+
+## 🇨🇱 Chile
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **TNE (Tarjeta Nacional Estudiantil)** | Heavily discounted metro/bus fares for students | School enrollment | [tarjetanacionalestudiantil.cl](https://www.tarjetanacionalestudiantil.cl) |
+| **Pase Escolar** | Free/very cheap transit for low-income students | Socioeconomic criteria | junaeb.cl |
+| **Student banking** | Free accounts (BancoEstado, Santander…) | Student proof | bank sites |
+| **Gratuidad** | Free tuition at participating universities (income-tested) | Application | [gratuidad.cl](https://www.gratuidad.cl) |
+| **Spotify / Apple Music student** | ~50% off | SheerID / UNiDAYS | streaming sites |
+
+</details>
+
+## 🇭🇰 Hong Kong
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **MTR Student Travel Scheme** | **~50% off MTR fares** with a student-status Octopus | Student ID (12-25, full-time) | [mtr.com.hk](https://www.mtr.com.hk) |
+| **Student Octopus discounts** | Half-price on most buses, ferries, trams | Student Octopus | transit |
+| **Student banking** | Free accounts (HSBC, BOC…) | Student proof | bank sites |
+| **Public libraries / museums** | Free or discounted entry | Student card | venues |
+| **Spotify / Apple Music student** | ~50% off | SheerID / UNiDAYS | streaming sites |
+
+</details>
+
+## 🇸🇮 Slovenia
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Študentski boni (student meals)** | **Subsidized meals (~€2-4)** at hundreds of restaurants | Student status via študentska prehrana app | [studentska-prehrana.si](https://www.studentska-prehrana.si) |
+| **Student transit fares** | Discounted Ljubljana bus + rail fares | Student ID | transit |
+| **Student dormitories** | Subsidized študentski dom housing | University application | your university |
+| **Student banking** | Free accounts (NLB, Nova KBM…) | Student status | bank sites |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇱🇺 Luxembourg
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Free public transport** | **ALL** trains, buses, tram free nationwide (2nd class) — no status needed | — | [mobiliteit.lu](https://www.mobiliteit.lu) |
+| **Student loans/aid (MengStudien)** | State financial aid for students (incl. study abroad) | Application | [mesr.lu](https://mesr.gouvernement.lu) |
+| **University of Luxembourg** | Very low tuition (~€200-400/semester) | Enrollment | [uni.lu](https://www.uni.lu) |
+| **Youth card discounts** | Culture/cinema deals under 26 | Age | venues |
+| **Student banking** | Free accounts (BCEE, BGL…) | Student status | bank sites |
+
+</details>
+
+## 🇪🇪 Estonia
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Free Tallinn public transport** | Free buses/trams/trolley for registered residents | Residency registration | [tallinn.ee](https://www.tallinn.ee) |
+| **Student rail/bus fares** | ISIC card → discounted intercity travel | ISIC/student ID | [isic.ee](https://isic.ee) |
+| **Student banking** | Free accounts (SEB, Swedbank…) | Student status | bank sites |
+| **Free tuition Estonian-taught** | Many public-university programs free (Estonian medium) | Admission | universities |
+| **Eesti student card** | National student credential for discounts | Enrollment | student card |
+
+</details>
+
+## 🇮🇩 Indonesia
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **KIP Kuliah** | Full tuition + living stipend at public universities (income-tested) | Application | [kip-kuliah.kemdikbud.go.id](https://kip-kuliah.kemdikbud.go.id) |
+| **KRL Commuter cheap fares** | Very cheap Jakarta commuter rail | Transit card | [commuterline.id](https://commuterline.id) |
+| **Student banking** | Free/low-fee accounts (BCA, Mandiri…) | Student proof | bank sites |
+| **University canteens** | Subsidized campus meals | Student card | your university |
+| **Spotify / Apple Music student** | ~50% off | SheerID / UNiDAYS | streaming sites |
+
+</details>
+
+## 🇦🇪 United Arab Emirates
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Nol Student Card (Dubai)** | **-50%** on metro, tram, bus, water bus | Student ID + application | [rta.ae](https://www.rta.ae) |
+| **Hafilat student (Abu Dhabi)** | Discounted bus fares | Student card | [hafilat.darb.ae](https://hafilat.darb.ae) |
+| **Student banking** | Free/low-fee accounts (ENBD, FAB…) | Student proof | bank sites |
+| **Etisalat/du student plans** | Discounted mobile plans for students | Student ID | carrier sites |
+| **Spotify / Apple Music student** | ~50% off | SheerID / UNiDAYS | streaming sites |
+
+</details>
+
+## 🇹🇼 Taiwan
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **MRT student fares (EasyCard)** | Discounted Taipei/Kaohsiung metro rides | Student EasyCard | transit |
+| **HSR student discount** | ~-25% off-peak high-speed rail tickets | Student ID | [thsrc.com.tw](https://www.thsrc.com.tw) |
+| **Student banking** | Free accounts (postal, CTBC…) | Student proof | bank sites |
+| **NHI for students** | Affordable national health insurance via school | Enrollment | [nhi.gov.tw](https://www.nhi.gov.tw) |
+| **Spotify / Apple Music student** | ~50% off | SheerID / UNiDAYS | streaming sites |
+
+</details>
+
+## 🇮🇱 Israel
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Rav Kav student profile** | **-50%** on bus & train fares nationwide | Student status | [ravkavonline.co.il](https://ravkavonline.co.il) |
+| **Student dorms** | Subsidized university housing | University application | your university |
+| **Student banking** | Discounted accounts (Leumi, Hapoalim…) | Student proof | bank sites |
+| **National student union deals** | Cinema, events & service discounts | Student card | [nus.co.il](https://www.nus.co.il) |
+| **Spotify / Apple Music student** | ~50% off | SheerID / UNiDAYS | streaming sites |
+
+</details>
+
+## 🇺🇦 Ukraine
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **-50% transit fares** | Half-price municipal transport for students | Student ID (студентський квиток) | transit |
+| **Discounted rail** | ~-25-50% on Ukrzaliznytsia tickets (certain periods/classes) | Student ID | [uz.ua](https://www.uz.ua) |
+| **Student dorms** | Very cheap university housing | University application | your university |
+| **Student banking** | Free accounts (PrivatBank, monobank…) | Student status | bank sites |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇮🇸 Iceland
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Free public universities** | **No tuition** at UI, Reykjavík, Akureyri — just ~€500/yr registration | Enrollment | [hi.is](https://www.hi.is) |
+| **LÍN student loans** | State student loans + grants | Application | [menntamalaraduneyti.is](https://menntamalaraduneyti.is) |
+| **Student discounts** | Local deals via student card | Student ID | venues |
+| **Student banking** | Free accounts (Arion, Íslandsbanki…) | Student status | bank sites |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇲🇹 Malta
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Free tuition (University of Malta)** | **No tuition** for EU/Maltese undergrads | Enrollment | [um.edu.mt](https://www.um.edu.mt) |
+| **Student Maintenance Grant** | Monthly stipend + one-time grant for eligible students | Application | [education.gov.mt](https://www.education.gov.mt) |
+| **Student transit fares** | Discounted Tallinja card fares | Student card | [publictransport.com.mt](https://www.publictransport.com.mt) |
+| **Student banking** | Free accounts (BOV…) | Student status | bank sites |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇩🇿 Algeria
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Free public universities** | **Zero tuition** nationwide | Enrollment | universities |
+| **Monthly student grant** | State scholarship for all students (~4,000-6,000 DZD/mo, income-graded) | Automatic with enrollment | [mesrs.dz](https://www.mesrs.dz) |
+| **University residences** | Nearly free housing + subsidized meals (~1.2 DZD!) | Student status | your university |
+| **-50% transit fares** | Half-price metro/rail/bus with student card | Student ID | transit |
+| **Free healthcare** | Student social security coverage | Student status | [cnas.dz](https://www.cnas.dz) |
+
+</details>
+
+## 🇪🇬 Egypt
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Cairo Metro student pass** | **-50%** on student subscriptions | Student ID | [cairo-met.gov.eg](https://www.cairo-met.gov.eg) |
+| **Free public universities** | Nearly-free tuition for Egyptians (Arabic programs) | Enrollment | universities |
+| **University hostels** | Subsidized student housing (madinah jame'eyah) | Student status | your university |
+| **Student banking** | Low-fee accounts (CIB, NBE…) | Student proof | bank sites |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇱🇹 Lithuania
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **-50% transit fares** | Half-price Vilnius/Kaunas transit + intercity rail (LTG) | Student/ISIC card | [litrail.lt](https://litrail.lt) |
+| **State-funded places** | Free tuition for top performers (valstybės finansavimas) | Admission rank | universities |
+| **Student dormitories** | Subsidized housing | University application | your university |
+| **Student banking** | Free accounts (Swedbank, SEB…) | Student status | bank sites |
+| **ISIC** | Big discount network (LT Student Union) | Enrollment | [isic.lt](https://isic.lt) |
+
+</details>
+
+## 🇱🇻 Latvia
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Student transit fares** | Discounted Riga e-tickets (~-50%+) + rail discounts | Student card | [rigassatiksme.lv](https://www.rigassatiksme.lv) |
+| **State-funded places** | Free tuition for top performers (budžeta vietas) | Admission rank | universities |
+| **Student dormitories** | Subsidized housing | University application | your university |
+| **Student banking** | Free accounts (Swedbank, SEB…) | Student status | bank sites |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇧🇬 Bulgaria
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **-50% rail fares** | Half-price BDZ tickets with student card | Student ID | [bdz.bg](https://www.bdz.bg) |
+| **City transit discounts** | Cheap student passes (Sofia, Plovdiv…) | Student card | local transit |
+| **Student dormitories** | Subsidized housing (~€30-60/mo) | University application | your university |
+| **Student banking** | Free accounts (UniCredit, DSK…) | Student status | bank sites |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.bg](https://isic.bg) |
+
+</details>
+
+## 🇷🇸 Serbia
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Student meals (menza)** | Subsidized canteen meals (~€1-2) | Student card (indeks) | your university |
+| **Student transit fares** | Discounted Belgrade bus/rail monthly passes | Student status | [bgprevoz.rs](https://www.bgprevoz.rs) |
+| **Student dormitories** | Very cheap studentski dom housing | University application | your university |
+| **Student banking** | Free accounts | Student status | bank sites |
+| **EYCA card** | Youth discounts across Serbia | Card | [eyca.rs](https://www.eyca.rs) |
+
+</details>
+
+## 🇵🇪 Peru
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Beca 18 (PRONABEC)** | Full scholarships — tuition + living costs (income-tested) | Application | [pronabec.gob.pe](https://www.pronabec.gob.pe) |
+| **Medio pasaje estudiantil** | Half-price Lima Metro/Metropolitano fares | Student credential | transit |
+| **Student banking** | Free accounts (BCP, Interbank…) | Student proof | bank sites |
+| **University comedores** | Subsidized campus meals | Student card | your university |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇲🇦 Morocco
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Minhaty scholarships** | State grants for low-income students | Application | [minhaty.ma](https://www.minhaty.ma) |
+| **Student transit cards** | ~-50% Alsa/city passes (Casa, Rabat…) | Student card | local transit |
+| **Cités universitaires** | Subsidized dorms + canteens | University application | your university |
+| **Student banking** | Free accounts (Attijari, BMCE…) | Student status | bank sites |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇹🇭 Thailand
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Student Loan Fund (กยศ)** | Ultra-low-interest government study loans | Application | [studentloan.or.th](https://www.studentloan.or.th) |
+| **Student transit fares** | Discounted BTS/MRT monthly passes + cheap rail | Student card | transit |
+| **University dormitories** | Very cheap campus housing | University application | your university |
+| **Student banking** | Free accounts (SCB, Kasikorn…) | Student proof | bank sites |
+| **Spotify / Apple Music student** | ~50% off | SheerID / UNiDAYS | streaming sites |
+
+</details>
+
+## 🇻🇳 Vietnam
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Very cheap public transit** | Heavily subsidized buses/metros (student fares even lower) | Student card | transit |
+| **Student dormitories** | Very cheap campus housing (~$20-50/mo) | University application | your university |
+| **Student banking** | Free accounts (Vietcombank, MB…) | Student proof | bank sites |
+| **Government aid** | Need-based tuition waivers & social policy support | Application | [moet.gov.vn](https://moet.gov.vn) |
+| **Spotify / Apple Music student** | ~50% off | SheerID / UNiDAYS | streaming sites |
+
+</details>
+
+## 🇨🇴 Colombia
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **ICETEX** | State student loans & scholarships | Application | [icetex.gov.co](https://www.icetex.gov.co) |
+| **Student transit fares** | Discounted TransMilenio/metro passes (Bogotá, Medellín) | Student credential | transit |
+| **Student banking** | Free accounts (Bancolombia, Davivienda…) | Student proof | bank sites |
+| **University comedores** | Subsidized campus meals | Student card | your university |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇰🇪 Kenya
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **HELB** | Higher Education Loans Board — tuition & upkeep loans | Application | [helb.co.ke](https://www.helb.co.ke) |
+| **University Funding Model** | Government scholarships + loans (means-tested) | Application | [hef.co.ke](https://www.hef.co.ke) |
+| **Student banking** | Free/low-fee accounts (Equity, KCB…) | Student proof | bank sites |
+| **M-Pesa student deals** | Mobile money bundles/offers | Operator promos | [safaricom.co.ke](https://www.safaricom.co.ke) |
+| **Spotify / Apple Music student** | ~50% off | SheerID / UNiDAYS | streaming sites |
+
+</details>
+
+## 🇹🇳 Tunisia
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Free public universities** | Zero tuition for Tunisian students | Enrollment | universities |
+| **Student transit fares** | Discounted rail/metro/bus student cards | Student ID | transit |
+| **Cités universitaires** | Subsidized dorms + canteens (ONOUS) | University application | your university |
+| **Student banking** | Free accounts (STB, BNA…) | Student status | bank sites |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇨🇾 Cyprus
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Free tuition (EU students)** | No tuition at University of Cyprus/TEPAK for EU undergrads (Greek-taught) | Enrollment | [ucy.ac.cy](https://www.ucy.ac.cy) |
+| **Student transit fares** | Discounted bus passes | Student card | [motionbuscard.org.cy](https://www.motionbuscard.org.cy) |
+| **EU student benefits** | Erasmus, EUC student card deals | Enrollment | [euc.ac.cy](https://www.euc.ac.cy) |
+| **Student banking** | Free accounts (BoC…) | Student status | bank sites |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
 ## 🇪🇺 Europe — cross-country
 
 <details>
@@ -621,7 +1146,85 @@
 | **Interrail youth pass** | Discounted rail passes for under-28 (EU residents) | ID (age) | [interrail.eu](https://www.interrail.eu) |
 | **Eurail youth pass** | Same rail passes ~-25% for under-28 **non-EU residents** | ID (age + residence) | [eurail.com](https://www.eurail.com) |
 | **IYTC card** | Youth discount card for under-31s (no student status needed) | Card purchase | [isic.org](https://www.isic.org) |
+| **Booking.com student** | Up to ~-15-20% stays + Genius perks | UNiDAYS / Student Beans | [booking.com](https://www.booking.com) |
 | **European Solidarity Corps** | Funded volunteering 18-30 (travel, board & allowance) | Application | [youth.europa.eu](https://youth.europa.eu/solidarity_en) |
+
+</details>
+
+## 🇳🇬 Nigeria
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **NELFUND** | **Interest-free federal student loans** (tuition + upkeep, repayment 2 yrs after NYSC) | Online application | [nelf.gov.ng](https://nelf.gov.ng) |
+| **Student banking** | Free/low-fee accounts (GTBank, Zenith…) | Student proof | bank sites |
+| **University hostels** | Subsidized campus housing | University application | your university |
+| **JAMB/UTME support** | Fee waivers & scholarships for top scorers | Application | [jamb.gov.ng](https://www.jamb.gov.ng) |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇨🇱 Chile
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Gratuidad** | **Free tuition** at participating unis for bottom-60%-income families | FUAS application | [beneficiosestudiantiles.cl](https://www.beneficiosestudiantiles.cl) |
+| **CAE state-backed loans** | Government-guaranteed tuition loans | University application | [ayuda.mineduc.cl](https://ayuda.mineduc.cl) |
+| **Becas Chile** | Government scholarships (incl. study abroad) | Application | [becaschile.anid.cl](https://www.anid.cl) |
+| **TNE student card** | Discounted metro/bus fares nationwide | Student validation | [tne.cl](https://www.tne.cl) |
+| **Junaeb food aid** | Subsidized meals & food support for students | Student status | [junaeb.cl](https://www.junaeb.cl) |
+
+</details>
+
+## 🇬🇭 Ghana
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **SLTF student loans** | Government Students Loan Trust Fund (tuition + upkeep) | Application + guarantor | [sltf.gov.gh](https://sltf.gov.gh) |
+| **Student banking** | Free/low-fee accounts (GCB, Ecobank…) | Student proof | bank sites |
+| **University hostels** | Subsidized campus housing | University application | your university |
+| **MTN/Telecel student bundles** | Cheap student data plans | Student ID | operator sites |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇧🇳 Brunei
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Government scholarships** | Tuition fully covered + **monthly allowance** for citizens at UBD/UTB/Politeknik | Application | [moe.gov.bn](https://www.moe.gov.bn) |
+| **Student loan→scholarship conversion** | Loans convert to scholarships for strong academic performers | Application | [moe.gov.bn](https://www.moe.gov.bn) |
+| **Student banking** | Free accounts (Baiduri, BIBD…) | Student proof | bank sites |
+| **Subsidized transport** | Cheap public transit | Student ID | transit |
+
+</details>
+
+## ✈️ Student flight fares — international
+
+<details>
+<summary><b>Expand (8 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Qatar Airways Student Club** | 10% → 15% → **20% off** (escalating), +1 bag, 2 free date changes, companion fares | SheerID (18-30, ≤4 yrs enrolled) | [qatarairways.com/student-club](https://www.qatarairways.com/en/student-club.html) |
+| ⭐ **Turkish Airlines student** | Up to **20% off domestic**, 10-15% int'l + 40 kg baggage | Miles&Smiles student profile (12-34) | [turkishairlines.com](https://www.turkishairlines.com/en-us/student-flight-discount/) |
+| **Emirates student fares** | Up to 10% off + extra 10 kg bag + free date change (code STUDENT) | Skywards member + student ID (16-31) | [emirates.com](https://www.emirates.com/english/special-offers/student-special-fares/) |
+| **Singapore Airlines student** | 10% off + up to 3 checked bags + 1 free change | KrisFlyer student verification | [singaporeair.com](https://www.singaporeair.com/en_UK/sg/ppsclub-krisflyer/krisflyer/krisflyer-students/faq/) |
+| **Cathay Pacific student** | Up to 10% off + extra bag + free change (promo code) | ISIC/student visa/enrollment | [cathaypacific.com](https://flights.cathaypacific.com/en_SG/offers/cathay-for-students.html) |
+| **Lufthansa student fares** | Discounted fares + 2×23 kg bags (16+, no age cap) | Enrollment proof | [lufthansa.com](https://www.lufthansa.com) |
+| **Air France youth/student** | Youth fare 12-24 · student fare 18-29 — flexible, 2×23 kg | Student ID / enrollment | [airfrance.com](https://wwws.airfrance.us/information/offres/tarifs-jeune-etudiant) |
+| **Youth fare airlines** | SAS & Iberia sell under-26 youth fares; **United** ~5% off ages 18-23 | ID (age) | airline sites |
 
 </details>
 

@@ -22,7 +22,32 @@
 | **Brilliant** | Student discount on premium | Student status | [brilliant.org](https://brilliant.org) |
 | **Babbel** | Student discount on language plans | UNiDAYS / Student Beans | [babbel.com](https://www.babbel.com) |
 | **LanguageTool** | Edu discount on Premium | School email | [languagetool.org](https://languagetool.org) |
+| **DeepL Pro** | ~-40% via UNiDAYS (eligible regions) | UNiDAYS | [deepl.com](https://www.deepl.com) |
+| **Capacities Pro** | -40% annual (strict enrollment proof) | Application form | [capacities.io](https://www.capacities.io) |
+| **Ulysses** | $10.99 per 6 months for students (Apple only) | Student ID in app | [ulysses.app/en/students](https://www.ulysses.app/en/students/) |
+| **Omni edu store** | Discounted perpetual licenses (OmniFocus, OmniGraffle…) | Student/faculty status | [store.omnigroup.com/edu](https://store.omnigroup.com/edu/) |
+| **Busuu** | ~-50% on language plans | Student Beans | [busuu.com](https://www.busuu.com) |
+| **Rosetta Stone** | Up to ~-50% on language plans | Student Beans | [rosettastone.com](https://www.rosettastone.com) |
+| **Pimsleur** | ~-54% on the All Access lifetime plan | UNiDAYS | [pimsleur.com](https://www.pimsleur.com) |
+| **ProWritingAid** | -20-25% on Premium | Student App Centre / Student Beans | [prowritingaid.com](https://prowritingaid.com) |
+| **GoodNotes** | Student discount on subscription | Student Beans | [goodnotes.com](https://www.goodnotes.com) |
+| ⭐ **Craft** | **Pro free up to 5 years** (Education plan) | Student Beans | [craft.do](https://www.craft.do) |
+| **Obsidian Sync/Publish** | -40% on add-ons (app itself free) | School email via account | [obsidian.md/help/discounts](https://obsidian.md/help/discounts) |
+| **Evernote Advanced** | **-50%** first 12 months (code STUDENT50) | Student status | [evernote.com/discounts/students](https://evernote.com/discounts/students) |
+| **Workona** | -50% on Pro (browser workspaces) | Student status | [workona.com](https://workona.com) |
+| **Trello** | ~-75% for students | Student Beans | [trello.com](https://trello.com) |
+| ⭐ **Linear Education** | **Free 1 yr** Basic/Business (project tracker) for full-time students | .edu email + enrollment proof to support | [linear.app/docs/billing-and-plans](https://linear.app/docs/billing-and-plans) |
+| **TickTick Premium** | -25% for 1 year | Student status | [ticktick.com](https://ticktick.com) |
+| **Akiflow** | -40% on yearly Pro (time-blocking) | University email | [akiflow.com](https://akiflow.com) |
 | **SciSpace** | Student discount on AI research assistant | Student status | [scispace.com](https://scispace.com) |
+| ⭐ **Asana for Students** | Starter tier **free 12 months** (worldwide, 18+) | Goodstack | [asana.com/industry/students](https://asana.com/industry/students) |
+| **Airtable** | Free Team plan 6-24 months (+ instant 120-day trial w/ .edu) | .edu email / application | [airtable.com/solutions/education](https://airtable.com/solutions/education) |
+| **Loom** | Up to -75% on Business (classroom use) | Goodstack via Atlassian | [loom.com/education](https://www.loom.com/education) |
+| **Tella** | 6 months free Pro + -50% after | School email | [tella.so](https://www.tella.so) |
+| **Descript** | Education discount on request | School email | [descript.com](https://www.descript.com) |
+| **VPN student deals** | NordVPN up to -81% · Surfshark up to -88% · Proton VPN -70% (1st yr) | Student Beans | [surfshark.com/student-discount](https://surfshark.com/student-discount) |
+| **Scrivener** | Educational license $50.99 (vs $59.99) — writing studio | Institutional affiliation | [literatureandlatte.com](https://www.literatureandlatte.com/scrivener/overview) |
+| **Readwise** | **-50%** all plans (highlights + Reader app) | Email hello@readwise.io + proof | [readwise.io](https://readwise.io/pricing) |
 
 ## 🆓 Free for everyone — study & productivity stack
 
@@ -83,3 +108,15 @@ All fully free, no limits.
 | **Ninite** | Bulk-install Windows apps cleanly | Fully free | [ninite.com](https://ninite.com) |
 | **fast.com / speedtest.net** | Internet speed check | Fully free | [fast.com](https://fast.com) |
 | **Internet Archive** | Free books, music, software, games | Fully free | [archive.org](https://archive.org) |
+| **iFixit** | Free repair guides for any device | Fully free | [ifixit.com](https://www.ifixit.com) |
+| **ShareX** | Screenshot + screen capture power tool (Windows) | Fully free | [getsharex.com](https://getsharex.com) |
+| **HandBrake** | Video converter/compressor | Fully free | [handbrake.fr](https://handbrake.fr) |
+| **Upscayl** | AI image upscaler (local, open source) | Fully free | [upscayl.org](https://www.upscayl.org) |
+| **Cryptomator** | Encrypt files before cloud upload | Fully free | [cryptomator.org](https://cryptomator.org) |
+| **VLC** | Plays every media format | Fully free | [videolan.org](https://www.videolan.org) |
+| **Calibre** | Ebook manager (convert, organize, read) | Fully free | [calibre-ebook.com](https://calibre-ebook.com) |
+| **ScreenToGif** | Record screen → GIF/video (Windows) | Fully free | [screentogif.com](https://www.screentogif.com) |
+| **Stirling PDF / PDFsam** | Self-hosted PDF tools · split/merge offline | Fully free | [stirlingpdf.com](https://www.stirlingpdf.com) · [pdfsam.org](https://pdfsam.org) |
+| **NAPS2** | Scan documents to PDF cleanly | Fully free | [naps2.com](https://www.naps2.com) |
+| **Ventoy / Rufus** | Bootable USB tools (install Linux, repair Windows) | Fully free | [ventoy.net](https://www.ventoy.net) · [rufus.ie](https://rufus.ie) |
+| **KeePassXC** | Offline password manager (Bitwarden alternative) | Fully free | [keepassxc.org](https://keepassxc.org) |

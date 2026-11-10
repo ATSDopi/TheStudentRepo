@@ -53,7 +53,7 @@
 |---|---|---|
 | ⭐ **JetBrains All Products** | IntelliJ, PyCharm, WebStorm, CLion, Rider, DataGrip… renewable yearly | [jetbrains.com/community/education](https://www.jetbrains.com/community/education/) |
 | **GitKraken + GitLens** | Student plan 6 mo free then -80% | [gitkraken.com](https://www.gitkraken.com/github-student-developer-pack) |
-| **Tower Pro** | Git client Mac/Windows free | [git-tower.com/students/github](https://www.git-tower.com/students/github) |
+| **Tower Pro** | Git client Mac/Windows — 12 mo free, renewable while enrolled | [git-tower.com/students/github](https://www.git-tower.com/students/github) |
 | **Termius** | SSH client Pro + Team free | [termius.com/education](https://termius.com/education) |
 | **Working Copy** | Git for iOS, all Pro features | [workingcopy.app](https://workingcopy.app) |
 | **SQLGate** | Standard features 1 yr | [sqlgate.com/student-pack](https://www.sqlgate.com/student-pack) |
@@ -90,7 +90,7 @@
 | **Honeybadger** | Small account 1 yr (errors, uptime, cron) | [honeybadger.io](https://www.honeybadger.io) |
 | **Appfigures** | App Store analytics 1 yr | [appfigures.com](https://appfigures.com) |
 | **SimpleAnalytics** | Starter 1 yr (100K pageviews/mo) | [simpleanalytics.com](https://simpleanalytics.com) |
-| ⭐ **1Password** | 1 year free + Developer Tools | [1password.com](https://1password.com) |
+| ⭐ **1Password** | **2 years free** + Developer Tools | [1password.com](https://1password.com) |
 | **Dashlane Premium** | 6 months free | [dashlane.com](https://www.dashlane.com) |
 | **Astra Security** | Firewall + malware scanner 6 mo | [getastra.com](https://www.getastra.com) |
 

@@ -13,6 +13,9 @@ Cloud credits, developer tools and **permanent free tiers** — the category whe
 | **AWS Student Rewards** | 12 mo Skill Builder + up to $30 credits + cert voucher | AWS Builder ID + student status | [builder.aws.com](https://builder.aws.com) |
 | **AWS Educate** | Free training/labs (⚠️ no cloud credits since 2023) | Email + student status | [aws.amazon.com/education/awseducate](https://aws.amazon.com/education/awseducate/) |
 | **NordVPN / Surfshark / NordPass** | -75 to -80% | Student Beans | [nordvpn.com](https://nordvpn.com/student-discount/) · [surfshark.com](https://surfshark.com/student-discount) |
+| **Malwarebytes** | **-50%** on Standard/Plus (2 devices) | Proxi.ID | [malwarebytes.com/student-discount](https://www.malwarebytes.com/student-discount) |
+| **Norton 360** | Student deals ~-50-60% | Student Beans | [norton.com](https://www.norton.com) |
+| **TablePlus** | ~-50% for students (database GUI) — request via support | .edu email / student proof | [tableplus.com](https://tableplus.com) |
 | ⭐ **Azure Dev Tools for Teaching** | Windows 11 Education, Visual Studio Enterprise, SQL Server… free (STEM depts) | School email | [azureforeducation.microsoft.com](https://azureforeducation.microsoft.com) |
 | **IBM SkillsBuild / Academic** | Free courses + digital badges + cloud/AI tools | School email | [skillsbuild.org](https://skillsbuild.org) |
 | **Alteryx SparkED** | Free Designer license + data training for students | School email | [alteryx.com/sparked](https://www.alteryx.com/sparked) |
@@ -55,6 +58,9 @@ Cloud credits, developer tools and **permanent free tiers** — the category whe
 | VPN | **Proton VPN** · **Cloudflare WARP** | Free no-logs tier (unlimited) · free | [protonvpn.com](https://protonvpn.com) · [one.one.one.one](https://one.one.one.one) |
 | Email testing | **Mailtrap** | Free tier | [mailtrap.io](https://mailtrap.io) |
 | Analytics (OSS) | **Umami** · **GoatCounter** | Fully free self-hosted | [umami.is](https://umami.is) · [goatcounter.com](https://www.goatcounter.com) |
+| Uptime monitoring | **Uptime Kuma** · **UptimeRobot** | Self-hosted unlimited · 50 monitors free | [uptime.kuma.pet](https://uptime.kuma.pet) · [uptimerobot.com](https://uptimerobot.com) |
+| Local env / CLI | **WSL** · **Scoop/Chocolatey** · **UniGetUI** · **Windows Terminal/Tabby** | Fully free | [learn.microsoft.com/wsl](https://learn.microsoft.com/windows/wsl) · [scoop.sh](https://scoop.sh) |
+| File transfer | **WinSCP** · **FileZilla** · **MobaXterm Home** | Fully free | [winscp.net](https://winscp.net) · [filezilla-project.org](https://filezilla-project.org) |
 | Email hosting | **Zoho Mail** | Free plan (5 users, 1 domain) | [zoho.com/mail](https://www.zoho.com/mail) |
 | Subdomains/DNS | **EU.org** · **DuckDNS** · **Afraid.org** | Free domains/DNS | [eu.org](https://nic.eu.org) · [duckdns.org](https://www.duckdns.org) · [freedns.afraid.org](https://freedns.afraid.org) |
 
