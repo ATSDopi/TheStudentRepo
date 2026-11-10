@@ -84,8 +84,8 @@
 
 | Offer | What you get | Link |
 |---|---|---|
-| **Datadog** | Pro account, 10 servers, 2 yrs | [datadoghq.com/github-students](https://www.datadoghq.com/github-students/) |
-| **New Relic** | Free platform (~$300/mo value) | [newrelic.com/github-students](https://newrelic.com/github-students) |
+| **Datadog** | Pro account, 10 servers, 2 yrs | [education.github.com/pack](https://education.github.com/pack) |
+| **New Relic** | Free platform (~$300/mo value) | [newrelic.com/students](https://newrelic.com/students) |
 | **Sentry** | Team-level quotas, 1 yr renewable | [sentry.io](https://sentry.io) |
 | **Honeybadger** | Small account 1 yr (errors, uptime, cron) | [honeybadger.io](https://www.honeybadger.io) |
 | **Appfigures** | App Store analytics 1 yr | [appfigures.com](https://appfigures.com) |
@@ -126,4 +126,4 @@
 | **Octicons** | GitHub's open-source icon library | [primer.style/octicons](https://primer.style/octicons) |
 | **Arduino Cloud** | 6 months free + hardware discounts | [arduino.cc/education](https://www.arduino.cc/education/github-students/) |
 | **Adafruit** | IO+ 1 yr + hardware discounts | [adafruit.com](https://www.adafruit.com) |
-| **Camber** | Student plan: 40 h CPU + 5 h GPU + 50 GB/mo | [camber.cloud](https://camber.cloud) |
+| **Camber** | Student plan while enrolled: 40 compute h + 50 GB storage + 50 agent messages/mo | [cambercloud.com](https://www.cambercloud.com) |

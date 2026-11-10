@@ -15,11 +15,10 @@ Student-verified AI offers plus the best free tiers. "Verify via" tells you how 
 | **Perplexity Pro** | Free months via referrals + education offers | Email / referral | [perplexity.com/education](https://www.perplexity.com/education) |
 | **Notion AI** | -50% on the AI add-on (Plus plan already free) | School email | [notion.com](https://www.notion.com/product/notion-for-education) |
 | **ElevenLabs Students** | Extended free plan + ElevenReader Ultra 1 yr + AI Student Pack (~$1,500 value) | SheerID | [elevenlabs.io/students](https://elevenlabs.io/students) |
-| **Suno Student** | 1 month free then ~$5/mo | SheerID | [students.suno.com](https://students.suno.com) |
 | **Udio** | -50% for 6 months | SheerID | [help.udio.com](https://help.udio.com/en/articles/10739207) |
 | **Lovable** | -50% on Pro + $25/mo cloud credits | Student status | [lovable.dev](https://lovable.dev) |
 | **JetBrains AI Free** | Included with the free student license | School email | [jetbrains.com/ai](https://www.jetbrains.com/ai/) |
-| **Replit** | ~50% off Core via education program | School email | [replit.com/education](https://replit.com/education) |
+| **Replit** | 50% off Core ($10/mo instead of $20) | School email (.edu) | [replit.com/edu/students](https://replit.com/edu/students) |
 | **Grammarly Pro** | -50% | SheerID | [grammarly.com](https://www.grammarly.com) |
 | **QuillBot Premium** | -25% on annual | SheerID | [quillbot.com/premium/student-discount](https://quillbot.com/premium/student-discount) |
 | **Windsurf** | Student plan when slots open (often closed) | SheerID | [windsurf.com](https://windsurf.com/student-terms-and-conditions) |
