@@ -9,36 +9,44 @@
 ## 🇫🇷 France
 
 <details open>
-<summary><b>Culture (4)</b></summary>
+<summary><b>Culture (5)</b></summary>
 
 | Offer | What you get | Verify via | Link |
 |---|---|---|---|
-| ⭐ **Pass Culture** | €50 at 17 / **€150 at 18**, usable until 21 | ID + school status in app | [pass.culture.fr](https://pass.culture.fr) |
+| ⭐ **Pass Culture** | €50 at 17 / **€150 at 18** (+€50 bonus low-income/disabled), usable until 21 | ID + school status in app | [pass.culture.fr](https://pass.culture.fr) |
 | ⭐ **National museums & monuments** | Free for under-26 EU residents (Louvre, Orsay, Versailles…) | ID (age + EU residency) | [culture.gouv.fr](https://www.culture.gouv.fr) |
+| **Paris Musées** | Permanent collections of 14 city museums free for **everyone** (Carnavalet, Petit Palais, Zadkine…) | — | [parismusees.paris.fr](https://www.parismusees.paris.fr) |
 | **University libraries** | Free access with student card, even at private schools | Student card | your city's BUs (BPI Paris, BM Lyon…) |
 | **Eduroam** | Free Wi-Fi on every university campus | Institution login | [eduroam.org](https://www.eduroam.org) |
 
 </details>
 
 <details>
-<summary><b>CROUS & financial aid (14)</b></summary>
+<summary><b>CROUS & financial aid (19)</b></summary>
 
 | Offer | What you get | Verify via | Link |
 |---|---|---|---|
-| ⭐ **€1 CROUS meals** | **All students since May 2026** — 1 meal per service | Student card + active **Izly** account | [lescrous.fr](https://www.lescrous.fr) |
+| ⭐ **mes-aides.gouv.fr** | **Official simulator** — checks every aid you qualify for (APL, grants, local aid…) in minutes | — | [mes-aides.gouv.fr](https://mes-aides.gouv.fr) |
+| ⭐ **€1 CROUS meals** | **All students since May 2026** — 1 meal per service, incl. apprentices & PhD | Student card + active **Izly** account | [lescrous.fr](https://www.lescrous.fr) |
 | **Prepaid food card** | €20-40/mo in "white zones" without a CROUS restaurant | Student status | [etudiant.gouv.fr](https://www.etudiant.gouv.fr) |
 | **CROUS grant (DSE)** | €145–633/mo based on parental income | DSE application | [simulateur.lescrous.fr](https://simulateur.lescrous.fr) |
+| **Merit aid (aide au mérite)** | €900/yr on top of the CROUS grant — bac mention **Très bien**, automatic | DSE application | [service-public.fr](https://www.service-public.fr/particuliers/vosdroits/F1010) |
+| **CROUS emergency aid** | One-off or annual aid (up to ~€6,335) for students in difficulty, incl. non-grant-holders | CROUS social worker | [lescrous.fr](https://www.lescrous.fr) |
+| **Bourse Talents** | **€5,000/yr** for grant-holders in Prépa Talents (public-service exam tracks) | Prépa Talents enrollment | [etudiant.gouv.fr](https://www.etudiant.gouv.fr) |
 | **CROUS housing** | Subsidized rents | DSE application | [trouverunlogement.lescrous.fr](https://trouverunlogement.lescrous.fr) |
 | ⭐ **APL / ALS (CAF)** | ~€100–250/mo housing aid | CAF application | [caf.fr](https://www.caf.fr) |
 | ⭐ **Visale guarantee** | 100% free rental guarantor (under 31) | Online application | [visale.fr](https://www.visale.fr) |
+| **FSL housing fund** | Département-level help for deposits/rent arrears | CAF/département | [service-public.fr](https://www.service-public.fr) |
 | **Loca-Pass advance** | Zero-interest loan for the security deposit | Action Logement | [actionlogement.fr](https://www.actionlogement.fr/l-avance-loca-pass) |
 | **Mobili-Jeune aid** | Rent subsidy in work-study (up to €100/mo) | Action Logement | [actionlogement.fr](https://www.actionlogement.fr/l-aide-mobili-jeune) |
 | **Prime d'activité** | Income top-up for apprentices/working students | CAF application | [caf.fr](https://www.caf.fr) |
 | **Chèque énergie** | €48–277/yr energy voucher (means-tested) | Automatic | [chequeenergie.gouv.fr](https://chequeenergie.gouv.fr) |
 | **Parcoursup mobility aid** | €500 for grant-holders moving region | Student status | [etudiant.gouv.fr](https://www.etudiant.gouv.fr) |
+| **Int'l mobility aid (AMI)** | **€400/mo** for CROUS grant-holders studying/interning abroad (up to 10 mo) | International office | [etudiant.gouv.fr](https://www.etudiant.gouv.fr) |
 | **€1/day driving license** | Zero-interest loan for driving license, 15–25 y/o | Bank application | [service-public.fr](https://www.service-public.fr) |
+| **Regional license grants** | €300–1,300 toward the driving license depending on region | Regional council | your région's site |
 | **Driving license via CPF** | Possible funding for the B license | CPF account | [moncompteformation.gouv.fr](https://www.moncompteformation.gouv.fr) |
-| **CVEC** | Free for grant-holders (otherwise ~€105) | Enrollment | [cvec.etudiant.gouv.fr](https://cvec.etudiant.gouv.fr) |
+| **CVEC** | Free for grant-holders (otherwise €105) | Enrollment | [cvec.etudiant.gouv.fr](https://cvec.etudiant.gouv.fr) |
 
 </details>
 
@@ -47,48 +55,50 @@
 
 | Offer | What you get | Verify via | Link |
 |---|---|---|---|
-| **Santé Psy Étudiant** | Free psychologist sessions, no upfront cost | Student status | [santepsy.etudiant.gouv.fr](https://santepsy.etudiant.gouv.fr) |
+| **Santé Psy Étudiant** | **12 free psychologist sessions/yr**, no upfront cost, no GP referral | INE / student status | [santepsy.etudiant.gouv.fr](https://santepsy.etudiant.gouv.fr) |
 | **Complémentaire Santé Solidaire (C2S)** | Free/near-free health coverage, means-tested | Income proof | [service-public.fr](https://www.service-public.fr/particuliers/vosdroits/F10027) |
 | **STI/HIV screening** | Free & anonymous at CeGIDD centers | — | [sante.fr](https://www.sante.fr) |
 | **Free condoms in pharmacies** | Under 26 | ID | [service-public.fr](https://www.service-public.fr) |
-| **€50 sports aid** | For grant-holders/disabled students | Student status | [etudiant.gouv.fr](https://www.etudiant.gouv.fr) |
+| **Pass'Sport** | €50 credit toward a sports club — grant-holders up to 28 + disabled youth (Sept–Dec campaign) | Eligibility code | [pass.sports.gouv.fr](https://www.pass.sports.gouv.fr) |
 
 </details>
 
 <details>
-<summary><b>Transport (5)</b></summary>
+<summary><b>Transport (6)</b></summary>
 
 | Offer | What you get | Verify via | Link |
 |---|---|---|---|
 | ⭐ **Carte Avantage Jeune SNCF** | €49/yr (ages 12–27): -30% + capped prices | ID (age) | [sncf-connect.com](https://www.sncf-connect.com) |
-| **MAX JEUNE** | €79/mo: TGV tickets at €0 (16–27) | ID (age) | [sncf-connect.com](https://www.sncf-connect.com/catalogue/description/max-jeune) |
+| **MAX JEUNE** | €79/mo: TGV tickets at €0 + -30% (16–27) | ID (age) | [sncf-connect.com](https://www.sncf-connect.com/catalogue/description/max-jeune) |
 | **OUIGO** | Tickets from ~€10 | — | [ouigo.com](https://www.ouigo.com) |
-| **Local student transit passes** | Imagine R ~€365/yr in Île-de-France, ~-50% equivalents in metros | Student certificate | your region's transit site |
-| **Regional TER youth fares** | -50% to free depending on region | ID (age) | regional SNCF site |
+| **Local student transit passes** | Imagine R **€392/yr** in Île-de-France (Paris refunds up to 100% for eligible youth), ~-50% equivalents in metros | Student certificate | your region's transit site |
+| **Regional TER youth fares** | -50% to free depending on region (Zou! Sud, BreizhGo, LiO…) | ID (age) | regional SNCF site |
+| **City bike-share youth plans** | Vélib' V-Plus jeune ~€28/yr, similar reduced plans in Lyon/Bordeaux/Lille | ID (age) | your city's bike-share |
 
 </details>
 
 <details>
-<summary><b>Entertainment, press & daily life (16)</b></summary>
+<summary><b>Entertainment, press & daily life (18)</b></summary>
 
 | Offer | What you get | Verify via | Link |
 |---|---|---|---|
 | ⭐ **Amazon Prime Student / 18–24** | **90 days free** then €3.49/mo | SheerID / age | [amazon.fr/amazonprime](https://www.amazon.fr/amazonprime) |
-| **Spotify Premium Student** | €7.07/mo (-42%) | SheerID | [spotify.com/fr/student](https://www.spotify.com/fr/student/) |
+| **Spotify Premium Student** | €7.07/mo (-42%), 1 mo free, 4 yrs max | SheerID | [spotify.com/fr/student](https://www.spotify.com/fr/student/) |
 | **Apple Music Student** | €6.99/mo **with Apple TV+ included** | UNiDAYS | [music.apple.com](https://music.apple.com) |
-| **Deezer Student** | €5.99/mo (-50%) + trial periods | SheerID | [deezer.com/fr/offers/student](https://www.deezer.com/fr/offers/student) |
-| **YouTube Premium Student** | €7.99/mo (with YouTube Music) | SheerID | [youtube.com/premium/student](https://www.youtube.com/premium/student) |
-| **Canal+ under-26** | -50% on all bundles | ID (age) | [canalplus.com](https://www.canalplus.com) |
-| **UGC Illimité under-26** | ~€21.90/mo unlimited cinema (UGC + mk2) | ID (age) | [ugc.fr](https://www.ugc.fr) |
-| **Pathé CinéPass under-26** | ~€19.40/mo (Pathé + Gaumont) | ID (age) | [pathe.fr](https://www.pathe.fr) |
-| **Student cinema fare** | ~€7–9/ticket (CGR, Cinéville, indies) | Student card | at the cinema |
-| **Le Monde student** | -50% (€3.49/mo) | Student status | [abo.lemonde.fr/etud-26](https://abo.lemonde.fr/etud-26) |
+| **Deezer Student** | €5.99/mo (-50%), 3 mo trial, **18–25 only** | UNiDAYS | [deezer.com/fr/offers/student](https://www.deezer.com/fr/offers/student) |
+| **YouTube Premium Student** | €7.99/mo (with YouTube Music), 4 yrs max | SheerID | [youtube.com/premium/student](https://www.youtube.com/premium/student) |
+| **Canal+ RAT+ (-26)** | €13.99–29.99/mo vs €24.99+ — up to -60%, no commitment | ID (age 18–25) | [boutique.canalplus.com/offres/moins-26-ans](https://boutique.canalplus.com/offres/moins-26-ans) |
+| **UGC Illimité under-26** | €19.90/mo unlimited cinema (UGC + mk2) | ID (age) | [ugc.fr](https://www.ugc.fr) |
+| **Pathé CinéPass under-26** | €19.40/mo, **no commitment** (Pathé + Gaumont) | ID (age) | [pathe.fr/cinepass](https://www.pathe.fr/cinepass) |
+| **Student & under-26 cinema fares** | mk2 from €5.90 (-26), UGC -26 from €9.90 wknd, ~€7–9 at CGR/indies | Student card / ID | at the cinema |
+| **Le Monde student** | -50% first year (€3.99/mo) | Student status | [abo.lemonde.fr/etud-26](https://abo.lemonde.fr/etud-26) |
 | **Europresse / Cairn** | Paid press free via university libraries | Institution login | your library's portal |
 | ⭐ **BoursoBank Welcome** | Free Visa + bonus up to ~€160 | Age 18+ | [boursobank.com](https://www.boursobank.com) |
 | **Fortuneo Fosfo** | Free Mastercard + ~€140 bonus | Age 18+ | [fortuneo.fr](https://www.fortuneo.fr) |
 | **Hello bank! Hello One** | Near-free card + bonus up to ~€280 | Age 18+ | [hellobank.fr](https://www.hellobank.fr) |
-| **Bouygues under-26 / Orange 18–26** | Mobile plan discounts | ID (age) | carrier sites |
+| **Low-cost mobile plans** | B&You / RED / Sosh: 100+ GB from ~€9–12/mo, no commitment | — | carrier sites |
 | **Student housing insurance** | LMDE / HEYME ~€40–60/yr; SMENO from €15.50/mo | Student status | [smeno.com](https://www.smeno.com) |
+| **Départ 18:25 (ANCV)** | Holiday aid up to **€200/yr** for 18–25 (grant-holders, apprentices, low income) | Income/status proof | [depart1825.com](https://depart1825.com) |
 | **Student food banks** | Linkee, food banks, CROUS solidarity groceries | Student status | [cnous.fr](https://www.cnous.fr) |
 
 </details>
