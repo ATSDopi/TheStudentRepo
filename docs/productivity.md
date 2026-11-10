@@ -11,6 +11,7 @@
 | **Lucidchart / Lucidspark** | Diagrams free | School email | [lucidchart.com](https://www.lucidchart.com/pages/usecase/education/) |
 | **PomoDone** | Lite plan 2 yrs (Pomodoro) | GitHub Pack | [pomodoneapp.com](https://pomodoneapp.com) |
 | **HazeOver** | Focus app license (Mac) | GitHub Pack | [hazeover.com](https://hazeover.com) |
+| **Kilobat Pro** | Mac network diagnostics and hotspot controls; 1 year free on two Macs, renewable while studying | School email; age 13+ | [kilobat.app/students](https://kilobat.app/students) |
 | **1Password** | 1 yr free + Developer Tools | GitHub Pack | [1password.com](https://1password.com) |
 | **Grammarly Pro** | -50% | SheerID | [grammarly.com](https://www.grammarly.com) |
 
