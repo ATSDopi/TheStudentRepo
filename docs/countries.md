@@ -177,7 +177,7 @@
 ## 🇪🇺 Europe — cross-country
 
 <details>
-<summary><b>Expand (6 offers)</b></summary>
+<summary><b>Expand (9 offers)</b></summary>
 
 | Offer | What you get | Verify via | Link |
 |---|---|---|---|
@@ -186,7 +186,10 @@
 | **ESNcard** | Erasmus Student Network discounts (incl. Ryanair deals) | ESN section membership | [esncard.org](https://esncard.org) |
 | **European Youth Card (EYCA)** | Discounts in ~40 countries for under-30s | Card purchase | [eyca.org](https://www.eyca.org) |
 | **Free museums under 26** | France + reduced/free entry in many EU states | ID (age + EU residency) | national museum sites |
-| **Interrail youth pass** | Discounted rail passes for under-28 | ID (age) | [interrail.eu](https://www.interrail.eu) |
+| **Interrail youth pass** | Discounted rail passes for under-28 (EU residents) | ID (age) | [interrail.eu](https://www.interrail.eu) |
+| **Eurail youth pass** | Same rail passes ~-25% for under-28 **non-EU residents** | ID (age + residence) | [eurail.com](https://www.eurail.com) |
+| **IYTC card** | Youth discount card for under-31s (no student status needed) | Card purchase | [isic.org](https://www.isic.org) |
+| **European Solidarity Corps** | Funded volunteering 18-30 (travel, board & allowance) | Application | [youth.europa.eu](https://youth.europa.eu/solidarity_en) |
 
 </details>
 

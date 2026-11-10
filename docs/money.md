@@ -12,6 +12,15 @@
 | **Student food programs** | Food banks, subsidized canteens (Mensa, CROUS, campus dining plans) | Student card | your institution |
 | **Back Market student** | Refurbished tech discounts | Student Beans | [backmarket.com](https://www.backmarket.com) |
 | **Student insurance rates** | Cheaper renters/health insurance for students (varies by country) | Student status | local providers |
+| ⭐ **OnTheHub** | Your school's software portal — free/cheap SPSS, Minitab, Windows, VMware… | School account | [onthehub.com](https://onthehub.com) |
+| ⭐ **Apple Education Store** | ~5-10% off Mac/iPad + summer back-to-school promos | School email / UNiDAYS | [apple.com/us-edu/store](https://www.apple.com/us-edu/store) |
+| **Samsung Education Store** | Up to ~20-30% off (varies by country) | Student email / UNiDAYS | [samsung.com](https://www.samsung.com) — search "Education Store" |
+| **Microsoft / Dell / Lenovo / HP student** | Extra ~5-10% off laptops & accessories | School email / UNiDAYS | brand edu stores |
+| **Logitech student** | ~25% off | UNiDAYS | [logitech.com](https://www.logitech.com) |
+| **B&H EDU Advantage** | Free program: discounts on camera/AV gear | School email | [bhphotovideo.com](https://www.bhphotovideo.com/find/eduAdvantage.jsp) |
+| **Retail & fashion** | Nike, Adidas, ASOS, Gymshark… 10-20% student discounts | UNiDAYS / Student Beans | verify platforms |
+| **Airline student fares** | Emirates, Qatar Student Club, Turkish Airlines — discounts + extra baggage | Student status | airline "student" pages |
+| **Eurail/Interrail youth** | Under-28 youth passes (~-25%) | Age (ID) | [eurail.com](https://www.eurail.com) · [interrail.eu](https://www.interrail.eu) |
 
 ## 🆓 Free for everyone — banking & money tools
 

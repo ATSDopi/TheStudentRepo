@@ -13,6 +13,10 @@ Cloud credits, developer tools and **permanent free tiers** — the category whe
 | **AWS Student Rewards** | 12 mo Skill Builder + up to $30 credits + cert voucher | AWS Builder ID + student status | [builder.aws.com](https://builder.aws.com) |
 | **AWS Educate** | Free training/labs (⚠️ no cloud credits since 2023) | Email + student status | [aws.amazon.com/education/awseducate](https://aws.amazon.com/education/awseducate/) |
 | **NordVPN / Surfshark / NordPass** | -75 to -80% | Student Beans | [nordvpn.com](https://nordvpn.com/student-discount/) · [surfshark.com](https://surfshark.com/student-discount) |
+| ⭐ **Azure Dev Tools for Teaching** | Windows 11 Education, Visual Studio Enterprise, SQL Server… free (STEM depts) | School email | [azureforeducation.microsoft.com](https://azureforeducation.microsoft.com) |
+| **IBM SkillsBuild / Academic** | Free courses + digital badges + cloud/AI tools | School email | [skillsbuild.org](https://skillsbuild.org) |
+| **Alteryx SparkED** | Free Designer license + data training for students | School email | [alteryx.com/sparked](https://www.alteryx.com/sparked) |
+| **SAS for Students** | Free SAS software + courses for academic use | Student status | [sas.com](https://www.sas.com/en_us/learn/academic-programs.html) |
 
 ## 🆓 Free for everyone — no student status needed
 
@@ -44,5 +48,14 @@ Cloud credits, developer tools and **permanent free tiers** — the category whe
 | API testing | **Hoppscotch** · **Bruno** | Fully free, open source | [hoppscotch.io](https://hoppscotch.io) · [usebruno.com](https://www.usebruno.com) |
 | Free APIs | Public APIs list | Varies per API | [github.com/public-apis](https://github.com/public-apis/public-apis) |
 | Editor | ⭐ **VS Code** | Fully free | [code.visualstudio.com](https://code.visualstudio.com) |
+| ML notebooks | ⭐ **Kaggle** · **Google Colab** · **SageMaker Studio Lab** | Free datasets & competitions · free GPU/TPU tier · free GPU notebooks, no AWS account | [kaggle.com](https://www.kaggle.com) · [colab.research.google.com](https://colab.research.google.com) · [studiolab.sagemaker.aws](https://studiolab.sagemaker.aws) |
+| ML app hosting | **Hugging Face Spaces** · **Streamlit Community Cloud** | Free public demos · free public apps | [huggingface.co/spaces](https://huggingface.co/spaces) · [share.streamlit.io](https://share.streamlit.io) |
+| Virtualization | **VMware Workstation/Fusion** · **VirtualBox** | Free for personal use since 2024 · fully free | [vmware.com](https://www.vmware.com/products/desktop-hypervisor) · [virtualbox.org](https://www.virtualbox.org) |
+| Cloud IDE | **Gitpod** · **CodeSandbox** · **StackBlitz** | Free tiers | [gitpod.io](https://www.gitpod.io) · [codesandbox.io](https://codesandbox.io) · [stackblitz.com](https://stackblitz.com) |
+| VPN | **Proton VPN** · **Cloudflare WARP** | Free no-logs tier (unlimited) · free | [protonvpn.com](https://protonvpn.com) · [one.one.one.one](https://one.one.one.one) |
+| Email testing | **Mailtrap** | Free tier | [mailtrap.io](https://mailtrap.io) |
+| Analytics (OSS) | **Umami** · **GoatCounter** | Fully free self-hosted | [umami.is](https://umami.is) · [goatcounter.com](https://www.goatcounter.com) |
+| Email hosting | **Zoho Mail** | Free plan (5 users, 1 domain) | [zoho.com/mail](https://www.zoho.com/mail) |
+| Subdomains/DNS | **EU.org** · **DuckDNS** · **Afraid.org** | Free domains/DNS | [eu.org](https://nic.eu.org) · [duckdns.org](https://www.duckdns.org) · [freedns.afraid.org](https://freedns.afraid.org) |
 
 > 💡 **$0 stack recipe**: Next.js on Vercel + Supabase + Cloudflare R2 + Resend + Sentry + a free .me domain from the Pack = a production app at zero cost.

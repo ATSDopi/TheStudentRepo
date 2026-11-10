@@ -13,6 +13,14 @@
 | **Amazon Prime Student** | Extended trial then ~-50% — **includes Prime Video + Prime Gaming** | SheerID / school email | your local Amazon |
 | **Tidal Student** | **$4.99/mo** (-50%+, US college + HS 16+, some regions) | SheerID | [tidal.com/plans/student](https://tidal.com/plans/student) |
 | **Paramount+ student** | ~-25% (US) | SheerID | [paramountplus.com](https://www.paramountplus.com) |
+| ⭐ **Hulu Student (US)** | **$1.99/mo** w/ ads while enrolled | SheerID | [hulu.com/student](https://www.hulu.com/student) |
+| **Hulu + Disney+ Student Bundle (US)** | **$6.49/mo** (-50%) | SheerID | [hulu.com/student](https://www.hulu.com/student) |
+| **Peacock Student (US)** | ~$5.99-6.99/mo for 12 mo; **18-24 "young adult"** deal for non-students | SheerID | [peacocktv.com/student](https://www.peacocktv.com/student) |
+| **Audible student** | Student membership deals (rotating promos) | Student status | [audible.com](https://www.audible.com/ep/student-membership) |
+| **Mubi** | Student discount on curated cinema | Student status | [mubi.com](https://mubi.com) |
+| ⭐ **Headspace Student** | **-85% → ~$9.99/yr** (US/UK/AU/CA/FR/DE/ES/PT, 18+) | SheerID | [headspace.com/studentplan](https://www.headspace.com/studentplan) |
+| **Strava** | **-50%** on annual subscription | SheerID | [strava.com/student](https://www.strava.com) |
+| **Calm** | Student discount (~-50%, eligible regions) | UNiDAYS | [calm.com](https://www.calm.com) |
 | **Newspaper student rates** | NYT, WSJ, The Economist, local press — typically -50%+ | SheerID / school email | newspaper sites |
 | **Cinema under-26 fares** | Many chains discount under-26 (see [countries.md](countries.md) for local passes) | ID (age) | your local cinema |
 
@@ -30,3 +38,8 @@
 | **chess.com** | Chess platform | Free tier (limited puzzles/analysis) | [chess.com](https://www.chess.com) |
 | **Internet Archive games** | Legal abandonware & arcade emulation in-browser | Fully free | [archive.org/details/software](https://archive.org/details/software) |
 | **Xbox Game Pass / PS Plus trials** | Intro deals rotate — watch for student promos | Trial periods | official stores |
+| ⭐ **Kanopy** | Free films & documentaries with a library card or university login | Free w/ participating library | [kanopy.com](https://www.kanopy.com) |
+| **Libby / Hoopla / PressReader** | Free ebooks, audiobooks, magazines & media via your public library | Free w/ library card | [libbyapp.com](https://libbyapp.com) · [hoopladigital.com](https://www.hoopladigital.com) |
+| **Board Game Arena** | 1,000+ board games in the browser | Free tier | [boardgamearena.com](https://boardgamearena.com) |
+| **IsThereAnyDeal / Deku Deals / SteamDB** | Track lowest legit game prices & sales history | Fully free | [isthereanydeal.com](https://isthereanydeal.com) · [dekudeals.com](https://www.dekudeals.com) |
+| **Humble Bundle** | Pay-what-you-want game/book bundles for charity | Bundles rotate | [humblebundle.com](https://www.humblebundle.com) |

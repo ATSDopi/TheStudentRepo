@@ -45,6 +45,28 @@ The **Free cert?** column tells you whether you can get a certificate without pa
 | **GitHub Skills** | Interactive git/GitHub courses | — | [skills.github.com](https://skills.github.com) |
 | **Class Central** | Search engine for free online courses | — | [classcentral.com](https://www.classcentral.com) |
 | **Alison** | Free courses (ad-supported) | Cert paid | [alison.com](https://alison.com) |
+| **Kaggle Learn** | Micro-courses (Python, ML, SQL, deep learning) | ✅ Free certs | [kaggle.com/learn](https://www.kaggle.com/learn) |
+| **CodinGame / CheckiO** | Learn to code through games | — | [codingame.com](https://www.codingame.com) · [checkio.org](https://checkio.org) |
+| **DrivenData / Zindi** | Data-science competitions for social good | — | [drivendata.org](https://www.drivendata.org) · [zindi.africa](https://zindi.africa) |
+| **HubSpot Academy** | Marketing, sales & CS certifications | ✅ Free certs | [academy.hubspot.com](https://academy.hubspot.com) |
+| **Semrush Academy** | SEO & digital marketing courses | ✅ Free certs | [semrush.com/academy](https://www.semrush.com/academy/) |
+| **Salesforce Trailhead** | CRM, admin & dev training | Free superbadges (certs paid) | [trailhead.salesforce.com](https://trailhead.salesforce.com) |
+| **SAP Learning** | Free SAP courses (student zone) | Varies | [learning.sap.com](https://learning.sap.com) |
+| **UiPath Academy** | RPA/automation training | ✅ Free certs | [academy.uipath.com](https://academy.uipath.com) |
+| **ServiceNow RiseUp** | Free platform training + career paths | — | [nowlearning.servicenow.com](https://nowlearning.servicenow.com) |
+| **Fortinet Training Institute** | Security fundamentals certifications | ✅ Free certs | [fortinet.com/training](https://www.fortinet.com/training/cybersecurity-professionals) |
+| ⭐ **PortSwigger Web Security Academy** | The reference free web-security course + labs | ✅ Free (by the Burp Suite team) | [portswigger.net/web-security](https://portswigger.net/web-security) |
+| ⭐ **picoCTF / Hacker101 / OverTheWire** | Free CTF & hacking challenges | — | [picoctf.org](https://picoctf.org) · [hacker101.com](https://www.hacker101.com) · [overthewire.org](https://overthewire.org) |
+| **pwn.college** | Free systems-security course (ASU) | — | [pwn.college](https://pwn.college) |
+| **CyberDefenders / LetsDefend** | Blue-team labs | Free tiers | [cyberdefenders.org](https://cyberdefenders.org) · [letsdefend.io](https://letsdefend.io) |
+| **TryHackMe** | Guided security rooms | Free tier; student discount on premium | [tryhackme.com](https://tryhackme.com) |
+| **HTB Academy** | Structured security courses | Free tier; student discount on subscriptions | [academy.hackthebox.com](https://academy.hackthebox.com) |
+| **TCM Security Academy** | Practical hacking courses | Free course tier | [academy.tcm-sec.com](https://academy.tcm-sec.com) |
+| **AttackIQ Academy** | Threat-informed defense courses | ✅ Free | [academy.attackiq.com](https://www.academy.attackiq.com) |
+| **Splunk free courses** | Free Splunk fundamentals | ✅ Free | [splunk.com/training](https://www.splunk.com/en_us/training.html) |
+| **INE** | Security & cloud courses | Free starter pass | [ine.com](https://ine.com) |
+| **Language Reactor** | Learn languages w/ Netflix & YouTube | Free tier | [languagereactor.com](https://www.languagereactor.com) |
+| **Photomath / GeoGebra** | Math solver with steps · math apps | Free | [photomath.com](https://photomath.com) · [geogebra.org](https://www.geogebra.org) |
 
 > 💡 **Coursera trick**: most courses have a "Financial aid" link on the course page — apply, wait ~2 weeks, get the full course + certificate for free. Open to anyone, no student status needed.
 
@@ -69,3 +91,10 @@ The **Free cert?** column tells you whether you can get a certificate without pa
 | **Connected Papers / ResearchRabbit** | Paper-discovery graphs | Free tier | [connectedpapers.com](https://www.connectedpapers.com) · [researchrabbit.ai](https://www.researchrabbit.ai) |
 | ⭐ **Zotero** | Reference manager — essential for papers/theses | Fully free (paid sync storage optional) | [zotero.org](https://www.zotero.org) |
 | **JSTOR** | Open-access journals + register & read | ~6 articles/mo free | [jstor.org](https://www.jstor.org) |
+| **PubMed** | 37M+ biomedical literature citations | Fully free | [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov) |
+| **Internet Archive Scholar** | Open-access scholarly search | Fully free | [scholar.archive.org](https://scholar.archive.org) |
+| **HathiTrust** | Millions of digitized books (public domain free) | Partner-university login for full access | [hathitrust.org](https://www.hathitrust.org) |
+| **Lens.org** | Patents + scholarly works search | Free tier | [lens.org](https://www.lens.org) |
+| **OpenEdition / HAL** | OA journals & books · French research OA portal | Fully free | [openedition.org](https://www.openedition.org) · [hal.science](https://hal.science) |
+| **Elicit / Consensus / Litmaps** | AI research assistants (paper finding & synthesis) | Free tiers | [elicit.com](https://elicit.com) · [consensus.app](https://consensus.app) · [litmaps.com](https://www.litmaps.com) |
+| **Explainpaper** | Upload a paper, get AI explanations | Free | [explainpaper.com](https://www.explainpaper.com) |

@@ -15,13 +15,24 @@
 | **Kilobat Pro** | Mac network diagnostics and hotspot controls; 1 year free on two Macs, renewable while studying | School email; age 13+ | [kilobat.app/students](https://kilobat.app/students) |
 | **1Password** | 1 yr free + Developer Tools | GitHub Pack | [1password.com](https://1password.com) |
 | **Grammarly Pro** | -50% | SheerID | [grammarly.com](https://www.grammarly.com) |
+| **Quizlet Plus** | Student discount | UNiDAYS / Student Beans | [quizlet.com](https://quizlet.com) |
+| **Wolfram\|Alpha Pro** | ~-50% student pricing (step-by-step solutions) | SheerID | [wolframalpha.com/pro](https://www.wolframalpha.com/pro/) |
+| **Evernote** | Student discount (~-50%) | Student Beans | [evernote.com](https://evernote.com) |
+| **Readwise Reader** | ~-50% for students | School email | [readwise.io](https://readwise.io) |
+| **Brilliant** | Student discount on premium | Student status | [brilliant.org](https://brilliant.org) |
+| **Babbel** | Student discount on language plans | UNiDAYS / Student Beans | [babbel.com](https://www.babbel.com) |
+| **LanguageTool** | Edu discount on Premium | School email | [languagetool.org](https://languagetool.org) |
+| **SciSpace** | Student discount on AI research assistant | Student status | [scispace.com](https://scispace.com) |
 
 ## 🆓 Free for everyone — study & productivity stack
 
 | Need | Free tool | Limits | Link |
 |---|---|---|---|
 | ⭐ Flashcards | **Anki** — spaced repetition, the med-school standard | Fully free (iOS app paid once) | [apps.ankiweb.net](https://apps.ankiweb.net) |
-| ⭐ Notes | **Obsidian** — markdown notes | Free for personal use | [obsidian.md](https://obsidian.md) |
+| ⭐ Notes | **Obsidian** — markdown notes | Fully free (commercial use included since 2025) | [obsidian.md](https://obsidian.md) |
+| Notes (local-first) | **Anytype** · **AppFlowy** — Notion alternatives | Fully free | [anytype.io](https://anytype.io) · [appflowy.io](https://appflowy.io) |
+| Notes (simple) | **Simplenote** | Fully free | [simplenote.com](https://simplenote.com) |
+| Whiteboard | **tldraw** | Fully free | [tldraw.com](https://www.tldraw.com) |
 | Notes (open source) | **Logseq** · **Joplin** | Fully free | [logseq.com](https://logseq.com) · [joplinapp.org](https://joplinapp.org) |
 | Math & graphs | **GeoGebra** · **Desmos** · **Wolfram Alpha** | GeoGebra/Desmos fully free; Wolfram free tier | [geogebra.org](https://www.geogebra.org) · [desmos.com](https://www.desmos.com) · [wolframalpha.com](https://www.wolframalpha.com) |
 | Diagrams | **Excalidraw** · **draw.io** | Fully free | [excalidraw.com](https://excalidraw.com) · [drawio.com](https://www.drawio.com) |

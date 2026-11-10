@@ -22,6 +22,20 @@
 | **Swedish Institute (SI)** | Masters in Sweden | Sweden | [si.se](https://si.se) |
 | **Rhodes / Gates Cambridge / Knight-Hennessy / Schwarzman** | Prestigious fully funded postgrad | Oxford / Cambridge / Stanford / Tsinghua | official sites |
 | **Rotary Global Grants** | Graduate study abroad | Global | [rotary.org](https://www.rotary.org) |
+| **Global Korea Scholarship (GKS)** | Fully funded undergrad/grad in Korea | Korea | [studyinkorea.go.kr](https://www.studyinkorea.go.kr) |
+| **Chinese Government Scholarship (CSC)** | Fully funded degrees in China | China | [campuschina.org](https://www.campuschina.org) |
+| **Clarendon (Oxford)** | Fully funded graduate — all applicants auto-considered | UK | [ox.ac.uk](https://www.ox.ac.uk/clarendon) |
+| **Joint Japan/World Bank (JJ/WBGSP)** | Fully funded development masters | Global | [worldbank.org](https://www.worldbank.org) |
+| **ADB-Japan Scholarship** | Development studies in Asia-Pacific | Asia-Pacific | [adb.org](https://www.adb.org) |
+| **Swiss Government Excellence** | Funded research/arts postgrad in Switzerland | Switzerland | [sbfi.admin.ch](https://www.sbfi.admin.ch) |
+| **Manaaki New Zealand** | Fully funded study in NZ | New Zealand | [nzscholarships.govt.nz](https://www.nzscholarships.govt.nz) |
+| **Mastercard Foundation Scholars** | Fully funded for African students at partner universities | Global | [mastercardfdn.org](https://mastercardfdn.org) |
+| **Aga Khan Foundation ISP** | 50% grant / 50% loan postgrad for developing countries | Global | [akdn.org](https://www.akdn.org) |
+| **German political foundations** (KAS, Böll, FES, Naumann…) | Funded study in Germany for internationals | Germany | via [daad.de](https://www.daad.de) |
+| **MSCA Doctoral Networks / EURAXESS** | Salaried funded PhD positions across Europe | EU | [euraxess.ec.europa.eu](https://euraxess.ec.europa.eu) |
+| **Hong Kong PhD Fellowship** | ~HK$337k/yr stipend + travel allowance | Hong Kong | [HK PhD Fellowship](https://cerg1.ugc.edu.hk/hkpfs/index.html) |
+| **Émile Boutmy (Sciences Po)** | Tuition grants for non-EU students | France | [sciencespo.fr](https://www.sciencespo.fr) |
+| **PEC-G (Brazil)** | Free tuition at Brazilian public universities (developing countries) | Brazil | [gov.br/mre](https://www.gov.br/mre) |
 
 ## Scholarship databases — search by country/field
 
@@ -34,6 +48,8 @@
 | **Scholarships.com / Fastweb** | US | [scholarships.com](https://www.scholarships.com) · [fastweb.com](https://www.fastweb.com) |
 | **Studyportals** | Programs + funding finder | [studyportals.com](https://www.studyportals.com) |
 | **British Council / Fulbright commissions / embassy sites** | Bilateral programs | country-specific |
+| **Opportunity Desk** | Programs, conferences & funding aggregator | [opportunitydesk.org](https://www.opportunitydesk.org) |
+| **After School Africa / scholars4dev** | Funding for developing countries | [afterschoolafrica.com](https://www.afterschoolafrica.com) · [scholars4dev.com](https://www.scholars4dev.com) |
 
 ## National aid (start here — easiest money)
 

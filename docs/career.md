@@ -12,6 +12,17 @@
 | **Outreachy** | Paid FOSS internships for underrepresented groups | Application | [outreachy.org](https://www.outreachy.org) |
 | **GitHub Campus Experts** | Community leadership + swag + network | GitHub student status + application | [education.github.com/experts](https://education.github.com/experts) |
 | **Company student programs** | Microsoft Explore, Google STEP, Meta University, Amazon Future Engineer — early-year internships | Enrollment + application | company career sites |
+| ⭐ **IAESTE** | **Paid** STEM internships abroad (80+ countries) | Application via national committee | [iaeste.org](https://iaeste.org) |
+| **AIESEC** | International volunteering & internships | Application | [aiesec.org](https://aiesec.org) |
+| **ErasmusIntern** | Traineeship board across Europe (Erasmus+ grants) | — | [erasmusintern.org](https://erasmusintern.org) |
+| ⭐ **European Solidarity Corps** | Funded volunteering 18-30 (travel, board & allowance covered) | Application | [youth.europa.eu](https://youth.europa.eu/solidarity_en) |
+| **Hacktoberfest** | October open-source challenge — badges & rewards | Free registration | [hacktoberfest.com](https://hacktoberfest.com) |
+| **Microsoft Imagine Cup** | Student startup competition — big prizes & mentoring | Student status | [imaginecup.microsoft.com](https://imaginecup.microsoft.com) |
+| **Meta Hacker Cup / ICPC** | Annual programming competitions (résumé gold) | — | [facebook.com/codingcompetitions](https://www.facebook.com/codingcompetitions/hacker-cup) · [icpc.global](https://icpc.global) |
+| **Swift Student Challenge** | Apple competition — winners get WWDC perks | App submission | [developer.apple.com](https://developer.apple.com/swift-student-challenge/) |
+| **Kaggle competitions** | Ranked ML competitions — medals & prize money | Free account | [kaggle.com/competitions](https://www.kaggle.com/competitions) |
+| **Paid summer research abroad** | CERN Summer Student, EPFL/ETH/ISTA fellowships, MITACS Globalink (Canada), DAAD RISE (Germany) — travel + stipend | Application | program sites |
+| **ACM / IEEE student membership** | ~$19-32/yr → full digital library + network | Student status | [acm.org](https://www.acm.org) · [ieee.org](https://www.ieee.org) |
 
 ## 🆓 Free for everyone — CV & resume
 
@@ -48,5 +59,8 @@
 | **Wellfound** | Startups | [wellfound.com](https://wellfound.com) |
 | **Y Combinator Work at a Startup** | YC startups | [workatastartup.com](https://www.workatastartup.com) |
 | **Welcome to the Jungle** | Europe | [welcometothejungle.com](https://www.welcometothejungle.com) |
+| **EURES** | EU job-mobility portal (official) | [eures.europa.eu](https://eures.europa.eu) |
+| **Devpost** | Hackathons (mostly free to enter) | [devpost.com](https://devpost.com) |
+| **Eurodesk / European Youth Portal** | EU youth programs, grants & mobility | [eurodesk.eu](https://eurodesk.eu) · [youth.europa.eu](https://youth.europa.eu) |
 
 > 💡 **LinkedIn Learning for free**: many public libraries and universities include it — check your local library card before paying.
