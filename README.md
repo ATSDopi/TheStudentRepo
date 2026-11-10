@@ -6,8 +6,8 @@
 
 **Every student discount, credit, freebie and free tool — sorted by category and country, with the verification method for each offer.**
 
-![Offers](https://img.shields.io/badge/offers-300%2B-blue)
-![Total value](https://img.shields.io/badge/total%20value-%2425%2C000%2B-red)
+![Offers](https://img.shields.io/badge/offers-550%2B-blue)
+![Total value](https://img.shields.io/badge/total%20value-%2435%2C000%2B-red)
 ![Verified](https://img.shields.io/badge/checked-nov.%202026-green)
 ![Scope](https://img.shields.io/badge/scope-international-orange)
 ![Contributions](https://img.shields.io/badge/PRs-welcome-brightgreen)
@@ -35,6 +35,8 @@ Almost every offer on this list gates behind one of these verification systems. 
 | **Student Beans** | Student discount platform | VPNs, fashion, software | [studentbeans.com](https://www.studentbeans.com) |
 | **ISIC card** | International Student Identity Card — 130+ countries | Travel, museums, software abroad | [isic.org](https://www.isic.org) |
 | **Youth/age status** | Many offers are for "under 26/27" — no student proof needed, just ID | EU museums, rail cards, cinemas | national ID |
+| **OnTheHub / your school's software portal** | Academic store run for your institution — free/cheap SPSS, Minitab, Windows, VMware… | School account | [onthehub.com](https://onthehub.com) |
+| **ID.me (US)** | Identity verification used by US brands/government | Best Buy, Lenovo, US student deals | [id.me](https://www.id.me) |
 
 > ⚠️ **GitHub verification takes ~72 h.** Apply day one, claim everything else while you wait.
 
@@ -63,14 +65,14 @@ Almost every offer on this list gates behind one of these verification systems. 
 |---|---|---|
 | 🤖 **AI & coding assistants** | [docs/ai.md](docs/ai.md) | Cursor, Copilot, Zed, Google AI, ElevenLabs + free AI tiers |
 | 🐙 **GitHub Student Developer Pack** | [docs/github-pack.md](docs/github-pack.md) | One signup → 70+ offers: Copilot, domains, cloud, courses, tools |
-| ☁️ **Dev tools, cloud & free tiers** | [docs/dev.md](docs/dev.md) | Azure/AWS/Oracle + a complete $0 hosting stack |
-| 🎨 **Design, 3D & gamedev** | [docs/design.md](docs/design.md) | Figma, Autodesk, Unity, Adobe + free alternatives |
-| 📖 **Learning, courses & textbooks** | [docs/learning.md](docs/learning.md) | freeCodeCamp, CS50, MOOCs, OpenStax, academic tools — with free-cert flags |
-| 💼 **Career & internships** | [docs/career.md](docs/career.md) | Free CV builders, interview prep, paid fellowships (GSoC, MLH…), job boards |
+| ☁️ **Dev tools, cloud & free tiers** | [docs/dev.md](docs/dev.md) | Azure/AWS/Oracle, free ML GPUs (Kaggle/Colab) + a complete $0 hosting stack |
+| 🎨 **Design, 3D, gamedev & audio** | [docs/design.md](docs/design.md) | Figma, Autodesk, Unity, Onshape, Ableton (-50%) + free assets & alternatives |
+| 📖 **Learning, courses & textbooks** | [docs/learning.md](docs/learning.md) | freeCodeCamp, CS50, MOOCs, cyber training, OpenStax, academic tools — with free-cert flags |
+| 💼 **Career & internships** | [docs/career.md](docs/career.md) | Free CV builders, interview prep, paid fellowships & internships abroad (GSoC, IAESTE…), job boards |
 | 🧠 **Study tools & useful sites** | [docs/productivity.md](docs/productivity.md) | Anki, Obsidian, GeoGebra, open-source alternatives, everyday websites |
-| 📺 **Streaming, media & gaming** | [docs/entertainment.md](docs/entertainment.md) | Spotify/Apple/YT student plans, free games, Prime Gaming |
-| 💰 **Money, banking & budgeting** | [docs/money.md](docs/money.md) | No-fee accounts, budgeting apps, housing aid, student money traps |
-| 🎓 **Scholarships & grants** | [docs/scholarships.md](docs/scholarships.md) | Erasmus Mundus, Fulbright, DAAD, Chevening + databases |
+| 📺 **Streaming, media & gaming** | [docs/entertainment.md](docs/entertainment.md) | Spotify/Apple/YT student plans, Headspace -85%, free games, library streaming |
+| 💰 **Money, banking & budgeting** | [docs/money.md](docs/money.md) | No-fee accounts, budgeting apps, tech student stores, travel fares, money traps |
+| 🎓 **Scholarships & grants** | [docs/scholarships.md](docs/scholarships.md) | Erasmus Mundus, Fulbright, DAAD, GKS, Mastercard Foundation + databases |
 | 🗺️ **Offers by country** | [docs/countries.md](docs/countries.md) | 🇫🇷 🇺🇸 🇬🇧 🇩🇪 🇨🇦 🇪🇺 — transport, banking, gov aid, local perks |
 
 > 🚧 Country sections beyond France are works in progress — **[add yours](CONTRIBUTING.md)**!
@@ -136,7 +138,7 @@ Our CI checks all links weekly — dead links get flagged automatically.
 
 <div align="center">
 
-💰 **Estimated cumulative value: $25,000+** in software, cloud credits, courses, scholarships and discounts — if every offer on this list were claimed.
+💰 **Estimated cumulative value: $35,000+** in software, cloud credits, courses, scholarships and discounts — if every offer on this list were claimed.
 
 *Community-maintained list — offers change quickly; always re-check the terms before signing up. Not affiliated with any listed company.*
 

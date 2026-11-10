@@ -1,0 +1,2882 @@
+{
+ "https://1password.com": {
+  "status": 200,
+  "keywords": [
+   "free",
+   "student"
+  ],
+  "size": 176250
+ },
+ "https://abo.lemonde.fr/etud-26": {
+  "status": 200,
+  "keywords": [
+   "student",
+   "\u00e9tudiant"
+  ],
+  "size": 27653
+ },
+ "https://about.codecov.io": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "free"
+  ],
+  "size": 82117
+ },
+ "https://actualbudget.org": {
+  "status": 200,
+  "keywords": [],
+  "size": 29682
+ },
+ "https://affinity.serif.com": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "free"
+  ],
+  "size": 339026
+ },
+ "https://alison.com": {
+  "status": 200,
+  "keywords": [
+   "academic",
+   "education",
+   "free",
+   "school"
+  ],
+  "size": 166686
+ },
+ "https://alternativeto.net": {
+  "status": 403,
+  "keywords": [],
+  "size": 5695
+ },
+ "https://appfigures.com": {
+  "status": 200,
+  "keywords": [
+   "academic",
+   "education",
+   "free"
+  ],
+  "size": 209220
+ },
+ "https://apps.ankiweb.net": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 37999
+ },
+ "https://appwrite.io": {
+  "status": 200,
+  "keywords": [
+   "education"
+  ],
+  "size": 172140
+ },
+ "https://archive.org": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 2046
+ },
+ "https://archive.org/details/software": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 2046
+ },
+ "https://arxiv.org": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "free"
+  ],
+  "size": 37290
+ },
+ "https://aws.amazon.com/education/awseducate/": {
+  "status": 200,
+  "keywords": [
+   "edu",
+   "education",
+   "free",
+   "student"
+  ],
+  "size": 380383
+ },
+ "https://aws.amazon.com/free": {
+  "status": 200,
+  "keywords": [
+   "edu",
+   "education",
+   "free",
+   "student"
+  ],
+  "size": 432206
+ },
+ "https://azure.microsoft.com/free/students/": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "free",
+   "school",
+   "student",
+   "university"
+  ],
+  "size": 390606
+ },
+ "https://bitwarden.com": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "free",
+   "student"
+  ],
+  "size": 594272
+ },
+ "https://blockchair.com": {
+  "status": 401,
+  "keywords": [],
+  "size": 265
+ },
+ "https://bootstrapstudio.io": {
+  "status": 200,
+  "keywords": [
+   "free",
+   "student"
+  ],
+  "size": 53549
+ },
+ "https://builder.aws.com": {
+  "status": 200,
+  "keywords": [
+   "free",
+   "student"
+  ],
+  "size": 122212
+ },
+ "https://carbon.now.sh": {
+  "status": 200,
+  "keywords": [],
+  "size": 77887
+ },
+ "https://carto.com": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 198853
+ },
+ "https://chat.deepseek.com": {
+  "status": 202,
+  "keywords": [],
+  "size": 0
+ },
+ "https://chat.mistral.ai": {
+  "status": 403,
+  "keywords": [],
+  "size": 5651
+ },
+ "https://chatgpt.com": {
+  "status": 200,
+  "keywords": [],
+  "size": 699392
+ },
+ "https://chequeenergie.gouv.fr": {
+  "status": 200,
+  "keywords": [],
+  "size": 2043
+ },
+ "https://claude.ai": {
+  "status": 403,
+  "keywords": [],
+  "size": 5703
+ },
+ "https://clerk.com": {
+  "status": 200,
+  "keywords": [
+   "free",
+   "student"
+  ],
+  "size": 1137019
+ },
+ "https://cloud.google.com/edu/students": {
+  "status": 200,
+  "keywords": [
+   "edu",
+   "education",
+   "free",
+   "student"
+  ],
+  "size": 1617211
+ },
+ "https://cloud.google.com/free": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 1657011
+ },
+ "https://code.visualstudio.com": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 48493
+ },
+ "https://codescene.com": {
+  "status": 200,
+  "keywords": [
+   "free",
+   "student"
+  ],
+  "size": 680447
+ },
+ "https://configcat.com": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "free",
+   "student"
+  ],
+  "size": 185583
+ },
+ "https://copilot.microsoft.com": {
+  "status": 200,
+  "keywords": [
+   "edu",
+   "education",
+   "free",
+   "school"
+  ],
+  "size": 305806
+ },
+ "https://core.ac.uk": {
+  "status": 200,
+  "keywords": [
+   "academic",
+   "education",
+   "free",
+   "university"
+  ],
+  "size": 91249
+ },
+ "https://cs50.harvard.edu/x/": {
+  "status": 200,
+  "keywords": [
+   "academic",
+   "edu",
+   "free",
+   "school",
+   "student",
+   "university"
+  ],
+  "size": 20480
+ },
+ "https://cscuk.fcdo.gov.uk": {
+  "status": 200,
+  "keywords": [
+   "academic",
+   "education",
+   "student"
+  ],
+  "size": 202780
+ },
+ "https://cursor.com/students": {
+  "status": 200,
+  "keywords": [
+   "campus",
+   "discount",
+   "free",
+   "student",
+   "university"
+  ],
+  "size": 147866
+ },
+ "https://cvec.etudiant.gouv.fr": {
+  "status": 200,
+  "keywords": [
+   "campus",
+   "\u00e9tudiant"
+  ],
+  "size": 28665
+ },
+ "https://deepnote.com": {
+  "status": 200,
+  "keywords": [
+   "education"
+  ],
+  "size": 593103
+ },
+ "https://deepscan.io": {
+  "status": 200,
+  "keywords": [
+   "free",
+   "student"
+  ],
+  "size": 22939
+ },
+ "https://deno.com/deploy": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 176093
+ },
+ "https://desktop.github.com": {
+  "status": 200,
+  "keywords": [
+   "discount",
+   "education"
+  ],
+  "size": 269241
+ },
+ "https://devcycle.com": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 178322
+ },
+ "https://developer.apple.com": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "student"
+  ],
+  "size": 138012
+ },
+ "https://developer.mozilla.org": {
+  "status": 200,
+  "keywords": [],
+  "size": 118886
+ },
+ "https://downdetector.com": {
+  "status": 403,
+  "keywords": [],
+  "size": 4541
+ },
+ "https://education.github.com": {
+  "status": 200,
+  "keywords": [
+   "academic",
+   "education",
+   "free",
+   "school",
+   "student",
+   "university"
+  ],
+  "size": 215219
+ },
+ "https://education.github.com/discount_requests/application": {
+  "status": 200,
+  "keywords": [
+   "discount",
+   "education"
+  ],
+  "size": 44922
+ },
+ "https://education.github.com/experiences": {
+  "status": 200,
+  "keywords": [
+   "discount",
+   "education"
+  ],
+  "size": 44917
+ },
+ "https://education.github.com/experts": {
+  "status": 200,
+  "keywords": [
+   "campus",
+   "education",
+   "free",
+   "school",
+   "student"
+  ],
+  "size": 226567
+ },
+ "https://education.github.com/pack": {
+  "status": 200,
+  "keywords": [
+   "campus",
+   "discount",
+   "education",
+   "free",
+   "school",
+   "student",
+   "university"
+  ],
+  "size": 271329
+ },
+ "https://educative.io": {
+  "status": 200,
+  "keywords": [
+   "free",
+   "student",
+   "university"
+  ],
+  "size": 692266
+ },
+ "https://elevenlabs.io/students": {
+  "status": 200,
+  "keywords": [
+   "campus",
+   "edu",
+   "education",
+   "free",
+   "student",
+   "university"
+  ],
+  "size": 479332
+ },
+ "https://erasmus-plus.ec.europa.eu": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "school",
+   "student"
+  ],
+  "size": 220415
+ },
+ "https://esncard.org": {
+  "status": 200,
+  "keywords": [
+   "discount",
+   "free",
+   "student"
+  ],
+  "size": 69474
+ },
+ "https://europa.eu/europass/en": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "free"
+  ],
+  "size": 336571
+ },
+ "https://excalidraw.com": {
+  "status": 200,
+  "keywords": [],
+  "size": 6924
+ },
+ "https://exercism.org": {
+  "status": 200,
+  "keywords": [
+   "discount",
+   "free",
+   "student"
+  ],
+  "size": 69657
+ },
+ "https://fast.com": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 26390
+ },
+ "https://fellowship.mlh.io": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "school"
+  ],
+  "size": 59338
+ },
+ "https://firebase.google.com": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 532488
+ },
+ "https://flowcv.com": {
+  "status": 200,
+  "keywords": [
+   "free",
+   "student"
+  ],
+  "size": 130942
+ },
+ "https://fly.io": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 186239
+ },
+ "https://fonts.google.com": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 322852
+ },
+ "https://frontendmasters.com": {
+  "status": 200,
+  "keywords": [
+   "academic",
+   "discount",
+   "education",
+   "free",
+   "student"
+  ],
+  "size": 220920
+ },
+ "https://fulbrightonline.org": {
+  "status": 200,
+  "keywords": [
+   "academic",
+   "campus",
+   "education",
+   "student",
+   "university"
+  ],
+  "size": 127088
+ },
+ "https://fullstackopen.com": {
+  "status": 200,
+  "keywords": [],
+  "size": 213494
+ },
+ "https://gaming.amazon.com": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 10504
+ },
+ "https://gemini.google.com": {
+  "status": 200,
+  "keywords": [
+   "student"
+  ],
+  "size": 887415
+ },
+ "https://gemini.google/students/": {
+  "status": 200,
+  "keywords": [
+   "student",
+   "\u00e9tudiant"
+  ],
+  "size": 177107
+ },
+ "https://get.tech": {
+  "status": 200,
+  "keywords": [
+   "education"
+  ],
+  "size": 68608
+ },
+ "https://getcoldturkey.com": {
+  "status": 200,
+  "keywords": [
+   "free",
+   "university"
+  ],
+  "size": 185031
+ },
+ "https://github.com/donnemartin/system-design-primer": {
+  "status": 200,
+  "keywords": [
+   "discount",
+   "free"
+  ],
+  "size": 954786
+ },
+ "https://github.com/features/actions": {
+  "status": 200,
+  "keywords": [
+   "discount",
+   "edu",
+   "education",
+   "free"
+  ],
+  "size": 274321
+ },
+ "https://github.com/features/codespaces": {
+  "status": 200,
+  "keywords": [
+   "discount",
+   "education",
+   "free",
+   "student"
+  ],
+  "size": 296165
+ },
+ "https://github.com/microsoft/PowerToys": {
+  "status": 200,
+  "keywords": [
+   "discount"
+  ],
+  "size": 342150
+ },
+ "https://github.com/pricing": {
+  "status": 200,
+  "keywords": [
+   "discount",
+   "education",
+   "free",
+   "school",
+   "student"
+  ],
+  "size": 965928
+ },
+ "https://github.com/public-apis/public-apis": {
+  "status": 200,
+  "keywords": [
+   "discount",
+   "free"
+  ],
+  "size": 215021
+ },
+ "https://gitviews.com/repo/ATSDopi/TheStudentRepo.svg?base=1396&label=Views&style=flat&color=0e75b6": {
+  "status": 200,
+  "keywords": [],
+  "size": 1088
+ },
+ "https://godotengine.org": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "free"
+  ],
+  "size": 39490
+ },
+ "https://gorails.com": {
+  "status": 200,
+  "keywords": [],
+  "size": 63454
+ },
+ "https://haveibeenpwned.com": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 26746
+ },
+ "https://hazeover.com": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 76861
+ },
+ "https://help.udio.com/en/articles/10739207": {
+  "status": 200,
+  "keywords": [
+   "discount",
+   "school",
+   "student",
+   "university"
+  ],
+  "size": 77237
+ },
+ "https://hoppscotch.io": {
+  "status": 200,
+  "keywords": [],
+  "size": 5211
+ },
+ "https://huggingface.co": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 169044
+ },
+ "https://icons8.com": {
+  "status": 200,
+  "keywords": [],
+  "size": 357758
+ },
+ "https://iconscout.com": {
+  "status": 403,
+  "keywords": [],
+  "size": 5692
+ },
+ "https://img.shields.io/badge/PRs-welcome-brightgreen": {
+  "status": 200,
+  "keywords": [],
+  "size": 1272
+ },
+ "https://img.shields.io/badge/checked-nov.%202026-green": {
+  "status": 200,
+  "keywords": [],
+  "size": 1308
+ },
+ "https://img.shields.io/badge/checked-sept.%202026-green": {
+  "status": 200,
+  "keywords": [],
+  "size": 1313
+ },
+ "https://img.shields.io/badge/offers-300%2B-blue": {
+  "status": 200,
+  "keywords": [],
+  "size": 1275
+ },
+ "https://img.shields.io/badge/scope-international-orange": {
+  "status": 200,
+  "keywords": [],
+  "size": 1318
+ },
+ "https://img.shields.io/badge/total%20value-%2425%2C000%2B-red": {
+  "status": 200,
+  "keywords": [],
+  "size": 1326
+ },
+ "https://imgbot.net": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 11732
+ },
+ "https://it-tools.tech": {
+  "status": 200,
+  "keywords": [],
+  "size": 2787
+ },
+ "https://joinhandshake.com": {
+  "status": 200,
+  "keywords": [
+   "free",
+   "school",
+   "student"
+  ],
+  "size": 502417
+ },
+ "https://joplinapp.org": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 36680
+ },
+ "https://kdenlive.org": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 33656
+ },
+ "https://kilobat.app/students": {
+  "status": 200,
+  "keywords": [
+   "campus",
+   "free",
+   "school",
+   "student",
+   "university"
+  ],
+  "size": 27440
+ },
+ "https://krita.org": {
+  "status": 200,
+  "keywords": [],
+  "size": 216
+ },
+ "https://learn.microsoft.com/training/": {
+  "status": 200,
+  "keywords": [
+   "student"
+  ],
+  "size": 36037
+ },
+ "https://leetcode.com": {
+  "status": 403,
+  "keywords": [],
+  "size": 5669
+ },
+ "https://libretexts.org": {
+  "status": 200,
+  "keywords": [
+   "academic",
+   "campus",
+   "edu",
+   "education",
+   "free",
+   "school",
+   "student",
+   "university"
+  ],
+  "size": 88201
+ },
+ "https://lichess.org": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 33932
+ },
+ "https://localstack.cloud": {
+  "status": 200,
+  "keywords": [
+   "free",
+   "student"
+  ],
+  "size": 221967
+ },
+ "https://logseq.com": {
+  "status": 200,
+  "keywords": [],
+  "size": 2266
+ },
+ "https://lovable.dev": {
+  "status": 403,
+  "keywords": [],
+  "size": 5732
+ },
+ "https://meet.jit.si": {
+  "status": 200,
+  "keywords": [],
+  "size": 33182
+ },
+ "https://mentorship.lfx.linuxfoundation.org": {
+  "status": 200,
+  "keywords": [
+   "free",
+   "school",
+   "student"
+  ],
+  "size": 32117
+ },
+ "https://miro.com/education-whiteboard/": {
+  "status": 200,
+  "keywords": [
+   "campus",
+   "discount",
+   "edu",
+   "education",
+   "free",
+   "school",
+   "student",
+   "university"
+  ],
+  "size": 438534
+ },
+ "https://missing.csail.mit.edu": {
+  "status": 200,
+  "keywords": [
+   "edu",
+   "education",
+   "student"
+  ],
+  "size": 14872
+ },
+ "https://moneymanagerex.org": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 26800
+ },
+ "https://music.apple.com": {
+  "status": 200,
+  "keywords": [],
+  "size": 2479328
+ },
+ "https://n26.com": {
+  "status": 200,
+  "keywords": [
+   "free",
+   "student"
+  ],
+  "size": 323459
+ },
+ "https://name.com": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 358730
+ },
+ "https://nc.me": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "free",
+   "student",
+   "university"
+  ],
+  "size": 18421
+ },
+ "https://neetcode.io": {
+  "status": 200,
+  "keywords": [],
+  "size": 98868
+ },
+ "https://neon.tech": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 441580
+ },
+ "https://newrelic.com/students": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "free",
+   "school",
+   "student",
+   "university"
+  ],
+  "size": 463375
+ },
+ "https://ngrok.com": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 283487
+ },
+ "https://ninite.com": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 89169
+ },
+ "https://nordvpn.com/student-discount/": {
+  "status": 403,
+  "keywords": [
+   "discount",
+   "student"
+  ],
+  "size": 5698
+ },
+ "https://notebooklm.google.com": {
+  "status": 200,
+  "keywords": [],
+  "size": 495305
+ },
+ "https://oapen.org": {
+  "status": 200,
+  "keywords": [],
+  "size": 79116
+ },
+ "https://obsidian.md": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 96745
+ },
+ "https://obsproject.com": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 22631
+ },
+ "https://ocw.mit.edu": {
+  "status": 200,
+  "keywords": [
+   "academic",
+   "edu",
+   "education",
+   "free",
+   "school",
+   "student",
+   "university"
+  ],
+  "size": 896911
+ },
+ "https://ollama.com": {
+  "status": 200,
+  "keywords": [],
+  "size": 16262
+ },
+ "https://open-resume.com": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "free",
+   "school",
+   "student"
+  ],
+  "size": 40318
+ },
+ "https://openlibrary.org": {
+  "status": 200,
+  "keywords": [
+   "free",
+   "student"
+  ],
+  "size": 43205
+ },
+ "https://openstax.org": {
+  "status": 200,
+  "keywords": [],
+  "size": 12343
+ },
+ "https://pageclip.co": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 36963
+ },
+ "https://pages.cloudflare.com": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 600643
+ },
+ "https://pages.github.com": {
+  "status": 200,
+  "keywords": [],
+  "size": 14434
+ },
+ "https://pairdrop.net": {
+  "status": 200,
+  "keywords": [],
+  "size": 58910
+ },
+ "https://pass.culture.fr": {
+  "status": 200,
+  "keywords": [
+   "campus",
+   "education",
+   "jeune"
+  ],
+  "size": 158045
+ },
+ "https://pixabay.com": {
+  "status": 403,
+  "keywords": [],
+  "size": 5668
+ },
+ "https://poeditor.com": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 434562
+ },
+ "https://polypane.app": {
+  "status": 200,
+  "keywords": [],
+  "size": 822780
+ },
+ "https://pomodoneapp.com": {
+  "status": 200,
+  "keywords": [
+   "discount",
+   "education",
+   "student"
+  ],
+  "size": 40427
+ },
+ "https://popsql.com": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 254070
+ },
+ "https://posthog.com": {
+  "status": 200,
+  "keywords": [],
+  "size": 1692253
+ },
+ "https://primer.style/octicons": {
+  "status": 200,
+  "keywords": [
+   "education"
+  ],
+  "size": 1121202
+ },
+ "https://quillbot.com/premium/student-discount": {
+  "status": 403,
+  "keywords": [
+   "discount",
+   "student"
+  ],
+  "size": 5784
+ },
+ "https://regex101.com": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 71550
+ },
+ "https://render.com": {
+  "status": 200,
+  "keywords": [
+   "edu",
+   "free"
+  ],
+  "size": 760307
+ },
+ "https://replit.com/edu/students": {
+  "status": 200,
+  "keywords": [
+   "edu",
+   "education"
+  ],
+  "size": 10664
+ },
+ "https://requestly.com": {
+  "status": 200,
+  "keywords": [],
+  "size": 56700
+ },
+ "https://resend.com": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 583433
+ },
+ "https://roadmap.sh": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 521591
+ },
+ "https://rxresu.me": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "free",
+   "university"
+  ],
+  "size": 317201
+ },
+ "https://scholar.google.com": {
+  "status": 200,
+  "keywords": [],
+  "size": 135829
+ },
+ "https://scrimba.com": {
+  "status": 200,
+  "keywords": [],
+  "size": 7825
+ },
+ "https://sentry.io": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 624965
+ },
+ "https://sheets.google.com": {
+  "status": 200,
+  "keywords": [],
+  "size": 1247252
+ },
+ "https://si.se": {
+  "status": 200,
+  "keywords": [
+   "school"
+  ],
+  "size": 144586
+ },
+ "https://simpleanalytics.com": {
+  "status": 200,
+  "keywords": [
+   "discount",
+   "free"
+  ],
+  "size": 402020
+ },
+ "https://simulateur.lescrous.fr": {
+  "status": 200,
+  "keywords": [],
+  "size": 240
+ },
+ "https://skillbuilder.aws": {
+  "status": 200,
+  "keywords": [],
+  "size": 7760
+ },
+ "https://skills.github.com": {
+  "status": 200,
+  "keywords": [],
+  "size": 429
+ },
+ "https://skillsforall.com": {
+  "status": 200,
+  "keywords": [],
+  "size": 5515
+ },
+ "https://solidedge.siemens.com/en/solutions/users/students/": {
+  "status": 200,
+  "keywords": [
+   "academic",
+   "education",
+   "free",
+   "school",
+   "student",
+   "university"
+  ],
+  "size": 194328
+ },
+ "https://sqlbolt.com": {
+  "status": 200,
+  "keywords": [],
+  "size": 15345
+ },
+ "https://standardebooks.org": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 14638
+ },
+ "https://stipendiumhungaricum.hu": {
+  "status": 200,
+  "keywords": [
+   "academic",
+   "education",
+   "student",
+   "university"
+  ],
+  "size": 90612
+ },
+ "https://store.epicgames.com": {
+  "status": 200,
+  "keywords": [
+   "discount",
+   "free"
+  ],
+  "size": 407992
+ },
+ "https://store.steampowered.com": {
+  "status": 200,
+  "keywords": [
+   "discount",
+   "education",
+   "free",
+   "school"
+  ],
+  "size": 985778
+ },
+ "https://stripe.com": {
+  "status": 200,
+  "keywords": [
+   "discount",
+   "free",
+   "university"
+  ],
+  "size": 678704
+ },
+ "https://studentaid.gov": {
+  "status": 200,
+  "keywords": [
+   "student"
+  ],
+  "size": 10904
+ },
+ "https://summerofcode.withgoogle.com": {
+  "status": 200,
+  "keywords": [],
+  "size": 150523
+ },
+ "https://supabase.com": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 1349658
+ },
+ "https://surfshark.com/student-discount": {
+  "status": 200,
+  "keywords": [
+   "campus",
+   "discount",
+   "free",
+   "student",
+   "university"
+  ],
+  "size": 200365
+ },
+ "https://symfonycasts.com": {
+  "status": 200,
+  "keywords": [
+   "university"
+  ],
+  "size": 99840
+ },
+ "https://tailscale.com": {
+  "status": 200,
+  "keywords": [
+   "campus",
+   "free"
+  ],
+  "size": 288384
+ },
+ "https://termius.com/education": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "free",
+   "student"
+  ],
+  "size": 364071
+ },
+ "https://testmail.app": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 86343
+ },
+ "https://tfl.gov.uk": {
+  "status": 200,
+  "keywords": [
+   "free",
+   "school"
+  ],
+  "size": 171303
+ },
+ "https://themeisle.com": {
+  "status": 200,
+  "keywords": [
+   "free",
+   "student"
+  ],
+  "size": 255444
+ },
+ "https://tinywow.com": {
+  "status": 200,
+  "keywords": [
+   "free",
+   "school"
+  ],
+  "size": 1084900
+ },
+ "https://todiagram.com": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "free"
+  ],
+  "size": 196406
+ },
+ "https://todoist.com": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "free",
+   "student"
+  ],
+  "size": 697305
+ },
+ "https://travis-ci.com": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "free"
+  ],
+  "size": 167929
+ },
+ "https://trello.com": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 526745
+ },
+ "https://trouverunlogement.lescrous.fr": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "school"
+  ],
+  "size": 47088
+ },
+ "https://turso.tech": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 153939
+ },
+ "https://unity.com/products/unity-student": {
+  "status": 200,
+  "keywords": [
+   "academic",
+   "discount",
+   "education",
+   "free",
+   "school",
+   "student"
+  ],
+  "size": 719298
+ },
+ "https://unpaywall.org": {
+  "status": 200,
+  "keywords": [],
+  "size": 1421
+ },
+ "https://upstash.com": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 633140
+ },
+ "https://vaadin.com": {
+  "status": 200,
+  "keywords": [
+   "free",
+   "student"
+  ],
+  "size": 158486
+ },
+ "https://vanier.gc.ca": {
+  "status": 200,
+  "keywords": [],
+  "size": 4437
+ },
+ "https://vercel.com": {
+  "status": 200,
+  "keywords": [],
+  "size": 591239
+ },
+ "https://visualstudio.microsoft.com/dev-essentials": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "free",
+   "school",
+   "student"
+  ],
+  "size": 264344
+ },
+ "https://voideditor.com": {
+  "status": 200,
+  "keywords": [],
+  "size": 42608
+ },
+ "https://web.archive.org": {
+  "status": 200,
+  "keywords": [
+   "academic",
+   "free",
+   "school"
+  ],
+  "size": 145565
+ },
+ "https://web.dev": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 132589
+ },
+ "https://wellfound.com": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "free"
+  ],
+  "size": 126840
+ },
+ "https://windsurf.com/student-terms-and-conditions": {
+  "status": 200,
+  "keywords": [
+   "discount",
+   "education",
+   "student",
+   "university"
+  ],
+  "size": 61928
+ },
+ "https://wise.com": {
+  "status": 200,
+  "keywords": [
+   "discount",
+   "education",
+   "free",
+   "student"
+  ],
+  "size": 902100
+ },
+ "https://workers.cloudflare.com": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 756607
+ },
+ "https://workingcopy.app": {
+  "status": 200,
+  "keywords": [],
+  "size": 107307
+ },
+ "https://www.7-zip.org": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 7137
+ },
+ "https://www.actionlogement.fr/l-aide-mobili-jeune": {
+  "status": 200,
+  "keywords": [
+   "gratuit",
+   "jeune",
+   "scolaire"
+  ],
+  "size": 105047
+ },
+ "https://www.actionlogement.fr/l-avance-loca-pass": {
+  "status": 200,
+  "keywords": [
+   "jeune",
+   "\u00e9tudiant"
+  ],
+  "size": 100654
+ },
+ "https://www.adafruit.com": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 42920
+ },
+ "https://www.algoexpert.io": {
+  "status": 200,
+  "keywords": [],
+  "size": 8942
+ },
+ "https://www.amazon.co.uk/primestudent": {
+  "status": 200,
+  "keywords": [
+   "free",
+   "school",
+   "student"
+  ],
+  "size": 756819
+ },
+ "https://www.amazon.fr/amazonprime": {
+  "status": 200,
+  "keywords": [
+   "free",
+   "student"
+  ],
+  "size": 367252
+ },
+ "https://www.ansys.com/academic/students": {
+  "status": 200,
+  "keywords": [
+   "academic",
+   "education",
+   "free",
+   "student",
+   "university"
+  ],
+  "size": 1043153
+ },
+ "https://www.arduino.cc/education/github-students/": {
+  "status": 200,
+  "keywords": [
+   "discount",
+   "education",
+   "free",
+   "student"
+  ],
+  "size": 90658
+ },
+ "https://www.audacityteam.org": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 135039
+ },
+ "https://www.axure.com/edu/": {
+  "status": 200,
+  "keywords": [
+   "academic",
+   "discount",
+   "edu",
+   "education",
+   "free",
+   "school",
+   "student"
+  ],
+  "size": 31479
+ },
+ "https://www.backblaze.com/b2/cloud-storage.html": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "free"
+  ],
+  "size": 238182
+ },
+ "https://www.backmarket.com": {
+  "status": 200,
+  "keywords": [
+   "campus",
+   "discount",
+   "free",
+   "student"
+  ],
+  "size": 1124516
+ },
+ "https://www.biorxiv.org": {
+  "status": 200,
+  "keywords": [
+   "education"
+  ],
+  "size": 45776
+ },
+ "https://www.blackfire.io": {
+  "status": 200,
+  "keywords": [
+   "free",
+   "student"
+  ],
+  "size": 150696
+ },
+ "https://www.blackmagicdesign.com/products/davinciresolve": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 343718
+ },
+ "https://www.blender.org": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "free"
+  ],
+  "size": 121071
+ },
+ "https://www.boot.dev": {
+  "status": 200,
+  "keywords": [
+   "discount",
+   "education",
+   "free",
+   "school",
+   "student",
+   "university"
+  ],
+  "size": 249665
+ },
+ "https://www.boursobank.com": {
+  "status": 200,
+  "keywords": [
+   "gratuit",
+   "jeune"
+  ],
+  "size": 350580
+ },
+ "https://www.brevo.com": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "free"
+  ],
+  "size": 557383
+ },
+ "https://www.browserstack.com/github-students": {
+  "status": 200,
+  "keywords": [
+   "free",
+   "student",
+   "university"
+  ],
+  "size": 477378
+ },
+ "https://www.caf.fr": {
+  "status": 200,
+  "keywords": [
+   "jeune",
+   "\u00e9tudiant"
+  ],
+  "size": 125369
+ },
+ "https://www.cambercloud.com": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "free"
+  ],
+  "size": 201075
+ },
+ "https://www.campusfrance.org": {
+  "status": 200,
+  "keywords": [
+   "campus",
+   "education",
+   "university",
+   "\u00e9tudiant"
+  ],
+  "size": 189260
+ },
+ "https://www.canva.com": {
+  "status": 200,
+  "keywords": [
+   "academic",
+   "campus",
+   "edu",
+   "education",
+   "free",
+   "school",
+   "student",
+   "university"
+  ],
+  "size": 498881
+ },
+ "https://www.chess.com": {
+  "status": 200,
+  "keywords": [
+   "free",
+   "student"
+  ],
+  "size": 134138
+ },
+ "https://www.classcentral.com": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "free",
+   "student",
+   "university"
+  ],
+  "size": 606337
+ },
+ "https://www.cloudflare.com/products/r2/": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 390421
+ },
+ "https://www.cloudflare.com/products/tunnel/": {
+  "status": 200,
+  "keywords": [],
+  "size": 292662
+ },
+ "https://www.cnous.fr": {
+  "status": 200,
+  "keywords": [
+   "campus",
+   "education",
+   "gratuit",
+   "jeune",
+   "student",
+   "\u00e9tudiant"
+  ],
+  "size": 273666
+ },
+ "https://www.codedex.io/github-students": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "student"
+  ],
+  "size": 6322
+ },
+ "https://www.codewars.com": {
+  "status": 200,
+  "keywords": [
+   "school",
+   "student"
+  ],
+  "size": 114107
+ },
+ "https://www.connectedpapers.com": {
+  "status": 200,
+  "keywords": [
+   "academic"
+  ],
+  "size": 3876
+ },
+ "https://www.continue.dev": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 41663
+ },
+ "https://www.coursera.org": {
+  "status": 200,
+  "keywords": [],
+  "size": 799184
+ },
+ "https://www.culture.gouv.fr": {
+  "status": 200,
+  "keywords": [
+   "gratuit",
+   "\u00e9tudiant"
+  ],
+  "size": 199342
+ },
+ "https://www.darktable.org": {
+  "status": 200,
+  "keywords": [],
+  "size": 12101
+ },
+ "https://www.dashlane.com": {
+  "status": 200,
+  "keywords": [
+   "free",
+   "university"
+  ],
+  "size": 489940
+ },
+ "https://www.datacamp.com/github-students": {
+  "status": 200,
+  "keywords": [
+   "campus",
+   "discount",
+   "education",
+   "free",
+   "school",
+   "student",
+   "university"
+  ],
+  "size": 260821
+ },
+ "https://www.deeplearning.ai/short-courses/": {
+  "status": 200,
+  "keywords": [
+   "university"
+  ],
+  "size": 1349787
+ },
+ "https://www.deezer.com/fr/offers/student": {
+  "status": 200,
+  "keywords": [
+   "gratuit",
+   "student",
+   "\u00e9tudiant"
+  ],
+  "size": 67786
+ },
+ "https://www.deezer.com/offers/student": {
+  "status": 200,
+  "keywords": [
+   "campus",
+   "discount",
+   "free",
+   "student",
+   "university",
+   "\u00e9tudiant"
+  ],
+  "size": 66689
+ },
+ "https://www.desmos.com": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 9704
+ },
+ "https://www.doabooks.org": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 54439
+ },
+ "https://www.docker.com": {
+  "status": 200,
+  "keywords": [],
+  "size": 505382
+ },
+ "https://www.doppler.com": {
+  "status": 200,
+  "keywords": [
+   "free",
+   "student"
+  ],
+  "size": 521944
+ },
+ "https://www.drawio.com": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 24255
+ },
+ "https://www.duolingo.com": {
+  "status": 200,
+  "keywords": [],
+  "size": 11219
+ },
+ "https://www.eduroam.org": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "school"
+  ],
+  "size": 123707
+ },
+ "https://www.edx.org": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "free",
+   "school",
+   "student",
+   "university"
+  ],
+  "size": 2469794
+ },
+ "https://www.etudiant.gouv.fr": {
+  "status": 200,
+  "keywords": [
+   "campus",
+   "education",
+   "gratuit",
+   "jeune",
+   "student",
+   "\u00e9tudiant"
+  ],
+  "size": 273666
+ },
+ "https://www.eyca.org": {
+  "status": 200,
+  "keywords": [
+   "discount",
+   "student"
+  ],
+  "size": 146887
+ },
+ "https://www.fast.ai": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "free",
+   "school",
+   "student",
+   "university"
+  ],
+  "size": 252200
+ },
+ "https://www.fastweb.com": {
+  "status": 200,
+  "keywords": [
+   "academic",
+   "discount",
+   "education",
+   "free",
+   "school",
+   "student"
+  ],
+  "size": 75012
+ },
+ "https://www.figma.com/education/": {
+  "status": 200,
+  "keywords": [
+   "edu",
+   "education",
+   "free",
+   "school",
+   "student"
+  ],
+  "size": 1766142
+ },
+ "https://www.firefly-iii.org": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 12795
+ },
+ "https://www.fortuneo.fr": {
+  "status": 200,
+  "keywords": [
+   "free",
+   "gratuit"
+  ],
+  "size": 828802
+ },
+ "https://www.freecad.org": {
+  "status": -1,
+  "keywords": [],
+  "size": "('Connection aborted.', ConnectionAbortedError(10053, 'Une connexion \u00e9tablie a \u00e9"
+ },
+ "https://www.freecodecamp.org": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 8247
+ },
+ "https://www.geogebra.org": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "free",
+   "school",
+   "student",
+   "university"
+  ],
+  "size": 233687
+ },
+ "https://www.getastra.com": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 208178
+ },
+ "https://www.gimp.org": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 21735
+ },
+ "https://www.git-tower.com/students/github": {
+  "status": 200,
+  "keywords": [
+   "discount",
+   "education",
+   "free",
+   "student"
+  ],
+  "size": 104545
+ },
+ "https://www.gitkraken.com/github-student-developer-pack": {
+  "status": 200,
+  "keywords": [
+   "discount",
+   "education",
+   "free",
+   "student"
+  ],
+  "size": 408244
+ },
+ "https://www.glassdoor.com": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "free",
+   "gratuit",
+   "jeune",
+   "student",
+   "university",
+   "\u00e9tudiant"
+  ],
+  "size": 721007
+ },
+ "https://www.gog.com": {
+  "status": 200,
+  "keywords": [
+   "discount",
+   "free",
+   "gratuit"
+  ],
+  "size": 1683198
+ },
+ "https://www.gov.uk/student-finance": {
+  "status": 200,
+  "keywords": [
+   "academic",
+   "education",
+   "free",
+   "student",
+   "university"
+  ],
+  "size": 139969
+ },
+ "https://www.grammarly.com": {
+  "status": 200,
+  "keywords": [
+   "academic",
+   "discount",
+   "edu",
+   "education",
+   "free",
+   "school",
+   "student",
+   "university"
+  ],
+  "size": 552758
+ },
+ "https://www.gutenberg.org": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "free"
+  ],
+  "size": 30273
+ },
+ "https://www.hackerrank.com": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 109204
+ },
+ "https://www.hellobank.fr": {
+  "status": 200,
+  "keywords": [
+   "gratuit",
+   "jeune"
+  ],
+  "size": 193630
+ },
+ "https://www.heroku.com/github-students": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "free",
+   "student"
+  ],
+  "size": 313835
+ },
+ "https://www.honeybadger.io": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 204298
+ },
+ "https://www.iefa.org": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "school",
+   "student",
+   "university"
+  ],
+  "size": 74594
+ },
+ "https://www.ilovepdf.com": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "free"
+  ],
+  "size": 129919
+ },
+ "https://www.internationalscholarships.com": {
+  "status": 200,
+  "keywords": [
+   "academic",
+   "education",
+   "free",
+   "student",
+   "university"
+  ],
+  "size": 50450
+ },
+ "https://www.interrail.eu": {
+  "status": 200,
+  "keywords": [],
+  "size": 134101
+ },
+ "https://www.interviewcake.com": {
+  "status": 200,
+  "keywords": [
+   "academic",
+   "free",
+   "school",
+   "student",
+   "university"
+  ],
+  "size": 317207
+ },
+ "https://www.isic.org": {
+  "status": 200,
+  "keywords": [
+   "academic",
+   "discount",
+   "edu",
+   "education",
+   "student"
+  ],
+  "size": 1305065
+ },
+ "https://www.jetbrains.com/ai/": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "student",
+   "university"
+  ],
+  "size": 3189622
+ },
+ "https://www.jetbrains.com/community/education/": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "free",
+   "student",
+   "university"
+  ],
+  "size": 66164
+ },
+ "https://www.jobteaser.com": {
+  "status": 200,
+  "keywords": [
+   "academic",
+   "school",
+   "student",
+   "university"
+  ],
+  "size": 133308
+ },
+ "https://www.jstor.org": {
+  "status": 200,
+  "keywords": [],
+  "size": 3036
+ },
+ "https://www.khanacademy.org": {
+  "status": 200,
+  "keywords": [],
+  "size": 3036
+ },
+ "https://www.kicad.org": {
+  "status": 200,
+  "keywords": [],
+  "size": 72347
+ },
+ "https://www.koyeb.com": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 730769
+ },
+ "https://www.lambdatest.com": {
+  "status": 200,
+  "keywords": [
+   "discount",
+   "free"
+  ],
+  "size": 229601
+ },
+ "https://www.lescrous.fr": {
+  "status": 200,
+  "keywords": [
+   "campus",
+   "jeune",
+   "scolaire",
+   "\u00e9tudiant"
+  ],
+  "size": 437244
+ },
+ "https://www.libreoffice.org": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 44685
+ },
+ "https://www.linkedin.com": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "free",
+   "school"
+  ],
+  "size": 513288
+ },
+ "https://www.maxon.net/en/buy/plan-pricing-for-students": {
+  "status": 200,
+  "keywords": [
+   "discount",
+   "education",
+   "school",
+   "student",
+   "university"
+  ],
+  "size": 326425
+ },
+ "https://www.microsoft.com/education": {
+  "status": 200,
+  "keywords": [
+   "campus",
+   "education",
+   "student",
+   "\u00e9tudiant"
+  ],
+  "size": 237271
+ },
+ "https://www.microsoft.com/en-us/microsoft-365/microsoft-lens": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "free",
+   "school",
+   "student"
+  ],
+  "size": 201253
+ },
+ "https://www.moncompteformation.gouv.fr": {
+  "status": 200,
+  "keywords": [],
+  "size": 71989
+ },
+ "https://www.mongodb.com/atlas/database": {
+  "status": 200,
+  "keywords": [
+   "free",
+   "student",
+   "university"
+  ],
+  "size": 776348
+ },
+ "https://www.mongodb.com/students": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "free",
+   "school",
+   "student",
+   "university"
+  ],
+  "size": 218240
+ },
+ "https://www.myunidays.com": {
+  "status": 200,
+  "keywords": [
+   "gratuit",
+   "\u00e9tudiant"
+  ],
+  "size": 504649
+ },
+ "https://www.netacad.com": {
+  "status": 200,
+  "keywords": [],
+  "size": 5515
+ },
+ "https://www.netlify.com": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 410744
+ },
+ "https://www.notion.com/product/notion-for-education": {
+  "status": 200,
+  "keywords": [
+   "academic",
+   "campus",
+   "discount",
+   "education",
+   "free",
+   "school",
+   "student",
+   "university"
+  ],
+  "size": 131072
+ },
+ "https://www.notion.so/students": {
+  "status": 200,
+  "keywords": [
+   "academic",
+   "campus",
+   "discount",
+   "education",
+   "free",
+   "school",
+   "student",
+   "university"
+  ],
+  "size": 131072
+ },
+ "https://www.nvidia.com/geforce-now/": {
+  "status": 200,
+  "keywords": [],
+  "size": 234537
+ },
+ "https://www.onlyoffice.com": {
+  "status": 200,
+  "keywords": [
+   "discount",
+   "free",
+   "school",
+   "university"
+  ],
+  "size": 123093
+ },
+ "https://www.open.edu/openlearn/": {
+  "status": 403,
+  "keywords": [
+   "edu"
+  ],
+  "size": 5721
+ },
+ "https://www.oracle.com/cloud/free/": {
+  "status": 200,
+  "keywords": [
+   "discount",
+   "free"
+  ],
+  "size": 80577
+ },
+ "https://www.ouigo.com": {
+  "status": 200,
+  "keywords": [],
+  "size": 129540
+ },
+ "https://www.outreachy.org": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 16906
+ },
+ "https://www.overleaf.com": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "free",
+   "student",
+   "university"
+  ],
+  "size": 59444
+ },
+ "https://www.paramountplus.com": {
+  "status": 200,
+  "keywords": [
+   "discount",
+   "edu",
+   "free",
+   "gratuit",
+   "jeune"
+  ],
+  "size": 416864
+ },
+ "https://www.pathe.fr": {
+  "status": 200,
+  "keywords": [
+   "gratuit",
+   "jeune",
+   "\u00e9tudiant"
+  ],
+  "size": 4196346
+ },
+ "https://www.perplexity.ai": {
+  "status": 403,
+  "keywords": [],
+  "size": 5717
+ },
+ "https://www.pexels.com": {
+  "status": 403,
+  "keywords": [],
+  "size": 5714
+ },
+ "https://www.photopea.com": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "free",
+   "student"
+  ],
+  "size": 16438
+ },
+ "https://www.postman.com": {
+  "status": 200,
+  "keywords": [
+   "discount",
+   "free",
+   "university"
+  ],
+  "size": 475300
+ },
+ "https://www.railcard.co.uk": {
+  "status": 200,
+  "keywords": [
+   "discount",
+   "free",
+   "student"
+  ],
+  "size": 113977
+ },
+ "https://www.remove.bg": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 59989
+ },
+ "https://www.researchrabbit.ai": {
+  "status": 200,
+  "keywords": [
+   "academic",
+   "free",
+   "student",
+   "university"
+  ],
+  "size": 52182
+ },
+ "https://www.revolut.com": {
+  "status": 403,
+  "keywords": [],
+  "size": 818369
+ },
+ "https://www.rotary.org": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "free",
+   "student",
+   "university"
+  ],
+  "size": 316006
+ },
+ "https://www.rundfunkbeitrag.de": {
+  "status": 200,
+  "keywords": [
+   "free",
+   "student"
+  ],
+  "size": 283528
+ },
+ "https://www.sante.fr": {
+  "status": 200,
+  "keywords": [
+   "gratuit"
+  ],
+  "size": 224007
+ },
+ "https://www.saylor.org": {
+  "status": 200,
+  "keywords": [
+   "university"
+  ],
+  "size": 3474
+ },
+ "https://www.scholarshipportal.com": {
+  "status": 403,
+  "keywords": [],
+  "size": 5760
+ },
+ "https://www.scholarships.com": {
+  "status": 200,
+  "keywords": [
+   "academic",
+   "discount",
+   "education",
+   "free",
+   "school",
+   "student",
+   "university"
+  ],
+  "size": 209201
+ },
+ "https://www.semanticscholar.org": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 182447
+ },
+ "https://www.service-public.fr": {
+  "status": 200,
+  "keywords": [
+   "gratuit",
+   "scolaire"
+  ],
+  "size": 52966
+ },
+ "https://www.service-public.fr/particuliers/vosdroits/F10027": {
+  "status": 200,
+  "keywords": [
+   "gratuit",
+   "jeune"
+  ],
+  "size": 328007
+ },
+ "https://www.sketch.com/education/": {
+  "status": 200,
+  "keywords": [
+   "academic",
+   "discount",
+   "education",
+   "free",
+   "school",
+   "student",
+   "university"
+  ],
+  "size": 104394
+ },
+ "https://www.skills.google": {
+  "status": 200,
+  "keywords": [],
+  "size": 53469
+ },
+ "https://www.smeno.com": {
+  "status": 200,
+  "keywords": [
+   "jeune",
+   "scolaire",
+   "student",
+   "\u00e9tudiant"
+  ],
+  "size": 92264
+ },
+ "https://www.spccard.ca": {
+  "status": 200,
+  "keywords": [
+   "discount",
+   "student"
+  ],
+  "size": 6073
+ },
+ "https://www.splitwise.com": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 139543
+ },
+ "https://www.spotify.com/fr/student/": {
+  "status": 200,
+  "keywords": [
+   "free",
+   "gratuit",
+   "student",
+   "\u00e9tudiant"
+  ],
+  "size": 78320
+ },
+ "https://www.spotify.com/student/": {
+  "status": 200,
+  "keywords": [
+   "free",
+   "gratuit",
+   "student",
+   "\u00e9tudiant"
+  ],
+  "size": 78225
+ },
+ "https://www.spotify.com/us/student/": {
+  "status": 200,
+  "keywords": [
+   "discount",
+   "education",
+   "free",
+   "school",
+   "student",
+   "university"
+  ],
+  "size": 103849
+ },
+ "https://www.sqlgate.com/student-pack": {
+  "status": 200,
+  "keywords": [
+   "discount",
+   "education",
+   "free",
+   "school",
+   "student"
+  ],
+  "size": 189108
+ },
+ "https://www.ssrn.com": {
+  "status": 200,
+  "keywords": [
+   "academic",
+   "education"
+  ],
+  "size": 70054
+ },
+ "https://www.studentbeans.com": {
+  "status": 200,
+  "keywords": [
+   "academic",
+   "discount",
+   "edu",
+   "education",
+   "free",
+   "school",
+   "student",
+   "university"
+  ],
+  "size": 170539
+ },
+ "https://www.studentuniverse.com": {
+  "status": 403,
+  "keywords": [
+   "student"
+  ],
+  "size": 5701
+ },
+ "https://www.studyportals.com": {
+  "status": 200,
+  "keywords": [
+   "academic",
+   "campus",
+   "education",
+   "school",
+   "student",
+   "university"
+  ],
+  "size": 177515
+ },
+ "https://www.techinterviewhandbook.org": {
+  "status": 200,
+  "keywords": [
+   "free",
+   "university"
+  ],
+  "size": 46947
+ },
+ "https://www.techinterviewhandbook.org/grind75/": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 13265
+ },
+ "https://www.theodinproject.com": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "free"
+  ],
+  "size": 106954
+ },
+ "https://www.totum.com": {
+  "status": 200,
+  "keywords": [
+   "academic",
+   "discount",
+   "education",
+   "free",
+   "school",
+   "student",
+   "university"
+  ],
+  "size": 909369
+ },
+ "https://www.tricount.com": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 892827
+ },
+ "https://www.turkiyeburslari.gov.tr": {
+  "status": 200,
+  "keywords": [
+   "academic",
+   "education",
+   "free",
+   "school",
+   "student",
+   "university"
+  ],
+  "size": 88489
+ },
+ "https://www.ugc.fr": {
+  "status": 200,
+  "keywords": [
+   "scolaire"
+  ],
+  "size": 81171
+ },
+ "https://www.unrealengine.com/students-and-schools": {
+  "status": 403,
+  "keywords": [
+   "school",
+   "student"
+  ],
+  "size": 24994
+ },
+ "https://www.usebruno.com": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 612036
+ },
+ "https://www.virustotal.com": {
+  "status": 200,
+  "keywords": [],
+  "size": 7106
+ },
+ "https://www.visale.fr": {
+  "status": 200,
+  "keywords": [
+   "gratuit"
+  ],
+  "size": 78518
+ },
+ "https://www.visme.co": {
+  "status": 200,
+  "keywords": [
+   "edu",
+   "education",
+   "free",
+   "student"
+  ],
+  "size": 365340
+ },
+ "https://www.welcometothejungle.com": {
+  "status": 200,
+  "keywords": [],
+  "size": 533541
+ },
+ "https://www.workatastartup.com": {
+  "status": 406,
+  "keywords": [],
+  "size": 0
+ },
+ "https://www.xojo.com": {
+  "status": 200,
+  "keywords": [
+   "free",
+   "school",
+   "university"
+  ],
+  "size": 36240
+ },
+ "https://www.ynab.com/college": {
+  "status": 200,
+  "keywords": [
+   "education",
+   "free",
+   "school",
+   "student",
+   "university"
+  ],
+  "size": 136646
+ },
+ "https://www.youtube.com/premium/student": {
+  "status": 200,
+  "keywords": [
+   "student"
+  ],
+  "size": 581373
+ },
+ "https://www.zotero.org": {
+  "status": 200,
+  "keywords": [
+   "free",
+   "student"
+  ],
+  "size": 45025
+ },
+ "https://www.zyte.com": {
+  "status": 200,
+  "keywords": [
+   "free"
+  ],
+  "size": 435282
+ },
+ "https://zed.dev/education": {
+  "status": 200,
+  "keywords": [
+   "campus",
+   "education",
+   "free",
+   "student",
+   "university"
+  ],
+  "size": 1468406
+ }
+}
