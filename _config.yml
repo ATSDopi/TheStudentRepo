@@ -6,3 +6,5 @@ description: Every student discount, credit, freebie and free tool — sorted by
 show_downloads: false
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-titles-from-headings

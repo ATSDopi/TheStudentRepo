@@ -1,3 +1,4 @@
+<!--lint disable table-pipe-alignment table-cell-padding double-link no-emphasis-as-heading awesome-list-item-->
 <div align="center">
 
 <img src=".github/social-preview.png" alt="Student Offers — The Ultimate List" width="640">
@@ -6,18 +7,32 @@
 
 **Every student discount, credit, freebie and free tool — sorted by category and country, with the verification method for each offer.**
 
-![Offers](https://img.shields.io/badge/offers-550%2B-blue)
+![Offers](https://img.shields.io/badge/offers-800%2B-blue)
 ![Total value](https://img.shields.io/badge/total%20value-%2435%2C000%2B-red)
 ![Verified](https://img.shields.io/badge/checked-nov.%202026-green)
 ![Scope](https://img.shields.io/badge/scope-international-orange)
 ![Contributions](https://img.shields.io/badge/PRs-welcome-brightgreen)
 ![Views](https://gitviews.com/repo/ATSDopi/TheStudentRepo.svg?base=1396&label=Views&style=flat&color=0e75b6)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 *AI · Dev · Cloud · Learning · Design · Career · Streaming · Money · Scholarships · By country*
+
+**⭐ [Star the repo](https://github.com/ATSDopi/TheStudentRepo) — it helps other students find it.**
+[Share on X](https://twitter.com/intent/tweet?text=Every%20student%20discount%2C%20credit%20%26%20freebie%20%E2%80%94%20sorted%20by%20category%20and%20country%20%F0%9F%8E%93&url=https%3A%2F%2Fgithub.com%2FATSDopi%2FTheStudentRepo) · [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2FATSDopi%2FTheStudentRepo) · [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2FATSDopi%2FTheStudentRepo&title=The%20ultimate%20student%20offers%20list%20%E2%80%94%20every%20discount%2C%20credit%20%26%20freebie%20by%20country) · [Discussions](https://github.com/ATSDopi/TheStudentRepo/discussions)
 
 </div>
 
 A community-maintained, international list of everything a student can get for free or cheap: student software discounts, cloud credits, free developer tools, free courses and certificates, scholarships, transport passes, banking perks and more — each entry with its verification method (SheerID, UNiDAYS, Student Beans, GitHub Student Developer Pack, ISIC…). **Contributions welcome.**
+
+---
+
+## 📑 Contents
+
+- [🔑 Step 0 — Get verified](#-step-0--get-verified-unlocks-90-of-all-offers) — unlocks ~90% of all offers
+- [⭐ Top 10](#-top-10--do-these-first) — the highest-value offers first
+- [📚 Browse the list](#-browse-the-list) — 11 category pages
+- 📖 Category docs: [AI](docs/ai.md) · [GitHub Pack](docs/github-pack.md) · [Dev & cloud](docs/dev.md) · [Design](docs/design.md) · [Learning](docs/learning.md) · [Career](docs/career.md) · [Productivity](docs/productivity.md) · [Entertainment](docs/entertainment.md) · [Money](docs/money.md) · [Scholarships](docs/scholarships.md) · [By country](docs/countries.md)
+- [⚠️ Pitfalls & deadlines](#️-pitfalls--deadlines) · [🚀 Action plan](#-action-plan) · [🤝 Contributing](#-contributing)
 
 ---
 
@@ -73,7 +88,7 @@ Almost every offer on this list gates behind one of these verification systems. 
 | 📺 **Streaming, media & gaming** | [docs/entertainment.md](docs/entertainment.md) | Spotify/Apple/YT student plans, Headspace -85%, free games, library streaming |
 | 💰 **Money, banking & budgeting** | [docs/money.md](docs/money.md) | No-fee accounts, budgeting apps, tech student stores, travel fares, money traps |
 | 🎓 **Scholarships & grants** | [docs/scholarships.md](docs/scholarships.md) | Erasmus Mundus, Fulbright, DAAD, GKS, Mastercard Foundation + databases |
-| 🗺️ **Offers by country** | [docs/countries.md](docs/countries.md) | 26 countries + EU/Nordics — transport, banking, gov aid, local perks |
+| 🗺️ **Offers by country** | [docs/countries.md](docs/countries.md) | 62 country sections (~65 countries) + EU — transport, banking, gov aid, local perks |
 
 > 🚧 Country sections beyond France are works in progress — **[add yours](CONTRIBUTING.md)**!
 

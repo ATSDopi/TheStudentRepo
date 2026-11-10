@@ -1,3 +1,4 @@
+<!--lint disable awesome-heading awesome-badge awesome-list-item-->
 # AGENTS.md — Student Offers repo
 
 ## What this is
@@ -18,7 +19,7 @@ A community-maintained, **international** list of student discounts, credits, fr
   - `entertainment.md` — streaming student plans, free games
   - `money.md` — banking, budgeting, money traps
   - `scholarships.md` — international scholarships + databases
-  - `countries.md` — country-specific perks (26 countries + EU/Nordics + stub)
+  - `countries.md` — country-specific perks (62 sections, ~65 countries + EU + stub)
 - `CONTRIBUTING.md` — entry format and rules
 - `LICENSE` — MIT
 - `.github/` — issue templates (expired offer, new offer, new resource) + weekly lychee link-check workflow
@@ -53,9 +54,15 @@ A community-maintained, **international** list of student discounts, credits, fr
 
 ## Roadmap / ideas
 
-- Expand country sections (most are 🚧) — biggest contribution lever
-- Once coverage is broad, format could be adapted for the `awesome` list index (sindresorhus/awesome requirements)
+- Expand country sections (most are 🚧) — biggest contribution lever (issues #11–19 open for priority countries)
+- Once coverage is broad, format could be adapted for the `awesome` list index (sindresorhus/awesome requirements) — `awesome` topic, badge and lint status already done
 - Flip lychee `fail: false` → `true` once the link backlog is clean
+
+## Launch / promotion
+
+- `launch/README.md` — full launch kit: day-by-day checklist + copy-paste posts (Show HN, Product Hunt, Reddit EN/FR/localized, X, LinkedIn, Dealabs, Discord, BDE email, newsletters)
+- Done: `awesome` topic + badge, `<!--lint disable-->` comment at top of README (compact tables vs awesome-lint), Discussions enabled, share CTAs in README header, `jekyll-seo-tag`+`jekyll-sitemap`+`jekyll-titles-from-headings` in `_config.yml`
+- Manual only: upload `.github/social-preview.png` in Settings → Social preview, Google Search Console sitemap, actual posting
 
 ## When the list changes
 
