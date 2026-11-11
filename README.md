@@ -7,8 +7,8 @@
 
 **Every student discount, credit, freebie and free tool — sorted by category and country, with the verification method for each offer.**
 
-![Offers](https://img.shields.io/badge/offers-800%2B-blue)
-![Total value](https://img.shields.io/badge/total%20value-%2435%2C000%2B-red)
+![Offers](https://img.shields.io/badge/offers-1%2C300%2B-blue)
+![Total value](https://img.shields.io/badge/total%20value-%2445%2C000%2B-red)
 ![Verified](https://img.shields.io/badge/checked-nov.%202026-green)
 ![Scope](https://img.shields.io/badge/scope-international-orange)
 ![Contributions](https://img.shields.io/badge/PRs-welcome-brightgreen)
@@ -30,6 +30,7 @@ A community-maintained, international list of everything a student can get for f
 
 - [🔑 Step 0 — Get verified](#-step-0--get-verified-unlocks-90-of-all-offers) — unlocks ~90% of all offers
 - [⭐ Top 10](#-top-10--do-these-first) — the highest-value offers first
+- [🆕 Recently added](#-recently-added) — newest verified finds
 - [📚 Browse the list](#-browse-the-list) — 11 category pages
 - 📖 Category docs: [AI](docs/ai.md) · [GitHub Pack](docs/github-pack.md) · [Dev & cloud](docs/dev.md) · [Design](docs/design.md) · [Learning](docs/learning.md) · [Career](docs/career.md) · [Productivity](docs/productivity.md) · [Entertainment](docs/entertainment.md) · [Money](docs/money.md) · [Scholarships](docs/scholarships.md) · [By country](docs/countries.md)
 - [⚠️ Pitfalls & deadlines](#️-pitfalls--deadlines) · [🚀 Action plan](#-action-plan) · [🤝 Contributing](#-contributing)
@@ -78,19 +79,30 @@ Almost every offer on this list gates behind one of these verification systems. 
 
 | Category | File | What's inside |
 |---|---|---|
-| 🤖 **AI & coding assistants** | [docs/ai.md](docs/ai.md) | Cursor, Copilot, Zed, Google AI, ElevenLabs + free AI tiers |
-| 🐙 **GitHub Student Developer Pack** | [docs/github-pack.md](docs/github-pack.md) | One signup → 70+ offers: Copilot, domains, cloud, courses, tools |
+| 🤖 **AI & coding assistants** | [docs/ai.md](docs/ai.md) | Cursor free year, Copilot, Perplexity/ElevenLabs + free AI & API tiers |
+| 🐙 **GitHub Student Developer Pack** | [docs/github-pack.md](docs/github-pack.md) | One signup → 80+ offers: Copilot, domains, cloud, courses, tools |
 | ☁️ **Dev tools, cloud & free tiers** | [docs/dev.md](docs/dev.md) | Azure/AWS/Oracle, free ML GPUs (Kaggle/Colab) + a complete $0 hosting stack |
-| 🎨 **Design, 3D, gamedev & audio** | [docs/design.md](docs/design.md) | Figma, Autodesk, Unity, Onshape, Ableton (-50%) + free assets & alternatives |
-| 📖 **Learning, courses & textbooks** | [docs/learning.md](docs/learning.md) | freeCodeCamp, CS50, MOOCs, cyber training, OpenStax, academic tools — with free-cert flags |
-| 💼 **Career & internships** | [docs/career.md](docs/career.md) | Free CV builders, interview prep, paid fellowships & internships abroad (GSoC, IAESTE…), job boards |
-| 🧠 **Study tools & useful sites** | [docs/productivity.md](docs/productivity.md) | Anki, Obsidian, GeoGebra, open-source alternatives, everyday websites |
-| 📺 **Streaming, media & gaming** | [docs/entertainment.md](docs/entertainment.md) | Spotify/Apple/YT student plans, Headspace -85%, free games, library streaming |
-| 💰 **Money, banking & budgeting** | [docs/money.md](docs/money.md) | No-fee accounts, budgeting apps, tech student stores, travel fares, money traps |
+| 🎨 **Design, 3D, engineering & audio** | [docs/design.md](docs/design.md) | Figma, Autodesk, **free** Ansys/Siemens NX/Substance/Lumion/Vectorworks, Ableton -50% + free assets |
+| 📖 **Learning, courses & textbooks** | [docs/learning.md](docs/learning.md) | freeCodeCamp, CS50, MOOCs, cyber training, OpenStax, **free certifications** (AWS/Oracle/IBM) |
+| 💼 **Career & internships** | [docs/career.md](docs/career.md) | Free CV builders, interview prep, **paid fellowships** (GSoC, IAESTE, CERN…), job boards, volunteering |
+| 🧠 **Study tools & useful sites** | [docs/productivity.md](docs/productivity.md) | Anki, Obsidian, VPN student deals, open-source alternatives, 100+ everyday websites |
+| 📺 **Streaming, media & gaming** | [docs/entertainment.md](docs/entertainment.md) | Spotify/Apple/YT student plans, Headspace -85%, free games & **legal free streaming** |
+| 💰 **Money, banking & budgeting** | [docs/money.md](docs/money.md) | No-fee accounts, budgeting apps, tech student stores, paid studies, money traps |
 | 🎓 **Scholarships & grants** | [docs/scholarships.md](docs/scholarships.md) | Erasmus Mundus, Fulbright, DAAD, GKS, Mastercard Foundation + databases |
-| 🗺️ **Offers by country** | [docs/countries.md](docs/countries.md) | 140 country sections (~145 countries) + EU + flight fares — transport, banking, gov aid, local perks |
+| 🗺️ **Offers by country** | [docs/countries.md](docs/countries.md) | 140 country sections (~145 countries) + EU + **student flight fares** — transport, banking, gov aid |
 
 > 🚧 Country sections beyond France are works in progress — **[add yours](CONTRIBUTING.md)**!
+
+### 🆕 Recently added
+
+| New find | Where |
+|---|---|
+| ✈️ **Student flight fares** — Qatar Student Club, Turkish (-20%), Emirates, Singapore, Cathay, Lufthansa, Air France youth | [countries.md](docs/countries.md#-student-flight-fares--international) |
+| 🏗️ **Free engineering suites** — Ansys Student, Siemens NX/Solid Edge/Simcenter, Altair, PTC Creo, ArchiCAD | [design.md](docs/design.md) |
+| 🎬 **Free pro creative tools** — Substance 3D, Lumion Pro, Vectorworks, Foundry (Nuke), D5 Render, Twinmotion | [design.md](docs/design.md) |
+| 🛡️ **VPN student deals** — NordVPN -81%, Surfshark -88%, Proton -70% (Student Beans) | [productivity.md](docs/productivity.md) |
+| 📚 **Free certifications** — AWS Educate, Oracle Foundations, IBM SkillsBuild, MongoDB U | [learning.md](docs/learning.md) |
+| 🌍 **11 new countries** — Russia (free budget places!), Belarus, Georgia, Armenia, Azerbaijan, Moldova, Montenegro, Kosovo, Suriname, Belize, Mozambique | [countries.md](docs/countries.md) |
 
 ### Legend — every category page is split in two
 
@@ -118,6 +130,8 @@ Almost every offer on this list gates behind one of these verification systems. 
 | DigitalOcean | Offer **expired** (left the Pack mid-2026) → use Azure/Oracle instead |
 | Postman Student Program | **Discontinued** — only the free plan remains |
 | Suno Student | **Gone** — students.suno.com no longer exists and suno.com/pricing has no student plan |
+| Webflow Students | **Discontinued** (early 2026) → use Framer's free student plan instead |
+| Brilliant, Xbox Game Pass, Netflix, HBO | **No student plan exists** — blog posts claiming one are outdated or affiliate bait |
 | 🇫🇷 €1 CROUS meals | Requires a **student card + active Izly account**, 1 meal per service |
 | 🇫🇷 Pass Culture | No new credit after 18; existing balance usable until 21 |
 | "Free lifetime Copilot", unofficial discount sites | **Scams** — never enter payment info outside official stores |
@@ -136,6 +150,8 @@ Almost every offer on this list gates behind one of these verification systems. 
 - [ ] **Check your institution's portal** — Microsoft 365, LinkedIn Learning, MATLAB, journals… often already included
 - [ ] **If you move out** — housing aid / guarantor programs in your country (e.g. Visale + APL in France)
 - [ ] **Apply for aid** — national grants + your university's bursary fund → [docs/scholarships.md](docs/scholarships.md)
+- [ ] **Flying for studies?** — check student fares before booking: Qatar, Turkish, Emirates & more give 10-20% off + extra baggage → [countries.md](docs/countries.md#-student-flight-fares--international)
+- [ ] **International student in the US?** — no FAFSA? Look at MPOWER/Prodigy no-cosigner loans + your country's own aid schemes |
 
 ---
 
@@ -155,7 +171,7 @@ Our CI checks all links weekly — dead links get flagged automatically.
 
 <div align="center">
 
-💰 **Estimated cumulative value: $35,000+** in software, cloud credits, courses, scholarships and discounts — if every offer on this list were claimed.
+💰 **Estimated cumulative value: $45,000+** in software, cloud credits, courses, scholarships and discounts — if every offer on this list were claimed.
 
 *Community-maintained list — offers change quickly; always re-check the terms before signing up. Not affiliated with any listed company.*
 
