@@ -34,8 +34,14 @@ Student-verified AI offers plus the best free tiers. "Verify via" tells you how 
 | **DeepSeek** | Free chat + open weights | Fully free | [chat.deepseek.com](https://chat.deepseek.com) |
 | **Hugging Face** | Open-source models & datasets | Free, rate limits | [huggingface.co](https://huggingface.co) |
 | **Ollama / LM Studio** | Run models locally | Fully free | [ollama.com](https://ollama.com) |
+| **Google AI Studio** | Full Gemini models free in browser + generous free API quota | Rate limits | [aistudio.google.com](https://aistudio.google.com) |
+| **Groq / OpenRouter** | Fast free-tier inference; free models on OpenRouter | Rate limits | [groq.com](https://groq.com) · [openrouter.ai](https://openrouter.ai) |
+| **HuggingChat / Poe** | Free open-model chat hubs | Free tiers | [huggingface.co/chat](https://huggingface.co/chat) · [poe.com](https://poe.com) |
+| **Free image generation** | **Microsoft Designer / Bing Image Creator** · **Ideogram** · **Leonardo** | Free daily credits | [designer.microsoft.com](https://designer.microsoft.com) |
+| **Free AI music** | **Suno** · **Udio** free tiers — generate full songs | Daily credits | [suno.com](https://suno.com) · [udio.com](https://www.udio.com) |
 | **Google Colab** | Free GPU notebooks (T4) for Python/ML | Limited sessions + compute quotas | [colab.research.google.com](https://colab.research.google.com) |
 | **Continue.dev / Void** | Open-source AI autocomplete/IDE (Copilot & Cursor alternatives) | Fully free, BYO model/API key | [continue.dev](https://www.continue.dev) · [voideditor.com](https://voideditor.com) |
+| **AI dev tools free tiers** | **Phind** (dev search) · **v0** (UI gen) · **bolt.new** · **Lovable** · **Cline** (VS Code agent) | Free tiers / BYO key | [phind.com](https://www.phind.com) · [v0.dev](https://v0.dev) · [bolt.new](https://bolt.new) |
 
 ## ⚠️ Watch out
 

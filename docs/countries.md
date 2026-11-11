@@ -123,6 +123,7 @@
 | **Capital One student cards** | Savor/Quicksilver for Students — $0 fee, 1.5-3% cash back, $50 bonus | Enrollment | [capitalone.com/credit-cards/students](https://www.capitalone.com/credit-cards/students/) |
 | **State grants** | Every state has its own aid programs on top of FAFSA | State application | state aid sites |
 | **University emergency aid** | Hardship/emergency funds on most campuses — under-claimed | Student office | your institution |
+| **International student loans** | **MPOWER** · **Prodigy Finance** — no-cosigner loans for international students | Application (no FAFSA needed) | [mpowerfinancing.com](https://www.mpowerfinancing.com) · [prodigyfinance.com](https://prodigyfinance.com) |
 | **Job Corps** | Free vocational training + housing/meals for ages 16-24 (income-tested) | Application | [jobcorps.gov](https://www.jobcorps.gov) |
 | **Year Up** | Paid training + corporate internship for young adults (select cities) | Application | [yearup.org](https://www.yearup.org) |
 | **ID.me** | US verification platform — unlocks student deals at Best Buy, Lenovo… | .edu email | [id.me](https://www.id.me) |
@@ -144,6 +145,9 @@
 | **Xfinity student** | Campus/student internet deals | Student status | [xfinity.com](https://www.xfinity.com) |
 | **Back-to-school retail promos** | Apple gift-card promo, Best Buy events… (Jul-Sep) | Edu store | brand sites |
 | **Sportswear student discounts** | adidas ~-30%, Nike ~-10%, Under Armour, Gymshark… | UNiDAYS / Student Beans | brand sites |
+| **B&H EDU Advantage** | Photo/video/audio gear discounts (up to -50% select, 300+ brands) | UNiDAYS | [bhphotovideo.com/edu](https://www.bhphotovideo.com/edu) |
+| **Logitech student** | **-20%** on peripherals (US/CA) | SheerID | [logitech.com](https://www.logitech.com/en-us/programs/sheer-id) |
+| **DJI student** | ~-5% cameras, $20 off select drones | Student verification | [djiusa.com/student-discount](https://www.djiusa.com/pages/student-discount) |
 
 </details>
 
@@ -152,7 +156,7 @@
 
 | Offer | What you get | Verify via | Link |
 |---|---|---|---|
-| ⭐ **Spotify Premium Student** | $6.99/mo (vs $12.99) — **includes Hulu (with ads)** | SheerID | [spotify.com/us/student](https://www.spotify.com/us/student/) |
+| ⭐ **Spotify Premium Student** | $6.99/mo (vs $12.99) | SheerID | [spotify.com/us/student](https://www.spotify.com/us/student/) |
 | **Apple Music Student** | $5.99/mo **+ Apple TV+ free** | UNiDAYS | [music.apple.com](https://music.apple.com) |
 | ⭐ **Hulu Student** | **$1.99/mo** while enrolled | SheerID | [hulu.com/student](https://www.hulu.com/student) |
 | **Hulu + Disney+ Student** | $6.49/mo bundle (-50%) | SheerID | [hulu.com/student](https://www.hulu.com/student) |
@@ -1277,6 +1281,956 @@
 | ⭐ **HESLB loans** | Higher Education Students' Loans Board (tuition + upkeep) | Application | [heslb.go.tz](https://www.heslb.go.tz) |
 | **Student transit fares** | Discounted DART/UDART fares | Student card | transit |
 | **University hostels** | Subsidized campus housing | University application | your university |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇺🇾 Uruguay
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Free public university** | **UdelaR tuition is free** for all students | Enrollment | [udelar.edu.uy](https://udelar.edu.uy) |
+| **Tarifa estudiantil** | Discounted bus fares (Montevideo + national) | Student card | transit |
+| **Fondos de solidaridad** | Need-based aid for health sciences students | Application | [fondosolidaridad.edu.uy](https://www.fondosolidaridad.edu.uy) |
+| **Student banking** | Free accounts (BROU…) | Student proof | bank sites |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇪🇨 Ecuador
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Free public universities** | Constitutionally **free higher education** in public unis | Enrollment | universities |
+| **Senescyt scholarships** | Government scholarships incl. study abroad | Application | [senescyt.gob.ec](https://www.senescyt.gob.ec) |
+| **Student transit fares** | Half-price urban transport | Student card | transit |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇨🇷 Costa Rica
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| **FONABE / Becas** | Government need-based scholarships | Application | [fonabe.go.cr](https://www.fonabe.go.cr) |
+| **Low-cost public unis** | UCR/Tec — very low tuition for citizens | Enrollment | universities |
+| **Student transit fares** | Discounted bus fares | Student card | transit |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇱🇰 Sri Lanka
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Free state universities** | **Zero tuition** at state unis + free healthcare | Enrollment | universities |
+| **Mahapola & Bursary** | Government need-based stipends | Application | [mohe.gov.lk](https://www.mohe.gov.lk) |
+| **Student transit fares** | Discounted season tickets (rail/bus) | Student card | transit |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇧🇩 Bangladesh
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| **Government stipends** | PM Education Assistance & merit stipends | Application | [moedu.gov.bd](https://moedu.gov.bd) |
+| **Very low public tuition** | Dhaka University etc. — nominal fees | Enrollment | universities |
+| **Student transit fares** | Discounted metro/bus student cards (Dhaka) | Student card | transit |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇸🇳 Senegal
+
+<details>
+<summary><b>Expand (5 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **COUD support** | Subsidized dorms, canteen meals & **monthly grants** (bourses) for eligible students | Application | [coud.sn](https://www.coud.sn) |
+| **Bourses d'excellence** | Merit scholarships incl. study abroad | Application | [mesri.gouv.sn](https://www.mesri.gouv.sn) |
+| **Student transit fares** | Subsidized Dakar transport | Student card | transit |
+| **Student banking** | Free/low-fee accounts | Student proof | bank sites |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇧🇼 Botswana
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **DTEF sponsorship** | Government pays **tuition + living allowance** for citizens (local unis) | Application after BGCSE | [dtef.gov.bw](https://www.dtef.gov.bw) |
+| **Student transit fares** | Subsidized kombi/rail fares | Student card | transit |
+| **University hostels** | Subsidized campus housing | University application | your university |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇸🇦 Saudi Arabia
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Free unis + monthly stipend** | Public unis are free and pay citizens a monthly allowance (makafaa) | Enrollment | universities |
+| **Custodian of the Two Holy Mosques Scholarship** | Fully funded study abroad | Application | [moe.gov.sa](https://www.moe.gov.sa) |
+| **Student transit fares** | Discounted Riyadh metro/bus | Student card | transit |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇹🇹 Trinidad & Tobago
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **GATE funding** | Government Assistance for Tuition Expenses — **free tuition** at accredited institutions | Application | [testingandcertification.gov.tt](https://www.testingandcertification.gov.tt) |
+| **HELP loans** | Higher Education Loan Programme | Application | [help.gov.tt](https://www.help.gov.tt) |
+| **Student transit fares** | Discounted bus maxi-taxi fares | Student card | transit |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇲🇺 Mauritius
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Free public tertiary education** | Free tuition at public unis (UoM, UTM, polytechnics) for citizens | Enrollment | [highereducationmauritius.com](https://highereducationmauritius.com) |
+| **Student transit fares** | Free bus travel for students | Student card | transit |
+| **Government scholarships** | Merit scholarships incl. abroad | Application | [education.govmu.org](https://education.govmu.org) |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇳🇦 Namibia
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **NSFAF loans** | Namibia Students Financial Assistance Fund (tuition + upkeep, convertible) | Application | [nsfaf.na](https://www.nsfaf.na) |
+| **Student transit fares** | Subsidized transport | Student card | transit |
+| **University hostels** | Subsidized campus housing | University application | your university |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇰🇿 Kazakhstan
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **State educational grants** | **Free tuition** via national testing score + **Bolashak** for study abroad | UNT score / application | [bolashak.gov.kz](https://www.bolashak.gov.kz) |
+| **Student transit fares** | Discounted metro/bus student cards (Almaty/Astana) | Student card | transit |
+| **University dorms** | Subsidized campus housing | University application | your university |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇶🇦 Qatar
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| **Education Above All** | Scholarships & grants via QF universities | Application | [educationaboveall.org](https://www.educationaboveall.org) |
+| **QF financial aid** | Qatar Foundation partner-university aid (loans/merit) | Application | [qf.org.qa](https://www.qf.org.qa) |
+| **Student transit fares** | Discounted Doha Metro student cards | Student card | [qr.com.qa](https://www.qr.com.qa) |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇯🇲 Jamaica
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **SLB student loans** | Students' Loan Bureau — tuition & upkeep loans | Application | [slbja.com](https://www.slbja.com) |
+| **Student transit fares** | Discounted JUTC bus fares | Student card | transit |
+| **Government scholarships** | MoE merit/need awards | Application | [moey.gov.jm](https://moey.gov.jm) |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇵🇦 Panama
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **IFARHU** | State loans/scholarships (incl. "Concurso" merit awards) | Application | [ifarhu.gob.pa](https://www.ifarhu.gob.pa) |
+| **Student transit fares** | Half-price metro/bus student cards | Student card | transit |
+| **Free public uni (UP)** | Universidad de Panamá — nominal tuition | Enrollment | [up.ac.pa](https://www.up.ac.pa) |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇨🇲 Cameroon
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| **Government scholarships** | MINESUP merit & presidential awards | Application | [minesup.gov.cm](https://www.minesup.gov.cm) |
+| **University bourses** | Need-based aid at state unis | Application | your university |
+| **Student transit fares** | Subsidized urban transport | Student card | transit |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇷🇼 Rwanda
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| **Government bursaries** | Need-based bursaries & merit scholarships | Application | [mineduc.gov.rw](https://www.mineduc.gov.rw) |
+| **Mastercard Foundation Scholars (CMU-Africa)** | Fully funded study at CMU Kigali | Application | [africa.engineering.cmu.edu](https://africa.engineering.cmu.edu) |
+| **Student transit fares** | Subsidized Kigali bus fares | Student card | transit |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇯🇴 Jordan
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| **MoHE scholarships & loans** | Ministry grants/loans (incl. merit awards) | Application | [mohe.gov.jo](https://www.mohe.gov.jo) |
+| **Student transit fares** | Discounted Amman bus/BRT fares | Student card | transit |
+| **University hostels** | Subsidized campus housing | University application | your university |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇺🇬 Uganda
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **HESFB loans** | Higher Education Students' Financing Board — tuition & upkeep loans | Application | [hesfb.go.ug](https://www.hesfb.go.ug) |
+| **Government sponsorship** | Merit sponsorship at public unis (top UACE scorers) | Via admission | [education.go.ug](https://www.education.go.ug) |
+| **University hostels** | Subsidized campus housing | University application | your university |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇪🇹 Ethiopia
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| **Cost-sharing scheme** | Deferred tuition payment plan at public unis (repay after graduation) | Enrollment | universities |
+| **University boarding** | Free/subsidized dorms + meals at public unis | University application | your university |
+| **Ministry scholarships** | Need & merit support | Application | [moe.gov.et](https://www.moe.gov.et) |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇿🇼 Zimbabwe
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| **Presidential & national scholarships** | Merit awards (STEM priority) | Application | [opc.gov.zw](https://www.opc.gov.zw) |
+| **Cadetship scheme** | Government-supported places at state unis | Application | your university |
+| **Student transit fares** | Subsidized kombi/bus fares | Student card | transit |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇺🇿 Uzbekistan
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **State grants & El-Yurt Umidi** | Free tuition via state grants + funded study abroad | Entrance score / application | [edu.uz](https://edu.uz) |
+| **Student transit fares** | Discounted Tashkent metro/bus | Student card | transit |
+| **University dorms** | Subsidized campus housing | University application | your university |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇳🇵 Nepal
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| **MoEST scholarships** | Ministry merit/need scholarships | Application | [moest.gov.np](https://moest.gov.np) |
+| **Low-cost public unis** | Tribhuvan/Kathmandu unis — low tuition | Enrollment | universities |
+| **Student transit fares** | Discounted bus fares (student discount by law) | Student card | transit |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇰🇭 Cambodia
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| **MoEYS scholarships** | Government merit/need scholarships (incl. women priority) | Application | [moeys.gov.kh](https://moeys.gov.kh) |
+| **Very low public tuition** | RUPP & public unis — nominal fees | Enrollment | universities |
+| **Student transit fares** | Subsidized Phnom Penh transport | Student card | transit |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇩🇴 Dominican Republic
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| **MESCYT scholarships** | Ministry scholarships incl. study abroad | Application | [mescyt.gob.do](https://mescyt.gob.do) |
+| **ITLA scholarships** | Instituto Tecnológico de las Américas merit aid | Application | [itla.edu.do](https://itla.edu.do) |
+| **Free public uni (UASD)** | Universidad Autónoma — free tuition | Enrollment | [uasd.edu.do](https://uasd.edu.do) |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇰🇼 Kuwait
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Kuwait University free + stipend** | Free tuition + monthly allowance for citizens | Enrollment | [kuniv.edu.kw](https://kuniv.edu.kw) |
+| **Scholarships abroad** | Ministry-funded study abroad | Application | [mohe.edu.kw](https://www.mohe.edu.kw) |
+| **Student transit fares** | Subsidized bus passes | Student card | transit |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇧🇭 Bahrain
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **University of Bahrain free** | Free tuition for citizens at UoB/polytechnic | Enrollment | [uob.edu.bh](https://www.uob.edu.bh) |
+| **Ministry scholarships** | Merit scholarships incl. abroad | Application | [moe.gov.bh](https://www.moe.gov.bh) |
+| **Student transit fares** | Discounted bus student cards | Student card | transit |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇴🇲 Oman
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Sultan Qaboos University free + allowance** | Free tuition + monthly stipend for citizens | Enrollment | [squ.edu.om](https://www.squ.edu.om) |
+| **Government scholarships** | Internal & external funded places | Application | [moheri.gov.om](https://www.moheri.gov.om) |
+| **Student transit fares** | Subsidized Mwasalat fares | Student card | transit |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇲🇻 Maldives
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Free first degree** | Government pays tuition for citizens' first degree (local unis) | Application | [moedu.gov.mv](https://www.moedu.gov.mv) |
+| **Scholarships abroad** | Merit-funded study abroad | Application | ministry |
+| **Student banking** | Free accounts (BML…) | Student proof | bank sites |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇱🇸 Lesotho
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **NMDS sponsorship** | National Manpower Development Secretariat — **full tuition + stipend** for citizens | Application | [nmds.gov.ls](https://www.nmds.gov.ls) |
+| **Student transit fares** | Subsidized taxi/bus fares | Student card | transit |
+| **University hostels** | Subsidized campus housing | University application | your university |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇬🇾 Guyana
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **GOAL scholarships** | Guyana Online Academy of Learning — **free online degrees** via partner unis | Application | [goal.gov.gy](https://goal.gov.gy) |
+| **UG tuition aid** | University of Guyana support & scholarships | Application | [uog.edu.gy](https://uog.edu.gy) |
+| **Student transit fares** | Subsidized minibus fares | Student card | transit |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇫🇯 Fiji
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **TSLS loans & scholarships** | Tertiary Scholarships & Loans Service (tuition + allowance) | Application | [tsls.com.fj](https://www.tsls.com.fj) |
+| **Student transit fares** | Discounted bus e-ticketing student fares | Student card | transit |
+| **University halls** | Subsidized campus housing | University application | your university |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇲🇼 Malawi
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **HESLGB loans** | Higher Education Students Loans & Grants Board | Application | [heslgb.mw](https://www.heslgb.mw) |
+| **University hostels** | Subsidized campus housing | University application | your university |
+| **Student banking** | Free/low-fee accounts (NBM, Standard Bank…) | Student proof | bank sites |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇮🇷 Iran
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Free public universities** | State unis are tuition-free for Iranians (day courses) | Konkoor admission | universities |
+| **Student fund loans** | Daneshjuyi Student Fund loans/grants | Application | your university fund |
+| **University dorms** | Subsidized housing + meal plans | University application | your university |
+| **Student transit fares** | Discounted metro/bus student cards | Student card | transit |
+
+</details>
+
+## 🇮🇶 Iraq
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Free public universities** | State unis are tuition-free (morning study) | Central admission | universities |
+| **University dorms** | Free/subsidized housing + meal plans | University application | your university |
+| **Ministry scholarships** | Need/merit support | Application | [mohesr.gov.iq](https://mohesr.gov.iq) |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇱🇧 Lebanon
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Lebanese University (UL)** | The national uni — **near-free tuition** for citizens | Enrollment | [ul.edu.lb](https://ul.edu.lb) |
+| **Ministry grants** | Ministry of Education aid & scholarships | Application | [mehe.gov.lb](https://www.mehe.gov.lb) |
+| **Student transit fares** | Discounted bus fares | Student card | transit |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇦🇴 Angola
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **INAGBE scholarships** | National scholarship agency (local + abroad) | Application | [inagbe.gov.ao](https://www.inagbe.gov.ao) |
+| **Student transit fares** | Subsidized urban fares | Student card | transit |
+| **University residences** | Subsidized campus housing | University application | your university |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇿🇲 Zambia
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| **GRZ bursary scheme** | Government bursaries at public unis | Application | [heslb.gov.zm](https://www.heslb.gov.zm) |
+| **HESLB loans** | Higher Education loans | Application | [heslb.gov.zm](https://www.heslb.gov.zm) |
+| **University hostels** | Subsidized campus housing | University application | your university |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇲🇳 Mongolia
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| **Government scholarships** | State scholarships incl. abroad (Mongolian Scholarship Fund) | Application | [mss.gov.mn](https://www.mss.gov.mn) |
+| **Student transit fares** | Discounted UB bus fares | Student card | transit |
+| **University dorms** | Subsidized campus housing | University application | your university |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇵🇾 Paraguay
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| **CONACYT/BECAL scholarships** | National science council scholarships (incl. abroad) | Application | [conacyt.gov.py](https://www.conacyt.gov.py) |
+| **Free public uni (UNA)** | Universidad Nacional — near-free tuition | Enrollment | [una.py](https://www.una.py) |
+| **Student transit fares** | Discounted bus fares | Student card | transit |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇬🇹 Guatemala
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **USAC nearly free** | Universidad de San Carlos — symbolic tuition (~Q100/yr) | Enrollment | [usac.edu.gt](https://www.usac.edu.gt) |
+| **SEGEPLAN scholarships** | Government-funded study programs | Application | [segeplan.gob.gt](https://www.segeplan.gob.gt) |
+| **Student transit fares** | Discounted Transmetro fares | Student card | transit |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇧🇹 Bhutan
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **RGoB scholarships** | Royal Government scholarships (free study incl. abroad) | Application | [education.gov.bt](https://www.education.gov.bt) |
+| **Subsidized unis** | Royal University of Bhutan — govt-funded places | Admission | [rub.edu.bt](https://www.rub.edu.bt) |
+| **Student transit fares** | Subsidized bus fares | Student card | transit |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇨🇮 Côte d'Ivoire
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **CNOU bourses & dorms** | National student services — grants + subsidized housing/meals | Application | [cnou.ci](https://www.cnou.ci) |
+| **Merit scholarships** | Excellence & presidential awards | Application | [enseignement.gouv.ci](https://www.enseignement.gouv.ci) |
+| **Student transit fares** | Subsidized SOTRA fares (Abidjan) | Student card | transit |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇨🇺 Cuba
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Free universities** | Tuition-free higher education (incl. some int'l programs like ELAM medicine) | Admission | universities |
+| **University dorms** | Free/subsidized housing + meals | University application | your university |
+| **Student transit fares** | Heavily subsidized transport | Student card | transit |
+| **Becas** | Government study grants | Application | [mes.gob.cu](https://www.mes.gob.cu) |
+
+</details>
+
+## 🇻🇪 Venezuela
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Free public universities** | UCV & state unis are tuition-free by constitution | Enrollment | universities |
+| **University comedores** | Subsidized/free canteen meals | Student card | your university |
+| **Student transit fares** | Subsidized metro/bus fares | Student card | transit |
+| **Government grants** | Gran Misión student support programs | Application | [mppeuct.gob.ve](https://www.mppeuct.gob.ve) |
+
+</details>
+
+## 🇧🇴 Bolivia
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Public universities** | Near-free tuition at state unis (UMSA, UMSA…) | Enrollment | universities |
+| **Becas comedor/alojamiento** | Meal & housing scholarships | University application | your university |
+| **Student transit fares** | Subsidized micro/trufi fares | Student card | transit |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇭🇳 Honduras
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| **UNAH tuition aid** | National uni — low fees + PRAE aid program | Application | [unah.edu.hn](https://www.unah.edu.hn) |
+| **Government scholarships** | Merit & need support (Honduras 20/20…) | Application | [seduc.gob.hn](https://www.seduc.gob.hn) |
+| **Student transit fares** | Subsidized bus fares | Student card | transit |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇳🇮 Nicaragua
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| **Public unis low tuition** | UNAN/UNI — very low fees + internal bursaries | Enrollment | universities |
+| **University scholarships** | Merit/need aid at public unis | Application | your university |
+| **Student transit fares** | Subsidized bus fares | Student card | transit |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇸🇻 El Salvador
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| **UES low tuition** | Universidad de El Salvador — very low fees | Enrollment | [ues.edu.sv](https://www.ues.edu.sv) |
+| **MINED scholarships** | Government scholarships incl. abroad | Application | [mined.gob.sv](https://www.mined.gob.sv) |
+| **Student transit fares** | Subsidized bus fares | Student card | transit |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇹🇬 Togo
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| **CROU support** | Bourses, subsidized dorms & canteen (Lomé/Kara) | Application | your university CROU |
+| **Merit scholarships** | Government excellence awards | Application | [education.gouv.tg](https://education.gouv.tg) |
+| **Student transit fares** | Subsidized urban fares | Student card | transit |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇧🇯 Benin
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| **CNOUB bourses** | National student services — grants, dorms, meals | Application | [cnoub.bj](https://www.cnoub.bj) |
+| **Merit scholarships** | Government awards | Application | [enseignementsuperieur.gouv.bj](https://www.enseignementsuperieur.gouv.bj) |
+| **Student transit fares** | Subsidized urban fares | Student card | transit |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇲🇱 Mali
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| **CNOU Mali support** | Bourses + subsidized dorms/canteens | Application | your university |
+| **Ministry scholarships** | Merit & study-abroad awards | Application | [education.ml](https://www.education.ml) |
+| **Student transit fares** | Subsidized Bamako fares | Student card | transit |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇧🇫 Burkina Faso
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| **CNOU bourses** | National student services — grants, dorms, meals | Application | your university |
+| **Government scholarships** | Merit & excellence awards | Application | [mesri.gov.bf](https://www.mesri.gov.bf) |
+| **Student transit fares** | Subsidized Ouaga fares | Student card | transit |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇲🇬 Madagascar
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| **CNOU bourses** | National grants + subsidized dorms/canteens | Application | your university |
+| **Low public tuition** | State unis — nominal fees | Enrollment | universities |
+| **Ministry scholarships** | Merit awards incl. abroad | Application | [men.gov.mg](https://www.men.gov.mg) |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇬🇦 Gabon
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **ANBG bourses** | Agence Nationale des Bourses — grants incl. study abroad | Application | [anbg.ga](https://www.anbg.ga) |
+| **Student transit fares** | Subsidized Libreville fares | Student card | transit |
+| **University residences** | Subsidized campus housing | University application | your university |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇵🇬 Papua New Guinea
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| **HELP loans** | Higher Education Loan Programme | Application | [dherst.gov.pg](https://www.dherst.gov.pg) |
+| **HECAS scholarships** | Government merit awards | Application | [dherst.gov.pg](https://www.dherst.gov.pg) |
+| **University dorms** | Subsidized campus housing | University application | your university |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇱🇦 Laos
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| **MoES scholarships** | Government scholarships (local + abroad) | Application | [moe.gov.la](https://moe.gov.la) |
+| **Low public tuition** | National University of Laos — nominal fees | Enrollment | [nuol.edu.la](https://www.nuol.edu.la) |
+| **Student transit fares** | Subsidized Vientiane fares | Student card | transit |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇷🇺 Russia
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Budget places (бюджет)** | **Free tuition** for top exam scores — incl. foreigners via the government quota | Exam score / quota application | [studyinrussia.ru](https://studyinrussia.ru) |
+| **Subsidized dorms** | Very cheap state-university housing | University application | your university |
+| **Student social card** | Big metro/rail discounts (e.g. Moscow студенческая карта) | Student card | city transit |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇧🇾 Belarus
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| **Budget places** | **Free tuition** for top entrance-exam scores & olympiad winners | Exam results | [studyinbelarus.com](https://studyinbelarus.com) |
+| **Subsidized dorms** | State-subsidized university housing | University application | your university |
+| **Student transport discount** | Reduced Minsk metro & rail fares | Student card | city transit |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇬🇪 Georgia
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| **State grants (NAEC)** | Government grant covers **30-100%** of tuition by exam score | Unified National Exams | [mes.gov.ge](https://mes.gov.ge) |
+| **Tbilisi transport** | Discounted metro/bus fares for students | Student card | [ttc.com.ge](https://ttc.com.ge) |
+| **Student housing** | Subsidized dorms at public universities | University application | your university |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇦🇲 Armenia
+
+<details>
+<summary><b>Expand (3 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| **State scholarships** | Merit waivers & state-paid places at public universities | Ministry application | [mses.am](https://www.mses.am) |
+| **Yerevan transport** | Student fare discounts on public transit | Student card | city transit |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇦🇿 Azerbaijan
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| **State-paid places** | Free tuition for top entrance-exam scores | Exam results | [edu.gov.az](https://edu.gov.az) |
+| **Heydar Aliyev program** | Government scholarship for study abroad | Application | [edu.gov.az](https://edu.gov.az) |
+| **Baku transport** | Student discounts on metro/bus | Student card | city transit |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇲🇩 Moldova
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| **Budget places** | State-funded tuition for top scorers | Exam results | [mecc.gov.md](https://mecc.gov.md) |
+| **State scholarships** | Merit & social scholarships | Ministry/university application | [mecc.gov.md](https://mecc.gov.md) |
+| **Chișinău transport** | Student fares on trolleybus/bus | Student card | city transit |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇲🇪 Montenegro
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| **University of Montenegro** | Public university — low/free tuition for top scorers | Enrollment | [ucg.ac.me](https://www.ucg.ac.me) |
+| **State scholarships** | Ministry merit & social scholarships | Application | [mps.gov.me](https://www.gov.me) |
+| **Student dormitories** | Subsidized housing in Podgorica/Nikšić | University application | your university |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇽🇰 Kosovo
+
+<details>
+<summary><b>Expand (4 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| **MASHT scholarships** | Ministry scholarships & grants | Application | [masht.rks-gov.net](https://masht.rks-gov.net) |
+| **Subsidized transit** | Student fares on Prishtina buses | Student card | city transit |
+| **University of Prishtina** | Public university — low tuition | Enrollment | [uni-pr.edu](https://www.uni-pr.edu) |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇸🇷 Suriname
+
+<details>
+<summary><b>Expand (3 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| **Anton de Kom University** | National university — low tuition | Enrollment | [uvs.edu](https://www.uvs.edu) |
+| **Government scholarships** | Ministry study financing & scholarships | Application | [gov.sr](https://gov.sr) |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇧🇿 Belize
+
+<details>
+<summary><b>Expand (3 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| **Government scholarships** | Tuition grants via Ministry of Education | Application | [moe.gov.bz](https://www.moe.gov.bz) |
+| **University of Belize** | National university — regional tuition rates | Enrollment | [ub.edu.bz](https://www.ub.edu.bz) |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇲🇿 Mozambique
+
+<details>
+<summary><b>Expand (3 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| **IBE scholarships** | Instituto de Bolsas de Estudo — government scholarships | Application | [ibe.gov.mz](https://www.ibe.gov.mz) |
+| **UEM public university** | Eduardo Mondlane — low public tuition | Enrollment | [uem.mz](https://www.uem.mz) |
 | **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
 
 </details>

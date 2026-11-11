@@ -49,5 +49,19 @@
 | **Board Game Arena** | 1,000+ board games in the browser | Free tier | [boardgamearena.com](https://boardgamearena.com) |
 | **IsThereAnyDeal / Deku Deals / SteamDB** | Track lowest legit game prices & sales history | Fully free | [isthereanydeal.com](https://isthereanydeal.com) · [dekudeals.com](https://www.dekudeals.com) |
 | **Humble Bundle** | Pay-what-you-want game/book bundles for charity | Bundles rotate | [humblebundle.com](https://www.humblebundle.com) |
+| ⭐ **Free legal streaming (US)** | **Tubi** · **Pluto TV** · **Plex Free** · **Amazon Freevee** · **Roku Channel** — thousands of films/series, ads only | Ad-supported | [tubitv.com](https://tubitv.com) · [pluto.tv](https://pluto.tv) |
+| **Free legal streaming (Europe)** | **Arte.tv** · **France.tv** · **TF1+** · **BBC iPlayer** · **ITVX** · **Channel 4** · **ZDF/ARD** · **RaiPlay** · **RTVE** | Free w/ account (UK: TV licence) | broadcaster sites |
+| **Free legal streaming (Nordics/CA/APAC)** | **SVT Play** · **NRK** · **DR TV** · **Yle** · **NPO Start** · **CBC Gem** · **ABC iview** · **SBS On Demand** · **TVNZ+** | Free w/ account | broadcaster sites |
+| **Free legal streaming (Asia/LatAm)** | **TVer** (JP) · **Bilibili** · **Abema** · **MX Player** · **Viu** · **Viki** free tier | Ad-supported | platform sites |
+| **Free music streaming** | **Spotify Free** · **YouTube Music Free** · **Deezer Free** · **SoundCloud** · **Bandcamp** · **Audiomack** · **Jamendo** | Ads / limited skips | platform apps |
+| **Free radio worldwide** | **Radio Garden** (globe of live radio) · **iHeart** · **TuneIn** · **NTS Radio** | Fully free | [radio.garden](https://radio.garden) |
+| **Free legal manga & comics** | **Manga Plus** (Shueisha official) · **Webtoon** · **Tapas** free tier · library comics via Hoopla | Free tiers | [mangaplus.shueisha.co.jp](https://mangaplus.shueisha.co.jp) · [webtoons.com](https://www.webtoons.com) |
+| **Free anime (legal)** | **Crunchyroll free tier** · **RetroCrush** · Tubi/Pluto anime channels | Ads | [crunchyroll.com](https://www.crunchyroll.com) · [retrocrush.tv](https://www.retrocrush.tv) |
+| **Free classic cinema** | **Internet Archive films** · **Public Domain Torrents** · **Open Culture list** | Fully free | [archive.org](https://archive.org/details/feature_films) |
+| **GeoGuessr alternatives (free)** | **OpenGuessr** · **GeoHub** · **WorldGuessr** — geography games, free | Free tiers | [openguessr.com](https://openguessr.com) |
+| **Open-source games** | **Mindustry** · **OpenTTD** · **SuperTuxKart** · **Unciv** · **Battle for Wesnoth** · **Shattered Pixel Dungeon** — full games, zero cost | Fully free | github/official sites |
+| **Party & browser games** | **Gartic Phone** · **skribbl.io** · **Colonist.io** (free Catan) · **TypeRacer** | Fully free | [garticphone.com](https://garticphone.com) · [colonist.io](https://colonist.io) |
+| **Google Arts & Culture** | Virtual museum tours, gigapixel artworks, artist experiments — hundreds of museums worldwide | Fully free | [artsandculture.google.com](https://artsandculture.google.com) |
+| **TED / TED-Ed** | Free talks + animated lessons on everything | Fully free | [ted.com](https://www.ted.com) · [ed.ted.com](https://ed.ted.com) |
 
 > ⚠️ **No student discount exists at**: Netflix, HBO Max, Disney+ (alone), Spotify free-tier upgrades, Nintendo/eShop, PlayStation Plus, Steam. Sites claiming "Netflix student discount" are scams or referral farms — don't enter credentials there.

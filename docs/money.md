@@ -38,6 +38,12 @@
 | **Splitwise / Tricount** | Split shared flat expenses | Free tier (ads / limits) | [splitwise.com](https://www.splitwise.com) · [tricount.com](https://www.tricount.com) |
 | **Google Sheets budget templates** | Free budget spreadsheets | Fully free | [sheets.google.com](https://sheets.google.com) |
 | **Textbook exchange** | Buy used, resell at term end — campus groups, AbeBooks, your library | Free | local |
+| ⭐ **Too Good To Go / Olio / Flashfood** | Surplus restaurant & grocery food at ~70% off | App availability varies | [toogoodtogo.com](https://www.toogoodtogo.com) |
+| **Deal communities** | **Slickdeals** (US) · **Dealabs** (FR) · **mydealz** (DE) · **hotukdeals** (UK) · **Pepper.pl** — community-verified discounts | Fully free | [slickdeals.net](https://slickdeals.net) · [dealabs.com](https://www.dealabs.com) |
+| **Price tracking** | **CamelCamelCamel** · **Keepa** — Amazon price history & alerts | Fully free | [camelcamelcamel.com](https://camelcamelcamel.com) · [keepa.com](https://keepa.com) |
+| **Price comparison** | **idealo** · **PriceRunner** · **Google Shopping** | Fully free | comparison sites |
+| **Paid research studies** | **Prolific** (academic surveys, ~$8-12/h) · **UserTesting** · **Respondent** · **User Interviews** — legit side income for students | Availability by country; payout thresholds | [prolific.com](https://www.prolific.com) · [usertesting.com](https://www.usertesting.com) · [respondent.io](https://www.respondent.io) |
+| **Birthday freebies** | Free food/gifts on your birthday (US: Starbucks, Sephora, Denny's… — needs rewards account) | Free w/ loyalty signup | brand apps |
 
 ## ⚠️ Money traps for students
 

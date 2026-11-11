@@ -24,6 +24,7 @@
 | **Paid summer research abroad** | CERN Summer Student, EPFL/ETH/ISTA fellowships, MITACS Globalink (Canada), DAAD RISE (Germany) — travel + stipend | Application | program sites |
 | **ACM / IEEE student membership** | ~$19-32/yr → full digital library + network | Student status | [acm.org](https://www.acm.org) · [ieee.org](https://www.ieee.org) |
 | **LeetCode Premium (school campaign)** | ~$99/yr (-38%) when 50 students at your school pledge — annual Back-to-School campaign | .edu email + school threshold | [leetcode.com/student](https://leetcode.com/student/) |
+| **Kickresume Premium** | **6 months Premium free** (AI resume builder, ATS checker) | ISIC / ITIC / UNiDAYS | [kickresume.com/students](https://www.kickresume.com/en/students/) |
 
 ## 🆓 Free for everyone — CV & resume
 
@@ -67,5 +68,9 @@
 | **EURES** | EU job-mobility portal (official) | [eures.europa.eu](https://eures.europa.eu) |
 | **Devpost** | Hackathons (mostly free to enter) | [devpost.com](https://devpost.com) |
 | **Eurodesk / European Youth Portal** | EU youth programs, grants & mobility | [eurodesk.eu](https://eurodesk.eu) · [youth.europa.eu](https://youth.europa.eu) |
+| **Idealist** | Nonprofit jobs + volunteering | [idealist.org](https://www.idealist.org) |
+| **UN Volunteers Online** | Remote volunteering for UN agencies — CV gold | [unv.org](https://www.unv.org) |
+| **Zooniverse** | Real citizen-science projects (publish & get credited) | [zooniverse.org](https://www.zooniverse.org) |
+| **Develop for Good / Omdena** | Real projects for nonprofits & social impact — portfolio builders | [developforgood.org](https://www.developforgood.org) · [omdena.com](https://omdena.com) |
 
 > 💡 **LinkedIn Learning for free**: many public libraries and universities include it — check your local library card before paying.

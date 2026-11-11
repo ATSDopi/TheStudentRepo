@@ -8,16 +8,16 @@
 |---|---|---|---|
 | ⭐ **Figma Education** | Pro features + FigJam, 1 yr renewable | School email / SheerID | [figma.com/education](https://www.figma.com/education/) |
 | **Miro Education** | Free 2 yrs | School email | [miro.com/education-whiteboard](https://miro.com/education-whiteboard/) |
-| **Lucidchart / Lucidspark** | Free | School email | [lucidchart.com](https://www.lucidchart.com/pages/usecase/education/) |
+| **Lucidchart for Education** | **Free** Lucidchart + Lucidspark education account | Institution email | [lucid.co/lucidchart/education](https://lucid.co/lucidchart/use-cases/education) |
 | **Axure RP** | Free 1 yr renewable | SheerID | [axure.com/edu](https://www.axure.com/edu/) |
 | **Sketch** | Free 1 yr renewable (Mac only, 16+) | Enrollment proof via application | [sketch.com/education](https://www.sketch.com/education/) |
 | **Tableau Public Edition** | Free (dataviz) | — | [tableau.com/academic/students](https://www.tableau.com/academic/students) |
 | **Adobe Creative Cloud student** | ~-60-70% first year | SheerID / school email | [adobe.com](https://www.adobe.com/creativecloud/buy/students.html) |
 | ⭐ **Unity Student Plan** | Unity **Pro** free + Odin Inspector + Synty assets | SheerID (no longer via GitHub Pack) | [unity.com/products/unity-student](https://unity.com/products/unity-student) |
 | ⭐ **Autodesk Education** | AutoCAD, Fusion 360, Maya, Revit, 3ds Max, Inventor… free 1 yr renewable | SheerID | [autodesk.com/education](https://www.autodesk.com/education/edu-software/overview) |
-| **Ansys Student** | Free simulation suite (Mechanical, CFD, Discovery…) | — | [ansys.com/academic/students](https://www.ansys.com/academic/students) |
 | **SOLIDWORKS for Students** | Design Standard free + CSWA/CSWP certs | School email | [solidworks.com/product/students](https://www.solidworks.com/product/students) |
-| **Solid Edge Student** | Free (Siemens) | — | [solidedge.siemens.com](https://solidedge.siemens.com/en/solutions/users/students/) |
+| **Siemens student software** | **NX Student Edition**, **Solid Edge**, **Simcenter 3D** — all free (Windows, watermarked) | Free account registration | [siemens.com/student-software](https://www.siemens.com/en-us/company/academic-future-workforce/engineering-student-resources/engineering-student-software/) |
+| **NI LabVIEW Student** | 6-month free Student Edition (+ cheap student purchase options) | Academic verification | [ni.com/labviewse](https://www.ni.com/en-us/shop/product/labview.html) |
 | **MATLAB Campus-Wide** | Free if your campus has a license, else ~$119/yr | School email | [mathworks.com](https://www.mathworks.com/products/matlab-student.html) |
 | **Maxon One** (Cinema 4D, ZBrush, Redshift) | Near-free student license | SheerID | [maxon.net](https://www.maxon.net/en/buy/plan-pricing-for-students) |
 | ⭐ **Onshape Student** | Full cloud CAD free (~$1,500/yr value), any email | Education status | [onshape.com/education](https://www.onshape.com/en/education/) |
@@ -64,7 +64,6 @@
 | ⭐ **Shapr3D Education** | **Free** Pro license 1 yr, renewable (iPad/Mac/Windows CAD) | School email application | [shapr3d.com/education](https://www.shapr3d.com/education) |
 | ⭐ **Ansys Student** | **Free** student versions — Mechanical, CFD, LS-DYNA, Electronics Desktop (renewable, worldwide) | Student/educator status | [ansys.com/academic/students](https://ansys.synopsys.com/academic/students) |
 | **Altair Student Edition** | **Free** HyperMesh/Simcenter tools via Altair One | .edu institution email | [siemens.com/altair-student](https://www.siemens.com/en-us/company/academic-future-workforce/engineering-student-resources/engineering-student-software/altair-student-edition/) |
-| **Lucidchart for Education** | **Free** Lucidchart + Lucidspark education account | Institution email | [lucid.co/lucidchart/education](https://lucid.co/lucidchart/use-cases/education) |
 | ⭐ **D5 Render Education** | **Free**, most Pro features, no watermark (1 PC) | Academic email + enrollment proof | [d5render.com/educational-license](https://www.d5render.com/educational-license) |
 | **KeyShot Studio EDU** | $95/yr full rendering suite | Student/faculty status | [keyshot.com/education](https://www.keyshot.com/education/) |
 | **CLO 3D** | -50% Individual plan for 4 yrs (+1 alumni yr) — fashion design | School email at checkout | [clo3d.com](https://www.clo3d.com/en/solution/individual) |
@@ -94,6 +93,9 @@
 | ⭐ **BandLab** | Free online DAW + mastering | Fully free | [bandlab.com](https://www.bandlab.com) |
 | **Spitfire LABS / Vital** | Pro-grade free instruments & synth | Fully free | [labs.spitfireaudio.com](https://labs.spitfireaudio.com) · [vital.audio](https://vital.audio) |
 | **MuseScore / Dorico SE / Sibelius First** | Free notation software & starter tiers | Fully free | [musescore.org](https://musescore.org) |
+| **Free DAWs** | **Cakewalk Sonar** (ex-paid, now free) · **GarageBand** (Apple) · **LMMS** · **Zrythm** | Fully free | [bandlab.com/products/cakewalk](https://www.bandlab.com/products/cakewalk) · [lmms.io](https://lmms.io) |
+| **Mixxx / Serato DJ Lite** | Free DJ software | Fully free | [mixxx.org](https://mixxx.org) |
+| **OpenToonz / Krita anim** | Pro 2D animation (Studio Ghibli's suite, open-sourced) | Fully free | [opentoonz.github.io](https://opentoonz.github.io) |
 | **Waveform Free** | Free DAW (Tracktion) | Free tier | [tracktion.com](https://www.tracktion.com/products/waveform-free) |
 | **Fab free assets** | Monthly free Unreal/game assets (Epic) | Monthly drops | [fab.com](https://www.fab.com) |
 | **YouTube Audio Library / Freesound** | Free music & sound effects | Free / CC licenses | [youtube.com/audiolibrary](https://www.youtube.com/audiolibrary) · [freesound.org](https://freesound.org) |

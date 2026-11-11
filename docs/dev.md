@@ -51,6 +51,11 @@ Cloud credits, developer tools and **permanent free tiers** — the category whe
 | API testing | **Hoppscotch** · **Bruno** | Fully free, open source | [hoppscotch.io](https://hoppscotch.io) · [usebruno.com](https://www.usebruno.com) |
 | Free APIs | Public APIs list | Varies per API | [github.com/public-apis](https://github.com/public-apis/public-apis) |
 | Editor | ⭐ **VS Code** | Fully free | [code.visualstudio.com](https://code.visualstudio.com) |
+| Dev toolboxes | **IT Tools** · **DevToys** · **CyberChef** — converters, JWT, regex, encoders… | Fully free | [it-tools.tech](https://it-tools.tech) · [devtoys.app](https://devtoys.app) · [gchq.github.io/CyberChef](https://gchq.github.io/CyberChef/) |
+| Mock APIs | **JSONPlaceholder** · **DummyJSON** · **Mockoon** (local) · **Beeceptor** | Free tiers | [jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com) · [mockoon.com](https://mockoon.com) |
+| Uptime / cron monitoring | **UptimeRobot** · **Healthchecks.io** | 50 monitors · 20 checks | [uptimerobot.com](https://uptimerobot.com) · [healthchecks.io](https://healthchecks.io) |
+| Git sandboxes | **GitHub Codespaces** free hours · **Gitpod** free tier | 60 core-hrs/mo | [github.com/codespaces](https://github.com/features/codespaces) |
+| Docs & cheatsheets | **DevDocs** (offline API docs) · **tldr** · **Devhints** · **cheat.sh** · **explainshell** | Fully free | [devdocs.io](https://devdocs.io) · [tldr.sh](https://tldr.sh) · [cheat.sh](https://cheat.sh) |
 | ML notebooks | ⭐ **Kaggle** · **Google Colab** · **SageMaker Studio Lab** | Free datasets & competitions · free GPU/TPU tier · free GPU notebooks, no AWS account | [kaggle.com](https://www.kaggle.com) · [colab.research.google.com](https://colab.research.google.com) · [studiolab.sagemaker.aws](https://studiolab.sagemaker.aws) |
 | ML app hosting | **Hugging Face Spaces** · **Streamlit Community Cloud** | Free public demos · free public apps | [huggingface.co/spaces](https://huggingface.co/spaces) · [share.streamlit.io](https://share.streamlit.io) |
 | Virtualization | **VMware Workstation/Fusion** · **VirtualBox** | Free for personal use since 2024 · fully free | [vmware.com](https://www.vmware.com/products/desktop-hypervisor) · [virtualbox.org](https://www.virtualbox.org) |

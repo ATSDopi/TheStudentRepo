@@ -20,6 +20,8 @@
 | **DataCamp Premium Student** | **-50%/yr** (~$164) or -30%/mo — 810+ data/AI courses | Student status | [datacamp.com/pricing/student](https://www.datacamp.com/pricing/student) |
 | **Financial Times student** | 16-19: **free** via FT Schools · uni students: **-50%** Standard Digital | School registration / student status | [ft.com](https://subs.ft.com/spa3_stu) |
 | **Mathematica Student Edition** | Full Mathematica at a fraction of pro price (also free via many unis) | Enrollment proof | [wolfram.com/student](https://www.wolfram.com/mathematica-student-edition/) |
+| **EndNote student** | ~$114 student license (vs ~$275 pro — often free via campus IT) | Enrollment proof | [endnote.com](https://endnote.com) |
+| **Wolfram Alpha Pro Student** | **$5/mo** (vs $9.99) — step-by-step math/science solutions | Student status | [wolframalpha.com/pro/students](https://www.wolframalpha.com/pro/pricing/students/) |
 
 ## 🆓 Free for everyone — learning platforms
 
@@ -43,16 +45,26 @@ The **Free cert?** column tells you whether you can get a certificate without pa
 | **roadmap.sh** | Community roadmaps (frontend, backend, DevOps…) | — | [roadmap.sh](https://roadmap.sh) |
 | **Exercism** | Coding practice in 70+ languages + free mentoring | — | [exercism.org](https://exercism.org) |
 | **Codewars** | Coding challenges ranked by difficulty | — | [codewars.com](https://www.codewars.com) |
+| **Build Your Own X / free-for.dev** | Recreate Redis/Docker/Git from scratch · the master list of dev freebies | — | [codecrafters.io/build-your-own-x](https://codecrafters.io/build-your-own-x) · [free-for.dev](https://free-for.dev) |
+| **Refactoring.Guru / Patterns.dev** | Free design patterns & web architecture guides | — | [refactoring.guru](https://refactoring.guru) · [patterns.dev](https://www.patterns.dev) |
+| **Hugging Face Learn** | Free NLP/agents/audio courses + cert | — | [hf.co/learn](https://hf.co/learn) |
 | **SQLBolt / Mode SQL** | Interactive SQL tutorials | — | [sqlbolt.com](https://sqlbolt.com) |
 | **MDN Web Docs / web.dev** | The web platform references | — | [developer.mozilla.org](https://developer.mozilla.org) · [web.dev](https://web.dev) |
 | **Duolingo** | Language learning | Free tier (ads/hearts; Super paid) | [duolingo.com](https://www.duolingo.com) |
 | **Microsoft Learn** | Free MS/Azure training paths | ✅ Free fundamentals certs during exam events | [learn.microsoft.com](https://learn.microsoft.com/training/) |
 | **Google Skills / Skillshop** | Google product & cloud training | Varies | [skills.google](https://www.skills.google) |
 | **Cisco NetAcad / Skills for All** | Free networking/cyber courses + labs | ✅ Free badges | [netacad.com](https://www.netacad.com) · [skillsforall.com](https://skillsforall.com) |
+| ⭐ **Oracle Foundations certs** | OCI Foundations/AI Foundations/Data Platform — **course + exam fully free** (unlimited attempts) | ✅ Free certs | [oracle.com/education](https://www.oracle.com/education/training/) |
+| **AWS Educate** | Free hands-on cloud labs & courses — no credit card needed | ✅ Free badges | [aws.amazon.com/education](https://aws.amazon.com/education/awseducate/) |
+| **IBM SkillsBuild** | Free AI/cyber/data courses + digital credentials | ✅ Free creds | [skillsbuild.org](https://skillsbuild.org) |
+| **Linux Foundation (LFS)** | Free intro courses via edX (Linux, K8s, Git, RISC-V…) | Audit free | [training.linuxfoundation.org](https://training.linuxfoundation.org) |
 | **AWS Skill Builder** | Cloud training | Free tier (paid tier exists) | [skillbuilder.aws](https://skillbuilder.aws) |
+| **MongoDB University / Databricks Academy** | Full database & data-engineering courses | ✅ Free courses (MongoDB cert free via Pack) | [university.mongodb.com](https://university.mongodb.com) · [databricks.com/learn](https://www.databricks.com/learn) |
+| **Swift Playgrounds** | Apple's free learn-to-code iPad/Mac app | Fully free | [apple.com/swift/playgrounds](https://www.apple.com/swift/playgrounds/) |
 | **GitHub Skills** | Interactive git/GitHub courses | — | [skills.github.com](https://skills.github.com) |
 | **Class Central** | Search engine for free online courses | — | [classcentral.com](https://www.classcentral.com) |
 | **Alison** | Free courses (ad-supported) | Cert paid | [alison.com](https://alison.com) |
+| **SWAYAM / NPTEL** | India's official free MOOCs (IIT professors; cheap optional exams for credit) | ✅ Free courses | [swayam.gov.in](https://swayam.gov.in) · [nptel.ac.in](https://nptel.ac.in) |
 | **Kaggle Learn** | Micro-courses (Python, ML, SQL, deep learning) | ✅ Free certs | [kaggle.com/learn](https://www.kaggle.com/learn) |
 | **CodinGame / CheckiO** | Learn to code through games | — | [codingame.com](https://www.codingame.com) · [checkio.org](https://checkio.org) |
 | **DrivenData / Zindi** | Data-science competitions for social good | — | [drivendata.org](https://www.drivendata.org) · [zindi.africa](https://zindi.africa) |
@@ -85,6 +97,10 @@ The **Free cert?** column tells you whether you can get a certificate without pa
 | Resource | What you get | Limits | Link |
 |---|---|---|---|
 | ⭐ **OpenStax** | Peer-reviewed university textbooks | Fully free | [openstax.org](https://openstax.org) |
+| ⭐ **OSSU / teachyourselfcs / Full Stack Open** | Complete free CS-degree paths (curated course lists + Helsinki MOOC) | Fully free | [github.com/ossu](https://github.com/ossu/computer-science) · [fullstackopen.com](https://fullstackopen.com) |
+| **Free programming books** | Eloquent JavaScript, Automate the Boring Stuff, You-Dont-Know-JS + the giant free-programming-books list | Fully free | [github.com/EbookFoundation](https://github.com/EbookFoundation/free-programming-books) |
+| **Learn Git Branching** | Interactive Git visualizer — the fastest way to learn branches/rebases | Fully free | [learngitbranching.js.org](https://learngitbranching.js.org) |
+| **OpenLearn / FutureLearn** | Open University free courses · audit uni courses free | Free (certs paid) | [open.edu/openlearn](https://www.open.edu/openlearn/) · [futurelearn.com](https://www.futurelearn.com) |
 | **LibreTexts** | Open textbooks across all fields | Fully free | [libretexts.org](https://libretexts.org) |
 | **Project Gutenberg** | 70K+ public-domain books | Fully free | [gutenberg.org](https://www.gutenberg.org) |
 | **Standard Ebooks** | Polished public-domain editions | Fully free | [standardebooks.org](https://standardebooks.org) |
@@ -98,6 +114,7 @@ The **Free cert?** column tells you whether you can get a certificate without pa
 | **DOAJ** | Directory of open-access journals | Fully free | [doaj.org](https://doaj.org) |
 | **Connected Papers / ResearchRabbit** | Paper-discovery graphs | Free tier | [connectedpapers.com](https://www.connectedpapers.com) · [researchrabbit.ai](https://www.researchrabbit.ai) |
 | ⭐ **Zotero** | Reference manager — essential for papers/theses | Fully free (paid sync storage optional) | [zotero.org](https://www.zotero.org) |
+| **Instant citations** | **ZoteroBib** · **Scribbr** · **MyBib** — generate APA/MLA/bibtex citations free | Fully free | [zbib.org](https://zbib.org) · [scribbr.com](https://www.scribbr.com) · [mybib.com](https://www.mybib.com) |
 | **JSTOR** | Open-access journals + register & read | ~6 articles/mo free | [jstor.org](https://www.jstor.org) |
 | **PubMed** | 37M+ biomedical literature citations | Fully free | [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov) |
 | **Internet Archive Scholar** | Open-access scholarly search | Fully free | [scholar.archive.org](https://scholar.archive.org) |

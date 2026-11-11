@@ -18,8 +18,6 @@
 | **Quizlet Plus** | Student discount | UNiDAYS / Student Beans | [quizlet.com](https://quizlet.com) |
 | **Wolfram\|Alpha Pro** | ~-50% student pricing (step-by-step solutions) | SheerID | [wolframalpha.com/pro](https://www.wolframalpha.com/pro/) |
 | **Evernote** | Student discount (~-50%) | Student Beans | [evernote.com](https://evernote.com) |
-| **Readwise Reader** | ~-50% for students | School email | [readwise.io](https://readwise.io) |
-| **Brilliant** | Student discount on premium | Student status | [brilliant.org](https://brilliant.org) |
 | **Babbel** | Student discount on language plans | UNiDAYS / Student Beans | [babbel.com](https://www.babbel.com) |
 | **LanguageTool** | Edu discount on Premium | School email | [languagetool.org](https://languagetool.org) |
 | **DeepL Pro** | ~-40% via UNiDAYS (eligible regions) | UNiDAYS | [deepl.com](https://www.deepl.com) |
@@ -48,6 +46,8 @@
 | **VPN student deals** | NordVPN up to -81% · Surfshark up to -88% · Proton VPN -70% (1st yr) | Student Beans | [surfshark.com/student-discount](https://surfshark.com/student-discount) |
 | **Scrivener** | Educational license $50.99 (vs $59.99) — writing studio | Institutional affiliation | [literatureandlatte.com](https://www.literatureandlatte.com/scrivener/overview) |
 | **Readwise** | **-50%** all plans (highlights + Reader app) | Email hello@readwise.io + proof | [readwise.io](https://readwise.io/pricing) |
+| **DEVONthink** | Mac document/research manager — ~40% edu during back-to-school promos | Student proof | [devontechnologies.com](https://www.devontechnologies.com) |
+| **RemNote Pro** | **-25%** education discount (notes + flashcards + PDF annotation) | Institution email (auto-detected) | [remnote.com](https://www.remnote.com/pricing) |
 
 ## 🆓 Free for everyone — study & productivity stack
 
@@ -108,6 +108,17 @@ All fully free, no limits.
 | **Ninite** | Bulk-install Windows apps cleanly | Fully free | [ninite.com](https://ninite.com) |
 | **fast.com / speedtest.net** | Internet speed check | Fully free | [fast.com](https://fast.com) |
 | **Internet Archive** | Free books, music, software, games | Fully free | [archive.org](https://archive.org) |
+| ⭐ **uBlock Origin / SponsorBlock** | The essential ad-blocker + auto-skip YouTube sponsors | Fully free | [ublockorigin.com](https://ublockorigin.com) · [sponsor.ajay.app](https://sponsor.ajay.app) |
+| **Proton suite** | Free Mail, VPN, Pass, Drive tiers (privacy stack) | Free tier limits | [proton.me](https://proton.me) |
+| **Email aliases** | **addy.io** · **SimpleLogin** · **Firefox Relay** — hide your real email | Free tiers | [addy.io](https://addy.io) · [simplelogin.io](https://simplelogin.io) |
+| **FreeTube / NewPipe** | Private ad-free YouTube clients (desktop / Android) | Fully free | [freetubeapp.io](https://freetubeapp.io) · [newpipe.net](https://newpipe.net) |
+| **Monkeytype / Keybr** | Learn to type fast — infinitely better than it sounds | Fully free | [monkeytype.com](https://monkeytype.com) |
+| **LanguageTool** | Open-source Grammarly alternative | Free tier (self-hostable) | [languagetool.org](https://languagetool.org) |
+| **CryptPad** | Encrypted collaborative docs/sheets (private G Suite) | Free, 1 GB | [cryptpad.fr](https://cryptpad.fr) |
+| **Shutter Encoder / LosslessCut** | Pro-grade media conversion & lossless trimming | Fully free | [shutterencoder.com](https://www.shutterencoder.com) · [github.com/mifi/lossless-cut](https://github.com/mifi/lossless-cut) |
+| **ActivityWatch / Super Productivity** | Free automatic time-tracking & task manager | Fully free | [activitywatch.net](https://activitywatch.net) · [super-productivity.com](https://super-productivity.com) |
+| **PDF24 / SumatraPDF** | Free Windows PDF toolbox · featherweight PDF reader | Fully free | [pdf24.org](https://www.pdf24.org) · [sumatrapdfreader.org](https://www.sumatrapdfreader.org) |
+| **Mac essentials (free)** | **Rectangle** (snap windows) · **IINA** (video) · **AppCleaner** · **The Unarchiver** · **Alt-Tab** · **MonitorControl** · **Karabiner-Elements** | Fully free | github/bundle sites |
 | **iFixit** | Free repair guides for any device | Fully free | [ifixit.com](https://www.ifixit.com) |
 | **ShareX** | Screenshot + screen capture power tool (Windows) | Fully free | [getsharex.com](https://getsharex.com) |
 | **HandBrake** | Video converter/compressor | Fully free | [handbrake.fr](https://handbrake.fr) |
@@ -120,3 +131,22 @@ All fully free, no limits.
 | **NAPS2** | Scan documents to PDF cleanly | Fully free | [naps2.com](https://www.naps2.com) |
 | **Ventoy / Rufus** | Bootable USB tools (install Linux, repair Windows) | Fully free | [ventoy.net](https://www.ventoy.net) · [rufus.ie](https://rufus.ie) |
 | **KeePassXC** | Offline password manager (Bitwarden alternative) | Fully free | [keepassxc.org](https://keepassxc.org) |
+| **Windows power tools** | **Everything** (instant file search) · **WinDirStat/WizTree** (disk usage) · **Ditto** (clipboard manager) · **Sysinternals** · **Bulk Crap Uninstaller** | Fully free | [voidtools.com](https://www.voidtools.com) · [windirstat.net](https://windirstat.net) |
+| **F-Droid / Fossify** | FOSS Android app store + free no-ads utility apps (calendar, gallery, files…) | Fully free | [f-droid.org](https://f-droid.org) · [fossify.org](https://www.fossify.org) |
+| **Thunderbird** | Open-source email/calendar client (all accounts in one) | Fully free | [thunderbird.net](https://www.thunderbird.net) |
+| **mpv / foobar2000 / MusicBee** | Featherweight power media players (mpv = video, foobar/MusicBee = music) | Fully free | [mpv.io](https://mpv.io) · [foobar2000.org](https://www.foobar2000.org) · [getmusicbee.com](https://getmusicbee.com) |
+| **Syncthing / Nextcloud** | Free file sync between devices · self-hosted Google Drive replacement | Fully free | [syncthing.net](https://syncthing.net) · [nextcloud.com](https://nextcloud.com) |
+| **Restic / Kopia / Duplicati** | Free encrypted backups (local or cloud) | Fully free | [restic.net](https://restic.net) · [kopia.io](https://kopia.io) |
+| **Immich / Ente** | Self-hosted Google Photos replacement · encrypted photo backup | Fully free / free tier | [immich.app](https://immich.app) · [ente.io](https://ente.io) |
+| **Offline maps** | **Organic Maps** · **OsmAnd** · **HERE WeGo** · **Magic Earth** — free offline navigation (saves data abroad) | Fully free | [organicmaps.app](https://organicmaps.app) · [osmand.net](https://osmand.net) |
+| **Citymapper / Transit / Moovit** | Best free public-transit apps (real-time, 100+ cities) | Fully free | [citymapper.com](https://citymapper.com) · [transitapp.com](https://transitapp.com) |
+| **Medito** | 100% free meditation & sleep app (nonprofit — no ads, no paywall) | Fully free | [medito.app](https://medito.app) |
+| **Insight Timer** | Largest free meditation library + live sessions | Free tier (premium optional) | [insighttimer.com](https://insighttimer.com) |
+| **Habitica** | Gamified habit tracker — your life as an RPG | Fully free | [habitica.com](https://habitica.com) |
+| **Free personal sites** | **Carrd** (3 sites free, Pro $19/yr) · **Neocities** · **Google Sites** — publish your page today | Free tiers | [carrd.co](https://carrd.co) · [neocities.org](https://neocities.org) |
+| **Link-in-bio** | **Linktree** free tier · **Bento** — one link for all your profiles | Free tiers | [linktr.ee](https://linktr.ee) · [bento.me](https://bento.me) |
+| **cal.com** | Open-source Calendly alternative — free scheduling | Fully free core | [cal.com](https://cal.com) |
+| **Luma / Partiful** | Free event hosting & invites (club events, parties, hackathons) | Fully free | [lu.ma](https://lu.ma) · [partiful.com](https://partiful.com) |
+| **Squoosh / TinyPNG** | Compress images for web/submissions | Fully free | [squoosh.app](https://squoosh.app) · [tinypng.com](https://tinypng.com) |
+| **archive.today** | Snapshot any page (Wayback complement) | Fully free | [archive.ph](https://archive.ph) |
+| **Disposable email** | **10minutemail** · **Guerrilla Mail** — dodge spam signups | Fully free | [10minutemail.com](https://10minutemail.com) · [guerrillamail.com](https://www.guerrillamail.com) |
