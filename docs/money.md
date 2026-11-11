@@ -44,6 +44,7 @@
 | **Price comparison** | **idealo** · **PriceRunner** · **Google Shopping** | Fully free | comparison sites |
 | **Paid research studies** | **Prolific** (academic surveys, ~$8-12/h) · **UserTesting** · **Respondent** · **User Interviews** — legit side income for students | Availability by country; payout thresholds | [prolific.com](https://www.prolific.com) · [usertesting.com](https://www.usertesting.com) · [respondent.io](https://www.respondent.io) |
 | **Birthday freebies** | Free food/gifts on your birthday (US: Starbucks, Sephora, Denny's… — needs rewards account) | Free w/ loyalty signup | brand apps |
+| **Free second-hand stuff** | **Buy Nothing groups** · **Freecycle** · **Geev/Donnons (FR)** — neighbors give away furniture/tech for free | Free (local groups) | [buynothingproject.org](https://buynothingproject.org) · [freecycle.org](https://www.freecycle.org) |
 
 ## ⚠️ Money traps for students
 

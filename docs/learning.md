@@ -10,6 +10,7 @@
 | ⭐ **Your university library** | Pays for journals, ebooks, databases (JSTOR, IEEE, ACM, press…) | Institution login | your library portal |
 | **GitHub Pack courses** | Educative, Frontend Masters, DataCamp, Boot.dev, Codédex, Scrimba, GoRails… (10 platforms) | GitHub Pack | see [github-pack.md](github-pack.md) |
 | **MongoDB certification** | Free cert exam ($150 value) | GitHub Pack | [mongodb.com/students](https://www.mongodb.com/students) |
+| **CompTIA Academic Store** | **-35 to -55%** on exam vouchers & training (A+, Network+, Security+…) | Student status at checkout | [comptia.org](https://www.comptia.org) |
 | **GitHub Foundations cert** | Free cert exam (~$99 value) | GitHub Pack | [education.github.com](https://education.github.com) |
 | **SOLIDWORKS CSWA/CSWP** | Free certification exams | School email | [solidworks.com](https://www.solidworks.com/product/students) |
 | **Research software student pricing** | Stata, NVivo, MAXQDA, ATLAS.ti, GraphPad Prism — ~50% student licenses | Student status | vendor sites |
@@ -22,6 +23,8 @@
 | **Mathematica Student Edition** | Full Mathematica at a fraction of pro price (also free via many unis) | Enrollment proof | [wolfram.com/student](https://www.wolfram.com/mathematica-student-edition/) |
 | **EndNote student** | ~$114 student license (vs ~$275 pro — often free via campus IT) | Enrollment proof | [endnote.com](https://endnote.com) |
 | **Wolfram Alpha Pro Student** | **$5/mo** (vs $9.99) — step-by-step math/science solutions | Student status | [wolframalpha.com/pro/students](https://www.wolframalpha.com/pro/pricing/students/) |
+| ⭐ **Benchling for Academics** | Pro molecular-biology suite + electronic lab notebook — **completely free** for academics | Academic email | [benchling.com/academic](https://www.benchling.com/academic) |
+| **BioRender student** | Science figure tool — student pricing on paid plans (+ free basic tier) | .edu/academic email | [biorender.com/student-plans](https://www.biorender.com/solutions/student-plans) |
 
 ## 🆓 Free for everyone — learning platforms
 
@@ -65,6 +68,7 @@ The **Free cert?** column tells you whether you can get a certificate without pa
 | **Class Central** | Search engine for free online courses | — | [classcentral.com](https://www.classcentral.com) |
 | **Alison** | Free courses (ad-supported) | Cert paid | [alison.com](https://alison.com) |
 | **SWAYAM / NPTEL** | India's official free MOOCs (IIT professors; cheap optional exams for credit) | ✅ Free courses | [swayam.gov.in](https://swayam.gov.in) · [nptel.ac.in](https://nptel.ac.in) |
+| **Vendor academies** | **Cisco Networking Academy** (incl. Packet Tracer) · **Fortinet Training Institute** (free NSE/FCF certs) · **Red Hat Academy** — free IT courses & cert tracks | ✅ Free courses/certs | [netacad.com](https://www.netacad.com) · [training.fortinet.com](https://training.fortinet.com) · [redhat.com/academy](https://www.redhat.com/en/services/training/red-hat-academy) |
 | **Kaggle Learn** | Micro-courses (Python, ML, SQL, deep learning) | ✅ Free certs | [kaggle.com/learn](https://www.kaggle.com/learn) |
 | **CodinGame / CheckiO** | Learn to code through games | — | [codingame.com](https://www.codingame.com) · [checkio.org](https://checkio.org) |
 | **DrivenData / Zindi** | Data-science competitions for social good | — | [drivendata.org](https://www.drivendata.org) · [zindi.africa](https://zindi.africa) |
@@ -86,7 +90,7 @@ The **Free cert?** column tells you whether you can get a certificate without pa
 | **Splunk free courses** | Free Splunk fundamentals | ✅ Free | [splunk.com/training](https://www.splunk.com/en_us/training.html) |
 | **INE** | Security & cloud courses | Free starter pass | [ine.com](https://ine.com) |
 | **Language Reactor** | Learn languages w/ Netflix & YouTube | Free tier | [languagereactor.com](https://www.languagereactor.com) |
-| **Photomath / GeoGebra** | Math solver with steps · math apps | Free | [photomath.com](https://photomath.com) · [geogebra.org](https://www.geogebra.org) |
+| **Photomath / Math Solver / Socratic** | Step-by-step math solvers · Google's homework helper | Free | [photomath.com](https://photomath.com) · [math.microsoft.com](https://math.microsoft.com) · [socratic.org](https://socratic.org) |
 
 > 💡 **Coursera trick**: most courses have a "Financial aid" link on the course page — apply, wait ~2 weeks, get the full course + certificate for free. Open to anyone, no student status needed.
 

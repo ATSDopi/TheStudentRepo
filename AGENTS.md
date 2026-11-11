@@ -19,7 +19,8 @@ A community-maintained, **international** list of student discounts, credits, fr
   - `entertainment.md` — streaming student plans, free games
   - `money.md` — banking, budgeting, money traps
   - `scholarships.md` — international scholarships + databases
-  - `countries.md` — country-specific perks (140 sections, ~145 countries + EU + flights + stub)
+  - `countries.md` — country-specific perks (142 sections, ~148 countries + EU + flights + stub)
+  - `faq.md` — verification Q&A (no .edu email, rejections, renewals, graduation, scam warnings)
 - `CONTRIBUTING.md` — entry format and rules
 - `LICENSE` — MIT
 - `.github/` — issue templates (expired offer, new offer, new resource) + weekly lychee link-check workflow

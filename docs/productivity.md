@@ -16,6 +16,8 @@
 | **1Password** | 1 yr free + Developer Tools | GitHub Pack | [1password.com](https://1password.com) |
 | **Grammarly Pro** | -50% | SheerID | [grammarly.com](https://www.grammarly.com) |
 | **Quizlet Plus** | Student discount | UNiDAYS / Student Beans | [quizlet.com](https://quizlet.com) |
+| **Monday.com Student Program** | Account **free for the duration of university** (+ pro features for student orgs) | Student email signup | [monday.com/student-program](https://monday.com/moshal-and-monday) |
+| **Basecamp for students** | Free account for coursework (email students@basecamp.com from your school address) | School email | [basecamp.com/discounts](https://basecamp.com/discounts) |
 | **Wolfram\|Alpha Pro** | ~-50% student pricing (step-by-step solutions) | SheerID | [wolframalpha.com/pro](https://www.wolframalpha.com/pro/) |
 | **Evernote** | Student discount (~-50%) | Student Beans | [evernote.com](https://evernote.com) |
 | **Babbel** | Student discount on language plans | UNiDAYS / Student Beans | [babbel.com](https://www.babbel.com) |
@@ -41,7 +43,7 @@
 | ⭐ **Asana for Students** | Starter tier **free 12 months** (worldwide, 18+) | Goodstack | [asana.com/industry/students](https://asana.com/industry/students) |
 | **Airtable** | Free Team plan 6-24 months (+ instant 120-day trial w/ .edu) | .edu email / application | [airtable.com/solutions/education](https://airtable.com/solutions/education) |
 | **Loom** | Up to -75% on Business (classroom use) | Goodstack via Atlassian | [loom.com/education](https://www.loom.com/education) |
-| **Tella** | 6 months free Pro + -50% after | School email | [tella.so](https://www.tella.so) |
+| **Tella** | 6 months free Pro + -50% after | School email | [tella.tv](https://tella.tv) |
 | **Descript** | Education discount on request | School email | [descript.com](https://www.descript.com) |
 | **VPN student deals** | NordVPN up to -81% · Surfshark up to -88% · Proton VPN -70% (1st yr) | Student Beans | [surfshark.com/student-discount](https://surfshark.com/student-discount) |
 | **Scrivener** | Educational license $50.99 (vs $59.99) — writing studio | Institutional affiliation | [literatureandlatte.com](https://www.literatureandlatte.com/scrivener/overview) |
@@ -54,6 +56,7 @@
 | Need | Free tool | Limits | Link |
 |---|---|---|---|
 | ⭐ Flashcards | **Anki** — spaced repetition, the med-school standard | Fully free (iOS app paid once) | [apps.ankiweb.net](https://apps.ankiweb.net) |
+| **Knowt** | Free Quizlet alternative — unlimited flashcard sets, notes, all study modes (AI extras limited) | Free tier | [knowt.com](https://knowt.com) |
 | ⭐ Notes | **Obsidian** — markdown notes | Fully free (commercial use included since 2025) | [obsidian.md](https://obsidian.md) |
 | Notes (local-first) | **Anytype** · **AppFlowy** — Notion alternatives | Fully free | [anytype.io](https://anytype.io) · [appflowy.io](https://appflowy.io) |
 | Notes (simple) | **Simplenote** | Fully free | [simplenote.com](https://simplenote.com) |
@@ -87,6 +90,12 @@ All fully free, no limits.
 | Screen recording | **OBS Studio** | [obsproject.com](https://obsproject.com) |
 | GitHub Copilot | **Continue.dev** · **Void** editor | [continue.dev](https://www.continue.dev) |
 | Zoom | **Jitsi Meet** | [meet.jit.si](https://meet.jit.si) |
+| MATLAB | **GNU Octave** · **Scilab** | [octave.org](https://octave.org) · [scilab.org](https://www.scilab.org) |
+| SPSS | **JASP** · **jamovi** · **PSPP** | [jasp-stats.org](https://jasp-stats.org) · [jamovi.org](https://www.jamovi.org) · [gnu.org/pspp](https://www.gnu.org/software/pspp/) |
+| ArcGIS | **QGIS** | [qgis.org](https://qgis.org) |
+| Mathematica | **SageMath** · **SymPy** | [sagemath.org](https://www.sagemath.org) · [sympy.org](https://www.sympy.org) |
+| LaTeX | **Typst** — modern typesetting, way easier | [typst.app](https://typst.app) |
+| TeamViewer | **RustDesk** · **Chrome Remote Desktop** | [rustdesk.com](https://rustdesk.com) · [remotedesktop.google.com](https://remotedesktop.google.com) |
 
 ## � Useful websites
 
@@ -110,6 +119,7 @@ All fully free, no limits.
 | **Internet Archive** | Free books, music, software, games | Fully free | [archive.org](https://archive.org) |
 | ⭐ **uBlock Origin / SponsorBlock** | The essential ad-blocker + auto-skip YouTube sponsors | Fully free | [ublockorigin.com](https://ublockorigin.com) · [sponsor.ajay.app](https://sponsor.ajay.app) |
 | **Proton suite** | Free Mail, VPN, Pass, Drive tiers (privacy stack) | Free tier limits | [proton.me](https://proton.me) |
+| **Privacy starter kit** | **PrivacyGuides** (curated recommendations) · **ToS;DR** (terms-of-service grades) · **SimpleLogin/Proton Pass** (free email aliases) · **Signal** · **Tuta** mail | Fully free | [privacyguides.org](https://www.privacyguides.org) · [tosdr.org](https://tosdr.org) |
 | **Email aliases** | **addy.io** · **SimpleLogin** · **Firefox Relay** — hide your real email | Free tiers | [addy.io](https://addy.io) · [simplelogin.io](https://simplelogin.io) |
 | **FreeTube / NewPipe** | Private ad-free YouTube clients (desktop / Android) | Fully free | [freetubeapp.io](https://freetubeapp.io) · [newpipe.net](https://newpipe.net) |
 | **Monkeytype / Keybr** | Learn to type fast — infinitely better than it sounds | Fully free | [monkeytype.com](https://monkeytype.com) |
@@ -141,6 +151,7 @@ All fully free, no limits.
 | **Offline maps** | **Organic Maps** · **OsmAnd** · **HERE WeGo** · **Magic Earth** — free offline navigation (saves data abroad) | Fully free | [organicmaps.app](https://organicmaps.app) · [osmand.net](https://osmand.net) |
 | **Citymapper / Transit / Moovit** | Best free public-transit apps (real-time, 100+ cities) | Fully free | [citymapper.com](https://citymapper.com) · [transitapp.com](https://transitapp.com) |
 | **Medito** | 100% free meditation & sleep app (nonprofit — no ads, no paywall) | Fully free | [medito.app](https://medito.app) |
+| **Nike Training Club / Adidas Running** | Free guided workouts & run tracking (no subscription) | Fully free | [nike.com/ntc-app](https://www.nike.com/ntc-app) · [adidas.com/runtastic](https://www.runtastic.com) |
 | **Insight Timer** | Largest free meditation library + live sessions | Free tier (premium optional) | [insighttimer.com](https://insighttimer.com) |
 | **Habitica** | Gamified habit tracker — your life as an RPG | Fully free | [habitica.com](https://habitica.com) |
 | **Free personal sites** | **Carrd** (3 sites free, Pro $19/yr) · **Neocities** · **Google Sites** — publish your page today | Free tiers | [carrd.co](https://carrd.co) · [neocities.org](https://neocities.org) |
@@ -150,3 +161,6 @@ All fully free, no limits.
 | **Squoosh / TinyPNG** | Compress images for web/submissions | Fully free | [squoosh.app](https://squoosh.app) · [tinypng.com](https://tinypng.com) |
 | **archive.today** | Snapshot any page (Wayback complement) | Fully free | [archive.ph](https://archive.ph) |
 | **Disposable email** | **10minutemail** · **Guerrilla Mail** — dodge spam signups | Fully free | [10minutemail.com](https://10minutemail.com) · [guerrillamail.com](https://www.guerrillamail.com) |
+| **Free forms & polls** | **Tally** (unlimited forms) · **Google Forms** · **Slido** · **Mentimeter** — surveys, signups, feedback | Free tiers | [tally.so](https://tally.so) · [slido.com](https://www.slido.com) |
+| **Lecture transcription** | **Otter.ai** (300 min/mo) · **Whisper** (local, unlimited) — record & transcribe lectures | Free tier / fully free | [otter.ai](https://otter.ai) · [github.com/openai/whisper](https://github.com/openai/whisper) |
+| **2FA apps** | **Ente Auth** · **2FAS** · **Aegis** — free authenticators, better than Google Authenticator | Fully free | [ente.io/auth](https://ente.io/auth/) · [2fas.com](https://2fas.com) |

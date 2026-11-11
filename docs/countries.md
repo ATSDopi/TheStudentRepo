@@ -6,6 +6,154 @@
 > The **Verify via** column says how to claim each — `—` means no student status needed.
 > 🚧 = work in progress — **[contributions welcome](../CONTRIBUTING.md)** to expand your country!
 
+<details>
+<summary><b>📋 Jump to a country (141 sections)</b></summary>
+
+- [🇫🇷 France](#france)
+- [🇺🇸 United States](#united-states)
+- [🇬🇧 United Kingdom](#united-kingdom)
+- [🇩🇪 Germany](#germany)
+- [🇨🇦 Canada](#canada)
+- [🇦🇺 Australia](#australia)
+- [🇮🇳 India](#india)
+- [🇳🇱 Netherlands](#netherlands)
+- [🇪🇸 Spain](#spain)
+- [🇮🇹 Italy](#italy)
+- [🇧🇪 Belgium](#belgium)
+- [🇦🇹 Austria](#austria)
+- [🇮🇪 Ireland](#ireland)
+- [🇵🇱 Poland](#poland)
+- [🌲 Nordics (SE · NO · DK · FI)](#nordics-se-no-dk-fi)
+- [🇧🇷 Brazil](#brazil)
+- [🇯🇵 Japan](#japan)
+- [🇰🇷 South Korea](#south-korea)
+- [🇳🇿 New Zealand](#new-zealand)
+- [🇵🇹 Portugal](#portugal)
+- [🇨🇿 Czechia](#czechia)
+- [🇭🇺 Hungary](#hungary)
+- [🇹🇷 Türkiye](#trkiye)
+- [🇲🇽 Mexico](#mexico)
+- [🇸🇬 Singapore](#singapore)
+- [🇨🇭 Switzerland](#switzerland)
+- [🇸🇰 Slovakia](#slovakia)
+- [🇭🇷 Croatia](#croatia)
+- [🇷🇴 Romania](#romania)
+- [🇬🇷 Greece](#greece)
+- [🇵🇭 Philippines](#philippines)
+- [🇲🇾 Malaysia](#malaysia)
+- [🇿🇦 South Africa](#south-africa)
+- [🇦🇷 Argentina](#argentina)
+- [🇨🇱 Chile](#chile)
+- [🇭🇰 Hong Kong](#hong-kong)
+- [🇸🇮 Slovenia](#slovenia)
+- [🇱🇺 Luxembourg](#luxembourg)
+- [🇪🇪 Estonia](#estonia)
+- [🇮🇩 Indonesia](#indonesia)
+- [🇦🇪 United Arab Emirates](#united-arab-emirates)
+- [🇹🇼 Taiwan](#taiwan)
+- [🇮🇱 Israel](#israel)
+- [🇺🇦 Ukraine](#ukraine)
+- [🇮🇸 Iceland](#iceland)
+- [🇲🇹 Malta](#malta)
+- [🇩🇿 Algeria](#algeria)
+- [🇪🇬 Egypt](#egypt)
+- [🇱🇹 Lithuania](#lithuania)
+- [🇱🇻 Latvia](#latvia)
+- [🇧🇬 Bulgaria](#bulgaria)
+- [🇷🇸 Serbia](#serbia)
+- [🇵🇪 Peru](#peru)
+- [🇲🇦 Morocco](#morocco)
+- [🇹🇭 Thailand](#thailand)
+- [🇻🇳 Vietnam](#vietnam)
+- [🇨🇴 Colombia](#colombia)
+- [🇰🇪 Kenya](#kenya)
+- [🇹🇳 Tunisia](#tunisia)
+- [🇨🇾 Cyprus](#cyprus)
+- [🇪🇺 Europe — cross-country](#europe-cross-country)
+- [🇳🇬 Nigeria](#nigeria)
+- [🇬🇭 Ghana](#ghana)
+- [🇧🇳 Brunei](#brunei)
+- [🇦🇱 Albania](#albania)
+- [🇲🇰 North Macedonia](#north-macedonia)
+- [🇧🇦 Bosnia & Herzegovina](#bosnia-herzegovina)
+- [🇵🇰 Pakistan](#pakistan)
+- [🇹🇿 Tanzania](#tanzania)
+- [🇺🇾 Uruguay](#uruguay)
+- [🇪🇨 Ecuador](#ecuador)
+- [🇨🇷 Costa Rica](#costa-rica)
+- [🇱🇰 Sri Lanka](#sri-lanka)
+- [🇧🇩 Bangladesh](#bangladesh)
+- [🇸🇳 Senegal](#senegal)
+- [🇧🇼 Botswana](#botswana)
+- [🇸🇦 Saudi Arabia](#saudi-arabia)
+- [🇹🇹 Trinidad & Tobago](#trinidad-tobago)
+- [🇲🇺 Mauritius](#mauritius)
+- [🇳🇦 Namibia](#namibia)
+- [🇰🇿 Kazakhstan](#kazakhstan)
+- [🇶🇦 Qatar](#qatar)
+- [🇯🇲 Jamaica](#jamaica)
+- [🇵🇦 Panama](#panama)
+- [🇨🇲 Cameroon](#cameroon)
+- [🇷🇼 Rwanda](#rwanda)
+- [🇯🇴 Jordan](#jordan)
+- [🇺🇬 Uganda](#uganda)
+- [🇪🇹 Ethiopia](#ethiopia)
+- [🇿🇼 Zimbabwe](#zimbabwe)
+- [🇺🇿 Uzbekistan](#uzbekistan)
+- [🇳🇵 Nepal](#nepal)
+- [🇰🇭 Cambodia](#cambodia)
+- [🇩🇴 Dominican Republic](#dominican-republic)
+- [🇰🇼 Kuwait](#kuwait)
+- [🇧🇭 Bahrain](#bahrain)
+- [🇴🇲 Oman](#oman)
+- [🇲🇻 Maldives](#maldives)
+- [🇱🇸 Lesotho](#lesotho)
+- [🇬🇾 Guyana](#guyana)
+- [🇫🇯 Fiji](#fiji)
+- [🇲🇼 Malawi](#malawi)
+- [🇮🇷 Iran](#iran)
+- [🇮🇶 Iraq](#iraq)
+- [🇱🇧 Lebanon](#lebanon)
+- [🇦🇴 Angola](#angola)
+- [🇿🇲 Zambia](#zambia)
+- [🇲🇳 Mongolia](#mongolia)
+- [🇵🇾 Paraguay](#paraguay)
+- [🇬🇹 Guatemala](#guatemala)
+- [🇧🇹 Bhutan](#bhutan)
+- [🇨🇮 Côte d'Ivoire](#cte-divoire)
+- [🇨🇺 Cuba](#cuba)
+- [🇻🇪 Venezuela](#venezuela)
+- [🇧🇴 Bolivia](#bolivia)
+- [🇭🇳 Honduras](#honduras)
+- [🇳🇮 Nicaragua](#nicaragua)
+- [🇸🇻 El Salvador](#el-salvador)
+- [🇹🇬 Togo](#togo)
+- [🇧🇯 Benin](#benin)
+- [🇲🇱 Mali](#mali)
+- [🇧🇫 Burkina Faso](#burkina-faso)
+- [🇲🇬 Madagascar](#madagascar)
+- [🇬🇦 Gabon](#gabon)
+- [🇵🇬 Papua New Guinea](#papua-new-guinea)
+- [🇱🇦 Laos](#laos)
+- [🇷🇺 Russia](#russia)
+- [🇧🇾 Belarus](#belarus)
+- [🇬🇪 Georgia](#georgia)
+- [🇦🇲 Armenia](#armenia)
+- [🇦🇿 Azerbaijan](#azerbaijan)
+- [🇲🇩 Moldova](#moldova)
+- [🇲🇪 Montenegro](#montenegro)
+- [🇽🇰 Kosovo](#kosovo)
+- [🇸🇷 Suriname](#suriname)
+- [🇧🇿 Belize](#belize)
+- [🇲🇿 Mozambique](#mozambique)
+- [🇧🇧 Barbados](#barbados)
+- [🇧🇸 Bahamas](#bahamas)
+- [🇨🇻 Cape Verde](#cape-verde)
+- [🌐 Other countries](#other-countries)
+
+</details>
+
+
 ## 🇫🇷 France
 
 <details open>
@@ -121,6 +269,8 @@
 | **Student checking** | Chase College Checking (~$100 bonus, no fee), BofA Advantage (fee waived <25), Wells Fargo | Proof of enrollment | bank sites |
 | **Discover it Student Cash Back** | Student card: no fee, cashback + $20/yr good-grade reward | Student status | [discover.com](https://www.discover.com) |
 | **Capital One student cards** | Savor/Quicksilver for Students — $0 fee, 1.5-3% cash back, $50 bonus | Enrollment | [capitalone.com/credit-cards/students](https://www.capitalone.com/credit-cards/students/) |
+| **Good student car insurance** | ~10-25% off auto insurance for GPA 3.0+ (State Farm, GEICO, Allstate…) | Transcript/GPA proof | insurer sites |
+| **Carmaker college programs** | GM, Ford, Hyundai… give ~$500-750 bonus cash for students/recent grads on new cars | Enrollment/graduation proof | dealer programs |
 | **State grants** | Every state has its own aid programs on top of FAFSA | State application | state aid sites |
 | **University emergency aid** | Hardship/emergency funds on most campuses — under-claimed | Student office | your institution |
 | **International student loans** | **MPOWER** · **Prodigy Finance** — no-cosigner loans for international students | Application (no FAFSA needed) | [mpowerfinancing.com](https://www.mpowerfinancing.com) · [prodigyfinance.com](https://prodigyfinance.com) |
@@ -144,7 +294,7 @@
 | **AT&T Signature Program** | Discounted plans via .edu verification | .edu email | [att.com](https://www.att.com) |
 | **Xfinity student** | Campus/student internet deals | Student status | [xfinity.com](https://www.xfinity.com) |
 | **Back-to-school retail promos** | Apple gift-card promo, Best Buy events… (Jul-Sep) | Edu store | brand sites |
-| **Sportswear student discounts** | adidas ~-30%, Nike ~-10%, Under Armour, Gymshark… | UNiDAYS / Student Beans | brand sites |
+| **Fashion student discounts** | adidas ~-30%, Nike ~-10%, ASOS -10% (SheerID), H&M, Levi's, Urban Outfitters, Gymshark… | UNiDAYS / Student Beans / SheerID | brand sites |
 | **B&H EDU Advantage** | Photo/video/audio gear discounts (up to -50% select, 300+ brands) | UNiDAYS | [bhphotovideo.com/edu](https://www.bhphotovideo.com/edu) |
 | **Logitech student** | **-20%** on peripherals (US/CA) | SheerID | [logitech.com](https://www.logitech.com/en-us/programs/sheer-id) |
 | **DJI student** | ~-5% cameras, $20 off select drones | Student verification | [djiusa.com/student-discount](https://www.djiusa.com/pages/student-discount) |
@@ -181,6 +331,7 @@
 | **Epic/Ikon college passes** | Discounted ski season passes for college students | Student status | resort sites |
 | **NBA League Pass student** | **-40%** monthly plan for 12 months | UNiDAYS | [nba.com](https://support.watch.nba.com/hc/en-us/articles/9382586457623-NBA-League-Pass-Student-Discount) |
 | **MLB.TV student** | ~-35% on the season package | Student verification | [mlb.com](https://www.mlb.com) |
+| **NFL Sunday Ticket student** | Student price each season (~-50%+ vs standard, via YouTube TV) | SheerID (seasonal window) | [youtube.com/nflsundayticket](https://tv.youtube.com/learn/nflsundayticket/) |
 
 </details>
 
@@ -222,7 +373,7 @@
 | **Student bank accounts** | Santander (free Railcard), NatWest/HSBC cash bonuses | UCAS proof | bank sites |
 | ⭐ **Co-op Food student** | **10% off** groceries | TOTUM / UNiDAYS | [coop.co.uk](https://www.coop.co.uk) |
 | **High street student discounts** | Boots, Apple, JD, ASOS… 10-20% | UNiDAYS / Student Beans / TOTUM | platforms |
-| **Turing Scheme** | UK funding for study/placements abroad | Via your institution | [turing-scheme.org.uk](https://turing-scheme.org.uk) |
+| **Turing Scheme** ⏳ | UK funding for study/placements abroad — **final year 2026-27**, replaced by Erasmus+ return in 2027 | Via your institution | [gov.uk](https://www.gov.uk/government/publications/turing-scheme) |
 | **Multiverse apprenticeships** | Paid degree apprenticeships at Google, Meta, banks… (earn while studying) | Application | [multiverse.io](https://www.multiverse.io) |
 | **Student Art Pass** | ~£10/yr → free/discounted entry to 250+ museums | Student status | [studentartpass.org](https://www.studentartpass.org) |
 | **Cinema & food deals** | Odeon/Cineworld student fares, Greggs/other app student deals | TOTUM / ID | venues |
@@ -287,7 +438,7 @@
 | **Youth Allowance / Austudy** | Federal income support for students | Centrelink application | [servicesaustralia.gov.au](https://www.servicesaustralia.gov.au) |
 | **HECS-HELP** | Deferred tuition — no upfront fees for citizens | Enrollment | [studyassist.gov.au](https://www.studyassist.gov.au) |
 | **Free TAFE** | Free vocational courses in priority fields | Enrollment | [education.gov.au](https://www.education.gov.au) |
-| **Prime Student AU** | 6 months free then half price | SheerID | [amazon.com.au/primestudent](https://www.amazon.com.au/primestudent) |
+| **Amazon Prime AU** | ⚠️ No student tier in Australia — standard 30-day trial only | — | [amazon.com.au/prime](https://www.amazon.com.au/prime) |
 | **Spotify / Apple Music / YouTube student** | ~50% off | SheerID / UNiDAYS | streaming sites |
 | **Student Edge / UNiDAYS AU** | Discount platform coverage | Platform signup | [studentedge.org](https://studentedge.org) · [myunidays.com](https://www.myunidays.com) |
 | **Student bank accounts** | No-fee accounts (CommBank, ANZ…) | Proof of enrollment | bank sites |
@@ -681,7 +832,7 @@
 | **Student transit fares** | ~-25-50% on Athens/Thessaloniki transport | Student card (paşo) | local transit |
 | **University meals** | Free/subsidized meals at university canteens (income-tested) | Student card | your university |
 | **Student banking** | Free accounts | Student status | bank sites |
-| **ISIC** | Discount network | Enrollment | [isic.gr](https://www.isic.gr) |
+| **ISIC** | Discount network | Enrollment | [isic.org](https://www.isic.org) |
 
 </details>
 
@@ -748,14 +899,17 @@
 ## 🇨🇱 Chile
 
 <details>
-<summary><b>Expand (5 offers)</b></summary>
+<summary><b>Expand (8 offers)</b></summary>
 
 | Offer | What you get | Verify via | Link |
 |---|---|---|---|
-| ⭐ **TNE (Tarjeta Nacional Estudiantil)** | Heavily discounted metro/bus fares for students | School enrollment | [tarjetanacionalestudiantil.cl](https://www.tarjetanacionalestudiantil.cl) |
-| **Pase Escolar** | Free/very cheap transit for low-income students | Socioeconomic criteria | junaeb.cl |
+| ⭐ **Gratuidad** | **Free tuition** at participating unis for bottom-60%-income families | FUAS application | [beneficiosestudiantiles.cl](https://www.beneficiosestudiantiles.cl) |
+| ⭐ **TNE student card** | Heavily discounted metro/bus fares nationwide | Student validation | [tne.cl](https://www.tne.cl) |
+| **Pase Escolar / Junaeb** | Free/very cheap transit + subsidized meals for low-income students | Socioeconomic criteria | [junaeb.cl](https://www.junaeb.cl) |
+| **CAE state-backed loans** | Government-guaranteed tuition loans | University application | [ayuda.mineduc.cl](https://ayuda.mineduc.cl) |
+| **Becas Chile** | Government scholarships (incl. study abroad) | Application | [becaschile.anid.cl](https://www.anid.cl) |
 | **Student banking** | Free accounts (BancoEstado, Santander…) | Student proof | bank sites |
-| **Gratuidad** | Free tuition at participating universities (income-tested) | Application | [gratuidad.cl](https://www.gratuidad.cl) |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
 | **Spotify / Apple Music student** | ~50% off | SheerID / UNiDAYS | streaming sites |
 
 </details>
@@ -875,7 +1029,7 @@
 | ⭐ **Rav Kav student profile** | **-50%** on bus & train fares nationwide | Student status | [ravkavonline.co.il](https://ravkavonline.co.il) |
 | **Student dorms** | Subsidized university housing | University application | your university |
 | **Student banking** | Discounted accounts (Leumi, Hapoalim…) | Student proof | bank sites |
-| **National student union deals** | Cinema, events & service discounts | Student card | [nus.co.il](https://www.nus.co.il) |
+| **National student union deals** | Cinema, events & service discounts | Student card | your campus student union |
 | **Spotify / Apple Music student** | ~50% off | SheerID / UNiDAYS | streaming sites |
 
 </details>
@@ -1170,21 +1324,6 @@
 
 </details>
 
-## 🇨🇱 Chile
-
-<details>
-<summary><b>Expand (5 offers)</b></summary>
-
-| Offer | What you get | Verify via | Link |
-|---|---|---|---|
-| ⭐ **Gratuidad** | **Free tuition** at participating unis for bottom-60%-income families | FUAS application | [beneficiosestudiantiles.cl](https://www.beneficiosestudiantiles.cl) |
-| **CAE state-backed loans** | Government-guaranteed tuition loans | University application | [ayuda.mineduc.cl](https://ayuda.mineduc.cl) |
-| **Becas Chile** | Government scholarships (incl. study abroad) | Application | [becaschile.anid.cl](https://www.anid.cl) |
-| **TNE student card** | Discounted metro/bus fares nationwide | Student validation | [tne.cl](https://www.tne.cl) |
-| **Junaeb food aid** | Subsidized meals & food support for students | Student status | [junaeb.cl](https://www.junaeb.cl) |
-
-</details>
-
 ## 🇬🇭 Ghana
 
 <details>
@@ -1420,7 +1559,7 @@
 
 | Offer | What you get | Verify via | Link |
 |---|---|---|---|
-| ⭐ **Free public tertiary education** | Free tuition at public unis (UoM, UTM, polytechnics) for citizens | Enrollment | [highereducationmauritius.com](https://highereducationmauritius.com) |
+| ⭐ **Free public tertiary education** | Free tuition at public unis (UoM, UTM, polytechnics) for citizens | Enrollment | [hec.mu](https://hec.mu) |
 | **Student transit fares** | Free bus travel for students | Student card | transit |
 | **Government scholarships** | Merit scholarships incl. abroad | Application | [education.govmu.org](https://education.govmu.org) |
 | **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
@@ -2235,6 +2374,45 @@
 
 </details>
 
+## 🇧🇧 Barbados
+
+<details>
+<summary><b>Expand (3 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| ⭐ **Free UWI tuition (citizens)** | Government pays tuition at UWI Cave Hill for Barbadian citizens | Enrollment | [cavehill.uwi.edu](https://www.cavehill.uwi.edu) |
+| **Student banking** | Free accounts (CIBC, Scotiabank…) | Student proof | bank sites |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇧🇸 Bahamas
+
+<details>
+<summary><b>Expand (3 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| **Government scholarships** | Ministry of Education scholarships & grants (local + abroad) | Application | [moetest.gov.bs](https://www.ministryofeducationbahamas.com) |
+| **University of The Bahamas** | National university — low tuition | Enrollment | [ub.edu.bs](https://www.ub.edu.bs) |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
+## 🇨🇻 Cape Verde
+
+<details>
+<summary><b>Expand (3 offers)</b></summary>
+
+| Offer | What you get | Verify via | Link |
+|---|---|---|---|
+| **Government scholarships** | Ministry scholarships for local & abroad study | Application | [med.gov.cv](https://med.gov.cv) |
+| **Uni-CV** | Public university — low tuition | Enrollment | [unicv.edu.cv](https://www.unicv.edu.cv) |
+| **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |
+
+</details>
+
 ## ✈️ Student flight fares — international
 
 <details>
@@ -2250,6 +2428,7 @@
 | **Lufthansa student fares** | Discounted fares + 2×23 kg bags (16+, no age cap) | Enrollment proof | [lufthansa.com](https://www.lufthansa.com) |
 | **Air France youth/student** | Youth fare 12-24 · student fare 18-29 — flexible, 2×23 kg | Student ID / enrollment | [airfrance.com](https://wwws.airfrance.us/information/offres/tarifs-jeune-etudiant) |
 | **Youth fare airlines** | SAS & Iberia sell under-26 youth fares; **United** ~5% off ages 18-23 | ID (age) | airline sites |
+| **StudentUniverse / KILROY** | Student travel agencies — negotiated fares up to ~-30% + student-only deals (15+, 18-25 for age fares) | Account + student/age verification | [studentuniverse.com](https://www.studentuniverse.com) · [kilroy.net](https://www.kilroy.net) |
 
 </details>
 

@@ -18,13 +18,14 @@
 | ⭐ **European Solidarity Corps** | Funded volunteering 18-30 (travel, board & allowance covered) | Application | [youth.europa.eu](https://youth.europa.eu/solidarity_en) |
 | **Hacktoberfest** | October open-source challenge — badges & rewards | Free registration | [hacktoberfest.com](https://hacktoberfest.com) |
 | **Microsoft Imagine Cup** | Student startup competition — big prizes & mentoring | Student status | [imaginecup.microsoft.com](https://imaginecup.microsoft.com) |
-| **Meta Hacker Cup / ICPC** | Annual programming competitions (résumé gold) | — | [facebook.com/codingcompetitions](https://www.facebook.com/codingcompetitions/hacker-cup) · [icpc.global](https://icpc.global) |
+| **ICPC / Codeforces / Topcoder** | Annual programming competitions (résumé gold) | — | [icpc.global](https://icpc.global) · [codeforces.com](https://codeforces.com) · [topcoder.com](https://www.topcoder.com) |
 | **Swift Student Challenge** | Apple competition — winners get WWDC perks | App submission | [developer.apple.com](https://developer.apple.com/swift-student-challenge/) |
 | **Kaggle competitions** | Ranked ML competitions — medals & prize money | Free account | [kaggle.com/competitions](https://www.kaggle.com/competitions) |
 | **Paid summer research abroad** | CERN Summer Student, EPFL/ETH/ISTA fellowships, MITACS Globalink (Canada), DAAD RISE (Germany) — travel + stipend | Application | program sites |
 | **ACM / IEEE student membership** | ~$19-32/yr → full digital library + network | Student status | [acm.org](https://www.acm.org) · [ieee.org](https://www.ieee.org) |
 | **LeetCode Premium (school campaign)** | ~$99/yr (-38%) when 50 students at your school pledge — annual Back-to-School campaign | .edu email + school threshold | [leetcode.com/student](https://leetcode.com/student/) |
 | **Kickresume Premium** | **6 months Premium free** (AI resume builder, ATS checker) | ISIC / ITIC / UNiDAYS | [kickresume.com/students](https://www.kickresume.com/en/students/) |
+| ⭐ **Hack Club (13-18)** | Nonprofit teen maker community — **free hardware grants up to $400**, PCB kits, hackathons, fiscal sponsorship | Age 13-18 + project submission | [hackclub.com](https://hackclub.com) |
 
 ## 🆓 Free for everyone — CV & resume
 

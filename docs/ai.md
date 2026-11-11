@@ -19,7 +19,6 @@ Student-verified AI offers plus the best free tiers. "Verify via" tells you how 
 | **Lovable Pro** | **50% off for 12 mo** ($12.50/mo instead of $25, 100 credits/mo) | School email | [lovable.dev/students](https://lovable.dev/students) |
 | **JetBrains AI Free** | Included with the free student license | School email | [jetbrains.com/ai](https://www.jetbrains.com/ai/) |
 | **Replit** | 50% off Core ($10/mo instead of $20) | School email (.edu) | [replit.com/edu/students](https://replit.com/edu/students) |
-| **Grammarly Pro** | -50% | SheerID | [grammarly.com](https://www.grammarly.com) |
 | **QuillBot Premium** | -25% on annual | SheerID | [quillbot.com/premium/student-discount](https://quillbot.com/premium/student-discount) |
 | **Windsurf** | Student plan when slots open (often closed) | SheerID | [windsurf.com](https://windsurf.com/student-terms-and-conditions) |
 
@@ -38,6 +37,8 @@ Student-verified AI offers plus the best free tiers. "Verify via" tells you how 
 | **Groq / OpenRouter** | Fast free-tier inference; free models on OpenRouter | Rate limits | [groq.com](https://groq.com) · [openrouter.ai](https://openrouter.ai) |
 | **HuggingChat / Poe** | Free open-model chat hubs | Free tiers | [huggingface.co/chat](https://huggingface.co/chat) · [poe.com](https://poe.com) |
 | **Free image generation** | **Microsoft Designer / Bing Image Creator** · **Ideogram** · **Leonardo** | Free daily credits | [designer.microsoft.com](https://designer.microsoft.com) |
+| **Free video generation** | **Luma Dream Machine** · **Kling** · **Pika** · **Hailuo** — short AI video clips | Free daily/monthly credits, watermark | [lumalabs.ai](https://lumalabs.ai) · [klingai.com](https://klingai.com) |
+| **LMArena** | Compare & vote on frontier models free (GPT/Gemini/Claude side-by-side) | Fully free | [lmarena.ai](https://lmarena.ai) |
 | **Free AI music** | **Suno** · **Udio** free tiers — generate full songs | Daily credits | [suno.com](https://suno.com) · [udio.com](https://www.udio.com) |
 | **Google Colab** | Free GPU notebooks (T4) for Python/ML | Limited sessions + compute quotas | [colab.research.google.com](https://colab.research.google.com) |
 | **Continue.dev / Void** | Open-source AI autocomplete/IDE (Copilot & Cursor alternatives) | Fully free, BYO model/API key | [continue.dev](https://www.continue.dev) · [voideditor.com](https://voideditor.com) |

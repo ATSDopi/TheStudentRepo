@@ -31,8 +31,8 @@ A community-maintained, international list of everything a student can get for f
 - [🔑 Step 0 — Get verified](#-step-0--get-verified-unlocks-90-of-all-offers) — unlocks ~90% of all offers
 - [⭐ Top 10](#-top-10--do-these-first) — the highest-value offers first
 - [🆕 Recently added](#-recently-added) — newest verified finds
-- [📚 Browse the list](#-browse-the-list) — 11 category pages
-- 📖 Category docs: [AI](docs/ai.md) · [GitHub Pack](docs/github-pack.md) · [Dev & cloud](docs/dev.md) · [Design](docs/design.md) · [Learning](docs/learning.md) · [Career](docs/career.md) · [Productivity](docs/productivity.md) · [Entertainment](docs/entertainment.md) · [Money](docs/money.md) · [Scholarships](docs/scholarships.md) · [By country](docs/countries.md)
+- [📚 Browse the list](#-browse-the-list) — 12 category pages
+- 📖 Category docs: [AI](docs/ai.md) · [GitHub Pack](docs/github-pack.md) · [Dev & cloud](docs/dev.md) · [Design](docs/design.md) · [Learning](docs/learning.md) · [Career](docs/career.md) · [Productivity](docs/productivity.md) · [Entertainment](docs/entertainment.md) · [Money](docs/money.md) · [Scholarships](docs/scholarships.md) · [By country](docs/countries.md) · [❓ FAQ](docs/faq.md)
 - [⚠️ Pitfalls & deadlines](#️-pitfalls--deadlines) · [🚀 Action plan](#-action-plan) · [🤝 Contributing](#-contributing)
 
 ---
@@ -89,7 +89,8 @@ Almost every offer on this list gates behind one of these verification systems. 
 | 📺 **Streaming, media & gaming** | [docs/entertainment.md](docs/entertainment.md) | Spotify/Apple/YT student plans, Headspace -85%, free games & **legal free streaming** |
 | 💰 **Money, banking & budgeting** | [docs/money.md](docs/money.md) | No-fee accounts, budgeting apps, tech student stores, paid studies, money traps |
 | 🎓 **Scholarships & grants** | [docs/scholarships.md](docs/scholarships.md) | Erasmus Mundus, Fulbright, DAAD, GKS, Mastercard Foundation + databases |
-| 🗺️ **Offers by country** | [docs/countries.md](docs/countries.md) | 140 country sections (~145 countries) + EU + **student flight fares** — transport, banking, gov aid |
+| 🗺️ **Offers by country** | [docs/countries.md](docs/countries.md) | 142 country sections (~148 countries) + EU + **student flight fares** — transport, banking, gov aid |
+| ❓ **FAQ** | [docs/faq.md](docs/faq.md) | Verification without .edu email, rejections, renewals, graduation, scams to avoid |
 
 > 🚧 Country sections beyond France are works in progress — **[add yours](CONTRIBUTING.md)**!
 
@@ -98,11 +99,15 @@ Almost every offer on this list gates behind one of these verification systems. 
 | New find | Where |
 |---|---|
 | ✈️ **Student flight fares** — Qatar Student Club, Turkish (-20%), Emirates, Singapore, Cathay, Lufthansa, Air France youth | [countries.md](docs/countries.md#-student-flight-fares--international) |
-| 🏗️ **Free engineering suites** — Ansys Student, Siemens NX/Solid Edge/Simcenter, Altair, PTC Creo, ArchiCAD | [design.md](docs/design.md) |
+| 🏗️ **Free engineering suites** — Ansys, Siemens NX/Solid Edge/Simcenter, Altair, PTC Creo, ArchiCAD, Abaqus/SIMULIA | [design.md](docs/design.md) |
 | 🎬 **Free pro creative tools** — Substance 3D, Lumion Pro, Vectorworks, Foundry (Nuke), D5 Render, Twinmotion | [design.md](docs/design.md) |
-| 🛡️ **VPN student deals** — NordVPN -81%, Surfshark -88%, Proton -70% (Student Beans) | [productivity.md](docs/productivity.md) |
-| 📚 **Free certifications** — AWS Educate, Oracle Foundations, IBM SkillsBuild, MongoDB U | [learning.md](docs/learning.md) |
-| 🌍 **11 new countries** — Russia (free budget places!), Belarus, Georgia, Armenia, Azerbaijan, Moldova, Montenegro, Kosovo, Suriname, Belize, Mozambique | [countries.md](docs/countries.md) |
+| 💻 **Hardware student deals** — Logitech -20%, B&H EDU, DJI, Samsung EPP | [countries.md](docs/countries.md) |
+| 📜 **Cheap certifications** — **CompTIA -35/55% vouchers**, free AWS Educate / Oracle Foundations / IBM SkillsBuild / Cisco NetAcad / Fortinet | [learning.md](docs/learning.md) |
+| 🧪 **Science tools** — **Benchling free for academics**, BioRender student, EndNote, Wolfram Pro $5/mo | [learning.md](docs/learning.md) |
+| 🗂️ **Study org** — Monday.com & Basecamp **free for students**, Knowt, lecture transcription tools | [productivity.md](docs/productivity.md) |
+| 🔐 **Privacy kit** — PrivacyGuides, ToS;DR, email aliases, VPN -70/88% | [productivity.md](docs/productivity.md) |
+| 🌍 **145+ countries covered** — incl. tuition-free systems, gov aid, loans (MPOWER/Prodigy), Hack Club grants | [countries.md](docs/countries.md) |
+| ❓ **New FAQ page** — verify without .edu email, fix rejections, renewals, graduation, scam warnings | [faq.md](docs/faq.md) |
 
 ### Legend — every category page is split in two
 
@@ -132,6 +137,7 @@ Almost every offer on this list gates behind one of these verification systems. 
 | Suno Student | **Gone** — students.suno.com no longer exists and suno.com/pricing has no student plan |
 | Webflow Students | **Discontinued** (early 2026) → use Framer's free student plan instead |
 | Brilliant, Xbox Game Pass, Netflix, HBO | **No student plan exists** — blog posts claiming one are outdated or affiliate bait |
+| Chegg, Course Hero, Studocu | Overpriced homework help (~$16/mo) — try Khan Academy, your prof's office hours & Discord study servers first |
 | 🇫🇷 €1 CROUS meals | Requires a **student card + active Izly account**, 1 meal per service |
 | 🇫🇷 Pass Culture | No new credit after 18; existing balance usable until 21 |
 | "Free lifetime Copilot", unofficial discount sites | **Scams** — never enter payment info outside official stores |

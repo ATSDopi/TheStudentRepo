@@ -68,5 +68,16 @@ Cloud credits, developer tools and **permanent free tiers** — the category whe
 | File transfer | **WinSCP** · **FileZilla** · **MobaXterm Home** | Fully free | [winscp.net](https://winscp.net) · [filezilla-project.org](https://filezilla-project.org) |
 | Email hosting | **Zoho Mail** | Free plan (5 users, 1 domain) | [zoho.com/mail](https://www.zoho.com/mail) |
 | Subdomains/DNS | **EU.org** · **DuckDNS** · **Afraid.org** | Free domains/DNS | [eu.org](https://nic.eu.org) · [duckdns.org](https://www.duckdns.org) · [freedns.afraid.org](https://freedns.afraid.org) |
+| Vector databases | **Pinecone** · **Qdrant Cloud** · **Weaviate** | Free tiers (for RAG/AI projects) | [pinecone.io](https://www.pinecone.io) · [qdrant.tech](https://qdrant.tech) |
+| Auth | **Clerk** (10k MAU) · **Supabase Auth** · **Auth0** | Free tiers | [clerk.com](https://clerk.com) |
+| Search | **Meilisearch** · **Typesense** · **Algolia** | OSS self-host · free tiers | [meilisearch.com](https://www.meilisearch.com) · [typesense.org](https://typesense.org) |
+| Backend-as-a-service | **Appwrite** · **PocketBase** · **Convex** | Free tiers | [appwrite.io](https://appwrite.io) · [pocketbase.io](https://pocketbase.io) |
+| Headless CMS | **Sanity** · **Strapi** · **Contentful** | Free tiers | [sanity.io](https://www.sanity.io) · [strapi.io](https://strapi.io) |
+| Image CDN | **Cloudinary** · **ImageKit** | Free tiers | [cloudinary.com](https://cloudinary.com) · [imagekit.io](https://imagekit.io) |
+| Form backends | **Formspree** · **Web3Forms** — forms on static sites | Free tiers | [formspree.io](https://formspree.io) · [web3forms.com](https://web3forms.com) |
+| Maps APIs | **Mapbox** free tier · **Leaflet + OpenStreetMap** fully free | Free tier / fully free | [mapbox.com](https://www.mapbox.com) · [leafletjs.com](https://leafletjs.com) |
+| Secrets management | **Doppler** · **Infisical** | Free tiers | [doppler.com](https://www.doppler.com) · [infisical.com](https://infisical.com) |
+| GPU inference | **Replicate** · **Modal** · **RunPod** | Free credits/tiers | [replicate.com](https://replicate.com) · [modal.com](https://modal.com) |
+| Sell digital products | **Payhip** · **Gumroad** · **Lemon Squeezy** · **Ko-fi** | Free plans (fee per sale) | [payhip.com](https://payhip.com) · [gumroad.com](https://gumroad.com) · [ko-fi.com](https://ko-fi.com) |
 
 > 💡 **$0 stack recipe**: Next.js on Vercel + Supabase + Cloudflare R2 + Resend + Sentry + a free .me domain from the Pack = a production app at zero cost.

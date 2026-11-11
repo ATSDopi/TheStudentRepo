@@ -17,12 +17,15 @@
 | ⭐ **Autodesk Education** | AutoCAD, Fusion 360, Maya, Revit, 3ds Max, Inventor… free 1 yr renewable | SheerID | [autodesk.com/education](https://www.autodesk.com/education/edu-software/overview) |
 | **SOLIDWORKS for Students** | Design Standard free + CSWA/CSWP certs | School email | [solidworks.com/product/students](https://www.solidworks.com/product/students) |
 | **Siemens student software** | **NX Student Edition**, **Solid Edge**, **Simcenter 3D** — all free (Windows, watermarked) | Free account registration | [siemens.com/student-software](https://www.siemens.com/en-us/company/academic-future-workforce/engineering-student-resources/engineering-student-software/) |
-| **NI LabVIEW Student** | 6-month free Student Edition (+ cheap student purchase options) | Academic verification | [ni.com/labviewse](https://www.ni.com/en-us/shop/product/labview.html) |
+| **Dassault/SIMULIA Learning Editions** | **Abaqus**, **CST Studio Suite**, **3DEXPERIENCE Engineer** — free learning versions (node limits, Windows) | Free download (SIMULIA community) | [3ds.com/students](https://www.3ds.com/edu/education/students) |
+| **NI LabVIEW Student** | 6-month free Student Edition (+ cheap student purchase options incl. Multisim) | Academic verification | [ni.com/labviewse](https://www.ni.com/en-us/shop/product/labview.html) |
+| **Qlik Academic Program** | Free Qlik Sense software + training for students | Academic program application | [qlik.com/academic-program](https://www.qlik.com/us/company/academic-program) |
 | **MATLAB Campus-Wide** | Free if your campus has a license, else ~$119/yr | School email | [mathworks.com](https://www.mathworks.com/products/matlab-student.html) |
 | **Maxon One** (Cinema 4D, ZBrush, Redshift) | Near-free student license | SheerID | [maxon.net](https://www.maxon.net/en/buy/plan-pricing-for-students) |
 | ⭐ **Onshape Student** | Full cloud CAD free (~$1,500/yr value), any email | Education status | [onshape.com/education](https://www.onshape.com/en/education/) |
 | **PTC Creo Student** | Free student edition | Registration | [ptc.com](https://www.ptc.com/en/academic-program) |
 | **Altium Designer** | Free student license (PCB design) | School email | [altium.com](https://www.altium.com/education/student-licenses) |
+| **PCBWay Future Innovators** | Sponsored PCB fabrication/assembly/3D print for student engineering projects (coupons) | Project application | [pcbway.com/sponsor](https://www.pcbway.com/project/sponsor/learnsponsor.aspx) |
 | **OriginLab OriginPro** | Free 6-month license (renewable) | School email | [originlab.com](https://www.originlab.com/index.aspx?go=PRODUCTS/OriginPro) |
 | **ArcGIS for Student Use** | Full Esri suite ~$100/yr (often free via university) | School email | [esri.com](https://www.esri.com/en-us/industries/education/overview) |
 | ⭐ **Ableton Live** | **-50%** on Intro/Standard/Suite (students 18+ & teachers) | ID or enrollment proof | [ableton.com/education](https://www.ableton.com/en/shop/education/) |
@@ -30,7 +33,7 @@
 | **iZotope** | **-50%** on plugins (Ozone, RX…) for students/faculty | Student verification | [izotope.com/pages/izo-students](https://www.izotope.com/pages/izo-students) |
 | **FabFilter** | **-50%** educational on the whole range | Enrollment proof (1 yr, renewable) | [fabfilter.com](https://prod.fabfilter.com/shop/educational-discounts) |
 | **Bitwig Studio EDU** | $269 full license (~-33%, commercial use OK) | EDU verification | [bitwig.com/buy-edu](https://www.bitwig.com/buy-edu/) |
-| **Audio plugins edu pricing** | Soundtoys -40%, Xfer Serum -30%, Waves ~-35%, Spitfire -30%, AAS -50%, Baby Audio -45%… | Student proof per vendor | vendor edu pages |
+| **Audio plugins edu pricing** | Soundtoys -40%, Xfer Serum -30%, Waves ~-35%, Spitfire -30%, Arturia ~-50%, Baby Audio -45%… | Student proof per vendor | vendor edu pages |
 | **Apple Pro Apps Bundle** | Final Cut Pro + Logic Pro + Motion + Compressor + MainStage ≈ $199 | Education store | [apple.com/us-edu/store](https://www.apple.com/us-edu/store) |
 | **Milanote** | Pro features free for students & educators | Application form | [milanote.com](https://milanote.com/plans) |
 | **ProtoPie** | Free educational license (advanced prototyping) | Education application | [protopie.io/education](https://www.protopie.io/use-cases/education) |
@@ -89,11 +92,14 @@
 | **Kenney / OpenGameArt** | Thousands of free game assets | CC0/CC-BY | [kenney.nl](https://kenney.nl) · [opengameart.org](https://opengameart.org) |
 | **Mixamo** | Auto-rigging + animation library (Adobe) | Free w/ Adobe account | [mixamo.com](https://www.mixamo.com) |
 | **unDraw / Storyset** | Free SVG illustrations | Fully free | [undraw.co](https://undraw.co) · [storyset.com](https://storyset.com) |
-| **Wokwi** | Arduino/ESP32/RP2040 simulator in browser | Free tier | [wokwi.com](https://wokwi.com) |
+| **Circuit simulators** | **Wokwi** (Arduino/ESP32 browser sim) · **LTspice** · **Falstad** · **EasyEDA** (PCB) | Fully free | [wokwi.com](https://wokwi.com) · [analog.com/ltspice](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html) · [falstad.com/circuit](https://www.falstad.com/circuit/) |
+| **3D slicers** | **Cura** · **PrusaSlicer** · **OrcaSlicer** — for 3D printing | Fully free | [ultimaker.com/cura](https://ultimaker.com/software/ultimaker-cura/) · [prusa3d.com](https://www.prusa3d.com/page/prusaslicer_424/) · [orcaslicer.com](https://orcaslicer.com) |
+| **FPGA & embedded tools** | **Quartus Prime Lite** · **Vivado ML Standard** · **STM32CubeIDE** · **Arduino IDE** — vendor-free editions | Fully free | [intel.com/quartus](https://www.intel.com/content/www/us/en/products/details/fpga/development-tools/quartus-prime.html) · [xilinx.com](https://www.xilinx.com) |
+| **Robotics simulators** | **Webots** · **Gazebo** · **CoppeliaSim EDU** (free for students) | Fully free / edu registration | [cyberbotics.com](https://cyberbotics.com) · [gazebosim.org](https://gazebosim.org) · [coppeliarobotics.com](https://www.coppeliarobotics.com) |
 | ⭐ **BandLab** | Free online DAW + mastering | Fully free | [bandlab.com](https://www.bandlab.com) |
-| **Spitfire LABS / Vital** | Pro-grade free instruments & synth | Fully free | [labs.spitfireaudio.com](https://labs.spitfireaudio.com) · [vital.audio](https://vital.audio) |
+| **Spitfire LABS / Vital / Surge XT / VCV Rack** | Pro-grade free instruments, synth & modular rack | Fully free | [labs.spitfireaudio.com](https://labs.spitfireaudio.com) · [vital.audio](https://vital.audio) · [surge-synthesizer.github.io](https://surge-synthesizer.github.io) · [vcvrack.com](https://vcvrack.com) |
 | **MuseScore / Dorico SE / Sibelius First** | Free notation software & starter tiers | Fully free | [musescore.org](https://musescore.org) |
-| **Free DAWs** | **Cakewalk Sonar** (ex-paid, now free) · **GarageBand** (Apple) · **LMMS** · **Zrythm** | Fully free | [bandlab.com/products/cakewalk](https://www.bandlab.com/products/cakewalk) · [lmms.io](https://lmms.io) |
+| **Free DAWs** | **Cakewalk Sonar** (ex-paid, now free) · **Pro Tools Intro** · **GarageBand** (Apple) · **LMMS** · **Zrythm** | Fully free | [bandlab.com/products/cakewalk](https://www.bandlab.com/products/cakewalk) · [avid.com/pro-tools](https://www.avid.com/pro-tools) |
 | **Mixxx / Serato DJ Lite** | Free DJ software | Fully free | [mixxx.org](https://mixxx.org) |
 | **OpenToonz / Krita anim** | Pro 2D animation (Studio Ghibli's suite, open-sourced) | Fully free | [opentoonz.github.io](https://opentoonz.github.io) |
 | **Waveform Free** | Free DAW (Tracktion) | Free tier | [tracktion.com](https://www.tracktion.com/products/waveform-free) |
