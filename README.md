@@ -1,7 +1,7 @@
 <!--lint disable table-pipe-alignment table-cell-padding double-link no-emphasis-as-heading awesome-list-item-->
 <div align="center">
 
-<img src=".github/social-preview.png" alt="Student Offers — The Ultimate List" width="640">
+<img src=".github/social-preview.png?v=2" alt="Student Offers — The Ultimate List" width="640">
 
 # 🎓 Student Offers — The Ultimate List
 
