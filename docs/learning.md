@@ -119,6 +119,7 @@ The **Free cert?** column tells you whether you can get a certificate without pa
 | **Connected Papers / ResearchRabbit** | Paper-discovery graphs | Free tier | [connectedpapers.com](https://www.connectedpapers.com) · [researchrabbit.ai](https://www.researchrabbit.ai) |
 | ⭐ **Zotero** | Reference manager — essential for papers/theses | Fully free (paid sync storage optional) | [zotero.org](https://www.zotero.org) |
 | **Instant citations** | **ZoteroBib** · **Scribbr** · **MyBib** — generate APA/MLA/bibtex citations free | Fully free | [zbib.org](https://zbib.org) · [scribbr.com](https://www.scribbr.com) · [mybib.com](https://www.mybib.com) |
+| **Free Citation Generator** | APA 7, MLA 9, Chicago, IEEE, Vancouver citations from a DOI, ISBN, URL or title · BibTeX/RIS export, runs in the browser | Fully free (ad-supported, no signup) | [free-citation-generator.web-free.site](https://free-citation-generator.web-free.site) |
 | **JSTOR** | Open-access journals + register & read | ~6 articles/mo free | [jstor.org](https://www.jstor.org) |
 | **PubMed** | 37M+ biomedical literature citations | Fully free | [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov) |
 | **Internet Archive Scholar** | Open-access scholarly search | Fully free | [scholar.archive.org](https://scholar.archive.org) |
