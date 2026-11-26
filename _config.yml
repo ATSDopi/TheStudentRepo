@@ -8,3 +8,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-titles-from-headings
+
+# Parse markdown inside HTML blocks (the README wraps its header
+# badges/links in <div align="center"> — without this kramdown
+# renders them as literal text)
+kramdown:
+  parse_block_html: true
