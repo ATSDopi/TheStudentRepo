@@ -99,7 +99,7 @@
 | Offer | What you get | Link |
 |---|---|---|
 | ⭐ **Educative** | 6 months (70+ courses Python/Web/Java/ML) then -30% | [educative.io](https://educative.io) |
-| ⭐ **Frontend Masters** | 6 months of all courses & workshops | [frontendmasters.com](https://frontendmasters.com) |
+| ⭐ **Frontend Masters (now Master.dev)** | 6 months of all courses & workshops | [master.dev](https://master.dev) |
 | **DataCamp** | 3 months full access | [datacamp.com/github-students](https://www.datacamp.com/github-students) |
 | **Boot.dev** | 3 months full membership (backend, DevOps, data) | [boot.dev](https://www.boot.dev) |
 | **Codédex Club** | 6 months premium | [codedex.io/github-students](https://www.codedex.io/github-students) |

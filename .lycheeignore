@@ -1,0 +1,91 @@
+# Persistent false positives for the weekly lychee run.
+# These domains fail from GitHub Actions IPs (geo-blocking, WAF, TLS quirks)
+# but work for users. Review occasionally — if one is confirmed permanently
+# dead, remove it here AND fix the docs.
+#
+# Patterns are regexes matched against each URL.
+
+# --- Government / institutional sites blocking foreign IPs (connection fails from CI) ---
+mineduc\.cl
+becasbenitojuarez\.gob\.mx
+goal\.gov\.gy
+injuve\.cdmx\.gob\.mx
+juventude\.gov\.pt
+kemdikbud\.go\.id
+kyk\.gsb\.gov\.tr
+moe\.gov\.la
+moet\.gov\.vn
+anbg\.ga
+cairo-met\.gov\.eg
+cnou\.ci
+cnoub\.bj
+coud\.sn
+dtef\.gov\.bw
+enseignementsuperieur\.gouv\.bj
+fondosolidaridad\.edu\.uy
+helb\.co\.ke
+help\.gov\.tt
+hesfb\.go\.ug
+heslb\.gov\.zm
+inagbe\.gov\.ao
+isic\.in
+jsp\.com\.mk
+korea-pass\.kr
+men\.gov\.mg
+mesri\.gouv\.sn
+mesri\.gov\.bf
+minhaty\.ma
+moe\.gov\.bz
+moe\.gov\.et
+moedu\.gov\.mv
+mppeuct\.gob\.ve
+mses\.am
+mss\.gov\.mn
+nmds\.gov\.ls
+nsfas\.org\.za
+nuol\.edu\.la
+opc\.gov\.zw
+seduc\.gob\.hn
+testingandcertification\.gov\.tt
+ucg\.ac\.me
+uvs\.edu
+uz\.ua
+hafilat\.darb\.ae
+indianrailways\.gov\.in
+kuniv\.edu\.kw
+beneficiosestudiantiles\.cl
+cnas\.dz
+fonabe\.go\.cr
+gov\.me
+junaeb\.cl
+mohe\.gov\.jo
+qr\.com\.qa
+senescyt\.gob\.ec
+usac\.edu\.gt
+ul\.edu\.lb
+gov\.br/mre
+
+# --- Broken/expired TLS on official sites (offer still valid — check again later) ---
+deutschland-stipendium\.de
+kulturpass\.de
+santepsy\.etudiant\.gouv\.fr
+eduroam\.org
+
+# --- WAF sites that fail HTTP/2 negotiation with lychee ---
+gemini\.google\.com
+bestbuy\.com
+canada\.ca
+education\.gov\.au
+emirates\.com
+qatarairways\.com
+servicesaustralia\.gov\.au
+studyassist\.gov\.au
+turkishairlines\.com
+airfrance
+chevening\.org
+australiaawards\.gov\.au
+analog\.com
+
+# --- Recurring transient timeouts ---
+nextcloud\.com
+transitlink\.com\.sg

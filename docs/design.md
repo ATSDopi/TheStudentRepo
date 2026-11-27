@@ -31,7 +31,7 @@
 | ⭐ **Ableton Live** | **-50%** on Intro/Standard/Suite (students 18+ & teachers) | ID or enrollment proof | [ableton.com/education](https://www.ableton.com/en/shop/education/) |
 | **Native Instruments 360** | NI 360 Plus for students ~$125/yr (≈-50%) | Identit-e | [native-instruments.com](https://www.native-instruments.com/pages/native-instruments-for-students-and-teachers) |
 | **iZotope** | **-50%** on plugins (Ozone, RX…) for students/faculty | Student verification | [izotope.com/pages/izo-students](https://www.izotope.com/pages/izo-students) |
-| **FabFilter** | **-50%** educational on the whole range | Enrollment proof (1 yr, renewable) | [fabfilter.com](https://prod.fabfilter.com/shop/educational-discounts) |
+| **FabFilter** | **-50%** educational on the whole range | Enrollment proof (1 yr, renewable) | [fabfilter.com](https://www.fabfilter.com/shop/educational-discounts) |
 | **Bitwig Studio EDU** | $269 full license (~-33%, commercial use OK) | EDU verification | [bitwig.com/buy-edu](https://www.bitwig.com/buy-edu/) |
 | **Audio plugins edu pricing** | Soundtoys -40%, Xfer Serum -30%, Waves ~-35%, Spitfire -30%, Arturia ~-50%, Baby Audio -45%… | Student proof per vendor | vendor edu pages |
 | **Apple Pro Apps Bundle** | Final Cut Pro + Logic Pro + Motion + Compressor + MainStage ≈ $199 | Education store | [apple.com/us-edu/store](https://www.apple.com/us-edu/store) |

@@ -48,7 +48,7 @@ The **Free cert?** column tells you whether you can get a certificate without pa
 | **roadmap.sh** | Community roadmaps (frontend, backend, DevOps…) | — | [roadmap.sh](https://roadmap.sh) |
 | **Exercism** | Coding practice in 70+ languages + free mentoring | — | [exercism.org](https://exercism.org) |
 | **Codewars** | Coding challenges ranked by difficulty | — | [codewars.com](https://www.codewars.com) |
-| **Build Your Own X / free-for.dev** | Recreate Redis/Docker/Git from scratch · the master list of dev freebies | — | [codecrafters.io/build-your-own-x](https://codecrafters.io/build-your-own-x) · [free-for.dev](https://free-for.dev) |
+| **Build Your Own X / free-for.dev** | Recreate Redis/Docker/Git from scratch · the master list of dev freebies | — | [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) · [free-for.dev](https://free-for.dev) |
 | **Refactoring.Guru / Patterns.dev** | Free design patterns & web architecture guides | — | [refactoring.guru](https://refactoring.guru) · [patterns.dev](https://www.patterns.dev) |
 | **Hugging Face Learn** | Free NLP/agents/audio courses + cert | — | [hf.co/learn](https://hf.co/learn) |
 | **SQLBolt / Mode SQL** | Interactive SQL tutorials | — | [sqlbolt.com](https://sqlbolt.com) |
@@ -90,7 +90,7 @@ The **Free cert?** column tells you whether you can get a certificate without pa
 | **Splunk free courses** | Free Splunk fundamentals | ✅ Free | [splunk.com/training](https://www.splunk.com/en_us/training.html) |
 | **INE** | Security & cloud courses | Free starter pass | [ine.com](https://ine.com) |
 | **Language Reactor** | Learn languages w/ Netflix & YouTube | Free tier | [languagereactor.com](https://www.languagereactor.com) |
-| **Photomath / Math Solver / Socratic** | Step-by-step math solvers · Google's homework helper | Free | [photomath.com](https://photomath.com) · [math.microsoft.com](https://math.microsoft.com) · [socratic.org](https://socratic.org) |
+| **Photomath / Math Solver / Google Lens** | Step-by-step math solvers · Google's homework helper (Socratic is now part of Lens) | Free | [photomath.com](https://photomath.com) · [math.microsoft.com](https://math.microsoft.com) · [lens.google](https://lens.google/) |
 
 > 💡 **Coursera trick**: most courses have a "Financial aid" link on the course page — apply, wait ~2 weeks, get the full course + certificate for free. Open to anyone, no student status needed.
 

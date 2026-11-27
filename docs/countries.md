@@ -373,7 +373,7 @@
 | **Student bank accounts** | Santander (free Railcard), NatWest/HSBC cash bonuses | UCAS proof | bank sites |
 | ⭐ **Co-op Food student** | **10% off** groceries | TOTUM / UNiDAYS | [coop.co.uk](https://www.coop.co.uk) |
 | **High street student discounts** | Boots, Apple, JD, ASOS… 10-20% | UNiDAYS / Student Beans / TOTUM | platforms |
-| **Turing Scheme** ⏳ | UK funding for study/placements abroad — **final year 2026-27**, replaced by Erasmus+ return in 2027 | Via your institution | [gov.uk](https://www.gov.uk/government/publications/turing-scheme) |
+| **Turing Scheme** ⏳ | UK funding for study/placements abroad — **final year 2026-27**, replaced by Erasmus+ return in 2027 | Via your institution | [gov.uk](https://www.gov.uk/government/collections/turing-scheme) |
 | **Multiverse apprenticeships** | Paid degree apprenticeships at Google, Meta, banks… (earn while studying) | Application | [multiverse.io](https://www.multiverse.io) |
 | **Student Art Pass** | ~£10/yr → free/discounted entry to 250+ museums | Student status | [studentartpass.org](https://www.studentartpass.org) |
 | **Cinema & food deals** | Odeon/Cineworld student fares, Greggs/other app student deals | TOTUM / ID | venues |
@@ -558,7 +558,7 @@
 
 | Offer | What you get | Verify via | Link |
 |---|---|---|---|
-| ⭐ **Student Leap Card** | Up to -50% on Dublin Bus, Luas, Irish Rail & more | Student status | [leapcard.ie/student](https://www.leapcard.ie/student) |
+| ⭐ **Student Leap Card** | Up to -50% on Dublin Bus, Luas, Irish Rail & more — apply online | Student status | [about.leapcard.ie](https://about.leapcard.ie/young-adult-and-student-card-launch) |
 | **Young Adult Leap (19-25)** | -50% transit fares even without student status | Age | [leapcard.ie](https://www.leapcard.ie) |
 | **SUSI grant** | Main grant scheme (fees + maintenance, income-tested) | Application | [susi.ie](https://www.susi.ie) |
 | **Student bank accounts** | Free accounts (BoI, AIB…) | Proof of enrollment | bank sites |
@@ -2245,7 +2245,7 @@
 
 | Offer | What you get | Verify via | Link |
 |---|---|---|---|
-| **Budget places** | **Free tuition** for top entrance-exam scores & olympiad winners | Exam results | [studyinbelarus.com](https://studyinbelarus.com) |
+| **Budget places** | **Free tuition** for top entrance-exam scores & olympiad winners | Exam results | [edu.gov.by](https://edu.gov.by) |
 | **Subsidized dorms** | State-subsidized university housing | University application | your university |
 | **Student transport discount** | Reduced Minsk metro & rail fares | Student card | city transit |
 | **ISIC** | Student ID + discounts | Enrollment | [isic.org](https://www.isic.org) |

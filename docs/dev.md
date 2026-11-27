@@ -59,7 +59,7 @@ Cloud credits, developer tools and **permanent free tiers** — the category whe
 | ML notebooks | ⭐ **Kaggle** · **Google Colab** · **SageMaker Studio Lab** | Free datasets & competitions · free GPU/TPU tier · free GPU notebooks, no AWS account | [kaggle.com](https://www.kaggle.com) · [colab.research.google.com](https://colab.research.google.com) · [studiolab.sagemaker.aws](https://studiolab.sagemaker.aws) |
 | ML app hosting | **Hugging Face Spaces** · **Streamlit Community Cloud** | Free public demos · free public apps | [huggingface.co/spaces](https://huggingface.co/spaces) · [share.streamlit.io](https://share.streamlit.io) |
 | Virtualization | **VMware Workstation/Fusion** · **VirtualBox** | Free for personal use since 2024 · fully free | [vmware.com](https://www.vmware.com/products/desktop-hypervisor) · [virtualbox.org](https://www.virtualbox.org) |
-| Cloud IDE | **Gitpod** · **CodeSandbox** · **StackBlitz** | Free tiers | [gitpod.io](https://www.gitpod.io) · [codesandbox.io](https://codesandbox.io) · [stackblitz.com](https://stackblitz.com) |
+| Cloud IDE | **Ona (ex-Gitpod)** · **CodeSandbox** · **StackBlitz** | Free tiers | [ona.com](https://ona.com) · [codesandbox.io](https://codesandbox.io) · [stackblitz.com](https://stackblitz.com) |
 | VPN | **Proton VPN** · **Cloudflare WARP** | Free no-logs tier (unlimited) · free | [protonvpn.com](https://protonvpn.com) · [one.one.one.one](https://one.one.one.one) |
 | Email testing | **Mailtrap** | Free tier | [mailtrap.io](https://mailtrap.io) |
 | Analytics (OSS) | **Umami** · **GoatCounter** | Fully free self-hosted | [umami.is](https://umami.is) · [goatcounter.com](https://www.goatcounter.com) |
