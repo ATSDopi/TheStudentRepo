@@ -10,4 +10,8 @@ check_links.py
 check_content.py
 link_report.json
 link_flags.json
-release/
+content_report.json
+
+# internal — never publish
+AGENTS.md
+launch/
