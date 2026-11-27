@@ -51,6 +51,7 @@
 | **Peer mock interviews** | Free mock interviews (Exponent community, Discord servers) | Varies | search "free mock interview" |
 | ⭐ **Forage job simulations** | Free virtual work experience from real companies (JPMorgan, Goldman, BCG, Latham…) — certificate for resume | Fully free | [theforage.com](https://www.theforage.com) |
 | **Google Interview Warmup** | AI practice questions + answer analysis | Fully free | [grow.google/interview-warmup](https://grow.google/certificates/interview-warmup/) |
+| **Aethel** | AI interview practice for your role and level, with a quick check on each answer that quotes your words; English and Spanish | Free, no account | [aethel.pro/practice](https://aethel.pro/practice) |
 | **levels.fyi** | Real salary data — negotiate informed | Fully free | [levels.fyi](https://www.levels.fyi) |
 | **Glassdoor** | Interview reviews & salaries | Free w/ account | [glassdoor.com](https://www.glassdoor.com) |
 
